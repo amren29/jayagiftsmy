@@ -1,0 +1,152 @@
+[
+  {
+    "id": "tech-accessories",
+    "name": "Tech Accessories",
+    "slug": "tech-accessories",
+    "description": "Modern technology accessories perfect for corporate gifting and promotional use.",
+    "image": "https://trae-api-sg.mchost.guru/api/ide/v1/text_to_image?prompt=modern%20tech%20accessories%20collection%2C%20wireless%20chargers%2C%20power%20banks%2C%20bluetooth%20speakers%2C%20corporate%20style&image_size=square_hd",
+    "icon": "Smartphone",
+    "productCount": 8,
+    "featured": true,
+    "seo": {
+      "title": "Tech Accessories - Corporate Technology Gifts | Yui Gifts",
+      "description": "Premium technology accessories for corporate gifting. Wireless chargers, power banks, and more.",
+      "keywords": ["tech accessories", "corporate tech gifts", "wireless chargers", "power banks"]
+    }
+  },
+  {
+    "id": "office-supplies",
+    "name": "Office Supplies",
+    "slug": "office-supplies",
+    "description": "Professional office supplies and stationery for corporate environments.",
+    "image": "https://trae-api-sg.mchost.guru/api/ide/v1/text_to_image?prompt=premium%20office%20supplies%2C%20notebooks%2C%20pens%2C%20desk%20accessories%2C%20professional%20stationery&image_size=square_hd",
+    "icon": "FileText",
+    "productCount": 6,
+    "featured": true,
+    "seo": {
+      "title": "Office Supplies - Professional Stationery | Yui Gifts",
+      "description": "High-quality office supplies and stationery for corporate use and gifting.",
+      "keywords": ["office supplies", "corporate stationery", "notebooks", "pens"]
+    }
+  },
+  {
+    "id": "drinkware",
+    "name": "Drinkware",
+    "slug": "drinkware",
+    "description": "Premium drinkware including mugs, tumblers, and water bottles for corporate branding.",
+    "image": "https://trae-api-sg.mchost.guru/api/ide/v1/text_to_image?prompt=premium%20corporate%20drinkware%2C%20coffee%20mugs%2C%20water%20bottles%2C%20tumblers%2C%20branded%20cups&image_size=square_hd",
+    "icon": "Coffee",
+    "productCount": 5,
+    "featured": true,
+    "seo": {
+      "title": "Drinkware - Corporate Mugs & Bottles | Yui Gifts",
+      "description": "Custom drinkware for corporate branding. Mugs, water bottles, and tumblers.",
+      "keywords": ["corporate drinkware", "branded mugs", "water bottles", "tumblers"]
+    }
+  },
+  {
+    "id": "bags-totes",
+    "name": "Bags & Totes",
+    "slug": "bags-totes",
+    "description": "Professional bags, totes, and briefcases for corporate use and gifting.",
+    "image": "https://trae-api-sg.mchost.guru/api/ide/v1/text_to_image?prompt=professional%20corporate%20bags%2C%20tote%20bags%2C%20briefcases%2C%20laptop%20bags%2C%20business%20style&image_size=square_hd",
+    "icon": "ShoppingBag",
+    "productCount": 4,
+    "featured": false,
+    "seo": {
+      "title": "Bags & Totes - Professional Corporate Bags | Yui Gifts",
+      "description": "High-quality bags and totes for corporate use. Briefcases, laptop bags, and more.",
+      "keywords": ["corporate bags", "tote bags", "briefcases", "laptop bags"]
+    }
+  },
+  {
+    "id": "apparel",
+    "name": "Apparel",
+    "slug": "apparel",
+    "description": "Corporate apparel and clothing for team building and promotional events.",
+    "image": "https://trae-api-sg.mchost.guru/api/ide/v1/text_to_image?prompt=corporate%20apparel%2C%20polo%20shirts%2C%20t-shirts%2C%20hoodies%2C%20professional%20clothing&image_size=square_hd",
+    "icon": "Shirt",
+    "productCount": 3,
+    "featured": false,
+    "seo": {
+      "title": "Corporate Apparel - Branded Clothing | Yui Gifts",
+      "description": "Custom corporate apparel and branded clothing for teams and events.",
+      "keywords": ["corporate apparel", "branded clothing", "polo shirts", "team wear"]
+    }
+  },
+  {
+    "id": "desk-accessories",
+    "name": "Desk Accessories",
+    "slug": "desk-accessories",
+    "description": "Elegant desk accessories and organizers for professional workspaces.",
+    "image": "https://trae-api-sg.mchost.guru/api/ide/v1/text_to_image?prompt=elegant%20desk%20accessories%2C%20pen%20holders%2C%20desk%20organizers%2C%20business%20card%20holders%2C%20office%20decor&image_size=square_hd",
+    "icon": "Monitor",
+    "productCount": 4,
+    "featured": false,
+    "seo": {
+      "title": "Desk Accessories - Professional Office Decor | Yui Gifts",
+      "description": "Premium desk accessories and organizers for professional workspaces.",
+      "keywords": ["desk accessories", "office organizers", "pen holders", "desk decor"]
+    }
+  },
+  {
+    "id": "awards-recognition",
+    "name": "Awards & Recognition",
+    "slug": "awards-recognition",
+    "description": "Custom awards, trophies, and recognition items for corporate achievements.",
+    "image": "https://trae-api-sg.mchost.guru/api/ide/v1/text_to_image?prompt=corporate%20awards%2C%20trophies%2C%20plaques%2C%20recognition%20items%2C%20achievement%20awards&image_size=square_hd",
+    "icon": "Award",
+    "productCount": 3,
+    "featured": false,
+    "seo": {
+      "title": "Awards & Recognition - Corporate Trophies | Yui Gifts",
+      "description": "Custom awards and recognition items for corporate achievements and milestones.",
+      "keywords": ["corporate awards", "trophies", "recognition items", "achievement awards"]
+    }
+  },
+  {
+    "id": "wellness-fitness",
+    "name": "Wellness & Fitness",
+    "slug": "wellness-fitness",
+    "description": "Health and wellness products to promote employee wellbeing and corporate wellness programs.",
+    "image": "https://trae-api-sg.mchost.guru/api/ide/v1/text_to_image?prompt=wellness%20fitness%20products%2C%20yoga%20mats%2C%20fitness%20trackers%2C%20water%20bottles%2C%20health%20accessories&image_size=square_hd",
+    "icon": "Heart",
+    "productCount": 2,
+    "featured": false,
+    "seo": {
+      "title": "Wellness & Fitness - Corporate Health Products | Yui Gifts",
+      "description": "Wellness and fitness products for corporate health programs and employee wellbeing.",
+      "keywords": ["wellness products", "fitness accessories", "corporate health", "employee wellness"]
+    }
+  },
+  {
+    "id": "eco-friendly",
+    "name": "Eco-Friendly",
+    "slug": "eco-friendly",
+    "description": "Sustainable and environmentally conscious products for eco-minded corporations.",
+    "image": "https://trae-api-sg.mchost.guru/api/ide/v1/text_to_image?prompt=eco-friendly%20products%2C%20sustainable%20materials%2C%20bamboo%20accessories%2C%20recycled%20items%2C%20green%20corporate%20gifts&image_size=square_hd",
+    "icon": "Leaf",
+    "productCount": 2,
+    "featured": false,
+    "seo": {
+      "title": "Eco-Friendly Products - Sustainable Corporate Gifts | Yui Gifts",
+      "description": "Sustainable and eco-friendly corporate gifts for environmentally conscious businesses.",
+      "keywords": ["eco-friendly gifts", "sustainable products", "green corporate gifts", "bamboo accessories"]
+    }
+  },
+  {
+    "id": "luxury-gifts",
+    "name": "Luxury Gifts",
+    "slug": "luxury-gifts",
+    "description": "Premium luxury items for executive gifting and high-value corporate relationships.",
+    "image": "https://trae-api-sg.mchost.guru/api/ide/v1/text_to_image?prompt=luxury%20corporate%20gifts%2C%20premium%20items%2C%20executive%20gifts%2C%20high-end%20accessories%2C%20elegant%20presentation&image_size=square_hd",
+    "icon": "Crown",
+    "productCount": 1,
+    "featured": false,
+    "seo": {
+      "title": "Luxury Gifts - Premium Corporate Gifts | Yui Gifts",
+      "description": "Exclusive luxury gifts for executive and high-value corporate relationships.",
+      "keywords": ["luxury corporate gifts", "executive gifts", "premium items", "high-end gifts"]
+    }
+  }
+]

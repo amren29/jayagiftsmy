@@ -1,0 +1,110 @@
+[
+  {
+    "id": "cat-001",
+    "name": "Corporate Gifts",
+    "slug": "corporate-gifts",
+    "description": "Premium corporate gifts perfect for client appreciation, employee recognition, and business events.",
+    "image": "/images/categories/corporate-gifts.jpg",
+    "featured": true,
+    "productCount": 45
+  },
+  {
+    "id": "cat-002",
+    "name": "Promotional Items",
+    "slug": "promotional-items",
+    "description": "Eye-catching promotional products to boost your brand visibility and marketing campaigns.",
+    "image": "/images/categories/promotional-items.jpg",
+    "featured": true,
+    "productCount": 38
+  },
+  {
+    "id": "cat-003",
+    "name": "Tech Accessories",
+    "slug": "tech-accessories",
+    "description": "Modern tech accessories including power banks, USB drives, wireless chargers, and more.",
+    "image": "/images/categories/tech-accessories.jpg",
+    "featured": true,
+    "productCount": 32
+  },
+  {
+    "id": "cat-004",
+    "name": "Apparel & Textiles",
+    "slug": "apparel-textiles",
+    "description": "Custom branded clothing, uniforms, and textile products for corporate and promotional use.",
+    "image": "/images/categories/apparel-textiles.jpg",
+    "featured": true,
+    "productCount": 28
+  },
+  {
+    "id": "cat-005",
+    "name": "Bags & Luggage",
+    "slug": "bags-luggage",
+    "description": "Professional bags, briefcases, backpacks, and travel accessories with custom branding options.",
+    "image": "/images/categories/bags-luggage.jpg",
+    "featured": true,
+    "productCount": 25
+  },
+  {
+    "id": "cat-006",
+    "name": "Drinkware",
+    "slug": "drinkware",
+    "description": "Custom mugs, tumblers, water bottles, and drinkware for corporate gifting and promotions.",
+    "image": "/images/categories/drinkware.jpg",
+    "featured": true,
+    "productCount": 22
+  },
+  {
+    "id": "cat-007",
+    "name": "Office Supplies",
+    "slug": "office-supplies",
+    "description": "Branded stationery, desk accessories, and office essentials for professional environments.",
+    "image": "/images/categories/office-supplies.jpg",
+    "featured": false,
+    "productCount": 35
+  },
+  {
+    "id": "cat-008",
+    "name": "Awards & Recognition",
+    "slug": "awards-recognition",
+    "description": "Trophies, plaques, medals, and recognition items for employee appreciation and achievements.",
+    "image": "/images/categories/awards-recognition.jpg",
+    "featured": false,
+    "productCount": 18
+  },
+  {
+    "id": "cat-009",
+    "name": "Health & Wellness",
+    "slug": "health-wellness",
+    "description": "Wellness products, fitness accessories, and health-focused promotional items.",
+    "image": "/images/categories/health-wellness.jpg",
+    "featured": false,
+    "productCount": 15
+  },
+  {
+    "id": "cat-010",
+    "name": "Eco-Friendly Products",
+    "slug": "eco-friendly",
+    "description": "Sustainable and environmentally conscious products for eco-minded businesses.",
+    "image": "/images/categories/eco-friendly.jpg",
+    "featured": true,
+    "productCount": 20
+  },
+  {
+    "id": "cat-011",
+    "name": "Event & Trade Show",
+    "slug": "event-trade-show",
+    "description": "Exhibition displays, banners, giveaways, and promotional materials for events and trade shows.",
+    "image": "/images/categories/event-trade-show.jpg",
+    "featured": false,
+    "productCount": 12
+  },
+  {
+    "id": "cat-012",
+    "name": "Gift Sets",
+    "slug": "gift-sets",
+    "description": "Curated gift sets and premium packages perfect for special occasions and VIP clients.",
+    "image": "/images/categories/gift-sets.jpg",
+    "featured": false,
+    "productCount": 8
+  }
+]

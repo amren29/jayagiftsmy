@@ -1,0 +1,858 @@
+[
+  {
+    "id": "prod-001",
+    "name": "Premium Executive Pen Set",
+    "slug": "premium-executive-pen-set",
+    "description": "Elegant executive pen set with custom engraving options. Perfect for corporate gifts and client appreciation. Includes ballpoint and rollerball pens in premium gift box.",
+    "categoryId": "cat-001",
+    "images": [
+      "/images/products/executive-pen-set-1.jpg",
+      "/images/products/executive-pen-set-2.jpg",
+      "/images/products/executive-pen-set-3.jpg"
+    ],
+    "minUnitPrice": 45.00,
+    "maxUnitPrice": 65.00,
+    "featured": true,
+    "tags": ["premium", "customizable", "corporate", "bestseller"],
+    "imprintOptions": ["Laser Engraving", "Screen Printing"],
+    "specs": {
+      "material": "Premium Metal",
+      "dimensions": "15cm x 3cm x 2cm",
+      "weight": "120g",
+      "packaging": "Premium Gift Box",
+      "colors": ["Black", "Silver", "Gold"]
+    },
+    "variants": [
+      {
+        "id": "var-001-1",
+        "name": "Black Executive Set",
+        "sku": "PEN-EXE-BLK",
+        "color": "Black",
+        "material": "Premium Metal",
+        "moqs": [
+          { "quantity": 50, "unitPrice": 65.00 },
+          { "quantity": 100, "unitPrice": 58.00 },
+          { "quantity": 250, "unitPrice": 52.00 },
+          { "quantity": 500, "unitPrice": 45.00 }
+        ]
+      },
+      {
+        "id": "var-001-2",
+        "name": "Silver Executive Set",
+        "sku": "PEN-EXE-SIL",
+        "color": "Silver",
+        "material": "Premium Metal",
+        "moqs": [
+          { "quantity": 50, "unitPrice": 65.00 },
+          { "quantity": 100, "unitPrice": 58.00 },
+          { "quantity": 250, "unitPrice": 52.00 },
+          { "quantity": 500, "unitPrice": 45.00 }
+        ]
+      }
+    ]
+  },
+  {
+    "id": "prod-002",
+    "name": "Wireless Power Bank 10000mAh",
+    "slug": "wireless-power-bank-10000mah",
+    "description": "High-capacity wireless power bank with fast charging technology. Features wireless charging pad and multiple USB ports. Perfect for tech-savvy professionals.",
+    "categoryId": "cat-003",
+    "images": [
+      "/images/products/wireless-power-bank-1.jpg",
+      "/images/products/wireless-power-bank-2.jpg",
+      "/images/products/wireless-power-bank-3.jpg",
+      "/images/products/wireless-power-bank-4.jpg"
+    ],
+    "minUnitPrice": 35.00,
+    "maxUnitPrice": 55.00,
+    "featured": true,
+    "tags": ["tech", "wireless", "popular", "fast-delivery"],
+    "imprintOptions": ["UV Printing", "Laser Engraving"],
+    "specs": {
+      "capacity": "10000mAh",
+      "input": "USB-C 18W",
+      "output": "Wireless 10W, USB-A 18W",
+      "dimensions": "14cm x 7cm x 1.5cm",
+      "weight": "220g",
+      "colors": ["Black", "White", "Blue"]
+    },
+    "variants": [
+      {
+        "id": "var-002-1",
+        "name": "Black Power Bank",
+        "sku": "PWR-WRL-BLK",
+        "color": "Black",
+        "material": "ABS Plastic",
+        "moqs": [
+          { "quantity": 25, "unitPrice": 55.00 },
+          { "quantity": 50, "unitPrice": 48.00 },
+          { "quantity": 100, "unitPrice": 42.00 },
+          { "quantity": 250, "unitPrice": 35.00 }
+        ]
+      }
+    ]
+  },
+  {
+    "id": "prod-003",
+    "name": "Custom Polo Shirt",
+    "slug": "custom-polo-shirt",
+    "description": "High-quality cotton polo shirt with custom embroidery options. Available in multiple colors and sizes. Perfect for corporate uniforms and team building events.",
+    "categoryId": "cat-004",
+    "images": [
+      "/images/products/polo-shirt-1.jpg",
+      "/images/products/polo-shirt-2.jpg",
+      "/images/products/polo-shirt-3.jpg"
+    ],
+    "minUnitPrice": 18.00,
+    "maxUnitPrice": 28.00,
+    "featured": false,
+    "tags": ["apparel", "customizable", "bulk-discount", "corporate"],
+    "imprintOptions": ["Embroidery", "Heat Transfer", "Screen Printing"],
+    "specs": {
+      "material": "100% Cotton Pique",
+      "sizes": ["XS", "S", "M", "L", "XL", "XXL"],
+      "weight": "180gsm",
+      "colors": ["White", "Black", "Navy", "Red", "Royal Blue", "Grey"]
+    },
+    "variants": [
+      {
+        "id": "var-003-1",
+        "name": "White Polo Shirt",
+        "sku": "POLO-WHT",
+        "color": "White",
+        "material": "Cotton",
+        "moqs": [
+          { "quantity": 50, "unitPrice": 28.00 },
+          { "quantity": 100, "unitPrice": 24.00 },
+          { "quantity": 250, "unitPrice": 21.00 },
+          { "quantity": 500, "unitPrice": 18.00 }
+        ]
+      }
+    ]
+  },
+  {
+    "id": "prod-004",
+    "name": "Insulated Stainless Steel Tumbler",
+    "slug": "insulated-stainless-steel-tumbler",
+    "description": "Double-wall insulated tumbler that keeps drinks hot for 6 hours and cold for 12 hours. Features leak-proof lid and custom engraving area.",
+    "categoryId": "cat-006",
+    "images": [
+      "/images/products/steel-tumbler-1.jpg",
+      "/images/products/steel-tumbler-2.jpg"
+    ],
+    "minUnitPrice": 22.00,
+    "maxUnitPrice": 32.00,
+    "featured": true,
+    "tags": ["drinkware", "insulated", "eco-friendly", "popular"],
+    "imprintOptions": ["Laser Engraving", "UV Printing"],
+    "specs": {
+      "capacity": "500ml",
+      "material": "304 Stainless Steel",
+      "dimensions": "20cm x 8cm",
+      "weight": "280g",
+      "colors": ["Silver", "Black", "Blue", "Red"]
+    },
+    "variants": [
+      {
+        "id": "var-004-1",
+        "name": "Silver Tumbler",
+        "sku": "TUM-SS-SIL",
+        "color": "Silver",
+        "material": "Stainless Steel",
+        "moqs": [
+          { "quantity": 25, "unitPrice": 32.00 },
+          { "quantity": 50, "unitPrice": 28.00 },
+          { "quantity": 100, "unitPrice": 25.00 },
+          { "quantity": 250, "unitPrice": 22.00 }
+        ]
+      }
+    ]
+  },
+  {
+    "id": "prod-005",
+    "name": "Executive Leather Portfolio",
+    "slug": "executive-leather-portfolio",
+    "description": "Premium leather portfolio with notepad, business card holder, and pen loop. Perfect for meetings and presentations. Available with custom debossing.",
+    "categoryId": "cat-005",
+    "images": [
+      "/images/products/leather-portfolio-1.jpg",
+      "/images/products/leather-portfolio-2.jpg",
+      "/images/products/leather-portfolio-3.jpg"
+    ],
+    "minUnitPrice": 65.00,
+    "maxUnitPrice": 85.00,
+    "featured": false,
+    "tags": ["leather", "premium", "executive", "customizable"],
+    "imprintOptions": ["Debossing", "Embossing", "Screen Printing"],
+    "specs": {
+      "material": "Genuine Leather",
+      "dimensions": "32cm x 25cm x 2cm",
+      "weight": "450g",
+      "colors": ["Black", "Brown", "Burgundy"]
+    },
+    "variants": [
+      {
+        "id": "var-005-1",
+        "name": "Black Leather Portfolio",
+        "sku": "PORT-LEA-BLK",
+        "color": "Black",
+        "material": "Leather",
+        "moqs": [
+          { "quantity": 25, "unitPrice": 85.00 },
+          { "quantity": 50, "unitPrice": 78.00 },
+          { "quantity": 100, "unitPrice": 72.00 },
+          { "quantity": 250, "unitPrice": 65.00 }
+        ]
+      }
+    ]
+  },
+  {
+    "id": "prod-006",
+    "name": "Bluetooth Speaker with Wireless Charging",
+    "slug": "bluetooth-speaker-wireless-charging",
+    "description": "Compact Bluetooth speaker with built-in wireless charging pad. Premium sound quality with 8-hour battery life. Perfect tech gift for modern professionals.",
+    "categoryId": "cat-003",
+    "images": [
+      "/images/products/bluetooth-speaker-1.jpg",
+      "/images/products/bluetooth-speaker-2.jpg"
+    ],
+    "minUnitPrice": 48.00,
+    "maxUnitPrice": 68.00,
+    "featured": true,
+    "tags": ["tech", "bluetooth", "wireless", "new-arrival"],
+    "imprintOptions": ["UV Printing", "Laser Engraving"],
+    "specs": {
+      "bluetooth": "5.0",
+      "battery": "8 hours playback",
+      "charging": "Wireless 10W",
+      "dimensions": "12cm x 8cm x 4cm",
+      "weight": "320g",
+      "colors": ["Black", "White", "Grey"]
+    },
+    "variants": [
+      {
+        "id": "var-006-1",
+        "name": "Black Bluetooth Speaker",
+        "sku": "SPK-BT-BLK",
+        "color": "Black",
+        "material": "ABS Plastic",
+        "moqs": [
+          { "quantity": 25, "unitPrice": 68.00 },
+          { "quantity": 50, "unitPrice": 62.00 },
+          { "quantity": 100, "unitPrice": 55.00 },
+          { "quantity": 250, "unitPrice": 48.00 }
+        ]
+      }
+    ]
+  },
+  {
+    "id": "prod-007",
+    "name": "Eco-Friendly Bamboo Desk Organizer",
+    "slug": "eco-friendly-bamboo-desk-organizer",
+    "description": "Sustainable bamboo desk organizer with multiple compartments for pens, cards, and accessories. Perfect for eco-conscious businesses and green initiatives.",
+    "categoryId": "cat-010",
+    "images": [
+      "/images/products/bamboo-organizer-1.jpg",
+      "/images/products/bamboo-organizer-2.jpg"
+    ],
+    "minUnitPrice": 25.00,
+    "maxUnitPrice": 35.00,
+    "featured": false,
+    "tags": ["eco-friendly", "bamboo", "sustainable", "office"],
+    "imprintOptions": ["Laser Engraving", "UV Printing"],
+    "specs": {
+      "material": "Natural Bamboo",
+      "dimensions": "20cm x 15cm x 8cm",
+      "weight": "180g",
+      "finish": "Natural Oil Finish",
+      "colors": ["Natural"]
+    },
+    "variants": [
+      {
+        "id": "var-007-1",
+        "name": "Natural Bamboo Organizer",
+        "sku": "ORG-BAM-NAT",
+        "color": "Natural",
+        "material": "Bamboo",
+        "moqs": [
+          { "quantity": 50, "unitPrice": 35.00 },
+          { "quantity": 100, "unitPrice": 31.00 },
+          { "quantity": 250, "unitPrice": 28.00 },
+          { "quantity": 500, "unitPrice": 25.00 }
+        ]
+      }
+    ]
+  },
+  {
+    "id": "prod-008",
+    "name": "Crystal Award Trophy",
+    "slug": "crystal-award-trophy",
+    "description": "Elegant crystal award trophy for employee recognition and achievement ceremonies. Features custom engraving area and premium presentation box.",
+    "categoryId": "cat-008",
+    "images": [
+      "/images/products/crystal-trophy-1.jpg",
+      "/images/products/crystal-trophy-2.jpg"
+    ],
+    "minUnitPrice": 85.00,
+    "maxUnitPrice": 120.00,
+    "featured": false,
+    "tags": ["crystal", "award", "premium", "recognition"],
+    "imprintOptions": ["Laser Engraving", "Sandblasting"],
+    "specs": {
+      "material": "Optical Crystal",
+      "dimensions": "15cm x 8cm x 5cm",
+      "weight": "650g",
+      "base": "Crystal Base",
+      "packaging": "Premium Gift Box"
+    },
+    "variants": [
+      {
+        "id": "var-008-1",
+        "name": "Standard Crystal Trophy",
+        "sku": "TRO-CRY-STD",
+        "color": "Clear",
+        "material": "Crystal",
+        "moqs": [
+          { "quantity": 10, "unitPrice": 120.00 },
+          { "quantity": 25, "unitPrice": 105.00 },
+          { "quantity": 50, "unitPrice": 95.00 },
+          { "quantity": 100, "unitPrice": 85.00 }
+        ]
+      }
+    ]
+  },
+  {
+    "id": "prod-009",
+    "name": "Fitness Tracker Smart Band",
+    "slug": "fitness-tracker-smart-band",
+    "description": "Advanced fitness tracker with heart rate monitoring, sleep tracking, and smartphone notifications. Perfect for health-conscious corporate wellness programs.",
+    "categoryId": "cat-009",
+    "images": [
+      "/images/products/fitness-tracker-1.jpg",
+      "/images/products/fitness-tracker-2.jpg",
+      "/images/products/fitness-tracker-3.jpg"
+    ],
+    "minUnitPrice": 42.00,
+    "maxUnitPrice": 58.00,
+    "featured": true,
+    "tags": ["fitness", "health", "smart", "wellness"],
+    "imprintOptions": ["UV Printing", "Laser Engraving"],
+    "specs": {
+      "display": "1.3 inch Color Screen",
+      "battery": "7 days standby",
+      "waterproof": "IP67",
+      "connectivity": "Bluetooth 5.0",
+      "colors": ["Black", "Blue", "Pink"]
+    },
+    "variants": [
+      {
+        "id": "var-009-1",
+        "name": "Black Fitness Tracker",
+        "sku": "FIT-TRK-BLK",
+        "color": "Black",
+        "material": "Silicone",
+        "moqs": [
+          { "quantity": 25, "unitPrice": 58.00 },
+          { "quantity": 50, "unitPrice": 52.00 },
+          { "quantity": 100, "unitPrice": 47.00 },
+          { "quantity": 250, "unitPrice": 42.00 }
+        ]
+      }
+    ]
+  },
+  {
+    "id": "prod-010",
+    "name": "Premium Gift Set - Executive Collection",
+    "slug": "premium-gift-set-executive-collection",
+    "description": "Luxurious executive gift set including leather portfolio, premium pen, business card holder, and keychain. Beautifully packaged in wooden presentation box.",
+    "categoryId": "cat-012",
+    "images": [
+      "/images/products/executive-gift-set-1.jpg",
+      "/images/products/executive-gift-set-2.jpg",
+      "/images/products/executive-gift-set-3.jpg"
+    ],
+    "minUnitPrice": 125.00,
+    "maxUnitPrice": 165.00,
+    "featured": true,
+    "tags": ["gift-set", "premium", "executive", "luxury"],
+    "imprintOptions": ["Laser Engraving", "Debossing", "Screen Printing"],
+    "specs": {
+      "contents": "Portfolio, Pen, Card Holder, Keychain",
+      "packaging": "Wooden Presentation Box",
+      "dimensions": "35cm x 25cm x 8cm",
+      "weight": "1.2kg",
+      "colors": ["Black", "Brown"]
+    },
+    "variants": [
+      {
+        "id": "var-010-1",
+        "name": "Black Executive Gift Set",
+        "sku": "GFT-EXE-BLK",
+        "color": "Black",
+        "material": "Leather",
+        "moqs": [
+          { "quantity": 10, "unitPrice": 165.00 },
+          { "quantity": 25, "unitPrice": 148.00 },
+          { "quantity": 50, "unitPrice": 138.00 },
+          { "quantity": 100, "unitPrice": 125.00 }
+        ]
+      }
+    ]
+  },
+  {
+    "id": "prod-011",
+    "name": "Custom USB Flash Drive",
+    "slug": "custom-usb-flash-drive",
+    "description": "High-speed USB 3.0 flash drive with custom logo printing. Available in multiple capacities and colors. Perfect for data sharing and promotional giveaways.",
+    "categoryId": "cat-003",
+    "images": [
+      "/images/products/usb-flash-drive-1.jpg",
+      "/images/products/usb-flash-drive-2.jpg"
+    ],
+    "minUnitPrice": 8.00,
+    "maxUnitPrice": 18.00,
+    "featured": false,
+    "tags": ["tech", "usb", "promotional", "bulk-discount"],
+    "imprintOptions": ["UV Printing", "Laser Engraving"],
+    "specs": {
+      "capacity": "8GB, 16GB, 32GB",
+      "interface": "USB 3.0",
+      "dimensions": "6cm x 2cm x 1cm",
+      "weight": "15g",
+      "colors": ["Black", "White", "Blue", "Red"]
+    },
+    "variants": [
+      {
+        "id": "var-011-1",
+        "name": "8GB USB Drive",
+        "sku": "USB-8GB-BLK",
+        "color": "Black",
+        "material": "Plastic",
+        "moqs": [
+          { "quantity": 100, "unitPrice": 18.00 },
+          { "quantity": 250, "unitPrice": 15.00 },
+          { "quantity": 500, "unitPrice": 12.00 },
+          { "quantity": 1000, "unitPrice": 8.00 }
+        ]
+      }
+    ]
+  },
+  {
+    "id": "prod-012",
+    "name": "Branded Notebook with Pen",
+    "slug": "branded-notebook-with-pen",
+    "description": "Professional hardcover notebook with matching pen. Features lined pages, elastic closure, and ribbon bookmark. Perfect for corporate meetings and conferences.",
+    "categoryId": "cat-007",
+    "images": [
+      "/images/products/notebook-pen-1.jpg",
+      "/images/products/notebook-pen-2.jpg"
+    ],
+    "minUnitPrice": 12.00,
+    "maxUnitPrice": 18.00,
+    "featured": false,
+    "tags": ["notebook", "stationery", "corporate", "customizable"],
+    "imprintOptions": ["Screen Printing", "Debossing", "UV Printing"],
+    "specs": {
+      "pages": "192 lined pages",
+      "size": "A5 (21cm x 14cm)",
+      "cover": "Hardcover PU Leather",
+      "weight": "280g",
+      "colors": ["Black", "Brown", "Navy", "Red"]
+    },
+    "variants": [
+      {
+        "id": "var-012-1",
+        "name": "Black Notebook Set",
+        "sku": "NB-PEN-BLK",
+        "color": "Black",
+        "material": "PU Leather",
+        "moqs": [
+          { "quantity": 50, "unitPrice": 18.00 },
+          { "quantity": 100, "unitPrice": 16.00 },
+          { "quantity": 250, "unitPrice": 14.00 },
+          { "quantity": 500, "unitPrice": 12.00 }
+        ]
+      }
+    ]
+  },
+  {
+    "id": "prod-013",
+    "name": "Promotional T-Shirt",
+    "slug": "promotional-t-shirt",
+    "description": "High-quality cotton t-shirt perfect for promotional campaigns, events, and team building. Available in multiple colors with custom printing options.",
+    "categoryId": "cat-002",
+    "images": [
+      "/images/products/promotional-tshirt-1.jpg",
+      "/images/products/promotional-tshirt-2.jpg"
+    ],
+    "minUnitPrice": 8.00,
+    "maxUnitPrice": 15.00,
+    "featured": false,
+    "tags": ["apparel", "promotional", "bulk-discount", "customizable"],
+    "imprintOptions": ["Screen Printing", "Heat Transfer", "Digital Printing"],
+    "specs": {
+      "material": "100% Cotton",
+      "weight": "160gsm",
+      "sizes": ["XS", "S", "M", "L", "XL", "XXL"],
+      "colors": ["White", "Black", "Navy", "Red", "Royal Blue", "Grey", "Green"]
+    },
+    "variants": [
+      {
+        "id": "var-013-1",
+        "name": "White T-Shirt",
+        "sku": "TSH-WHT",
+        "color": "White",
+        "material": "Cotton",
+        "moqs": [
+          { "quantity": 100, "unitPrice": 15.00 },
+          { "quantity": 250, "unitPrice": 12.00 },
+          { "quantity": 500, "unitPrice": 10.00 },
+          { "quantity": 1000, "unitPrice": 8.00 }
+        ]
+      }
+    ]
+  },
+  {
+    "id": "prod-014",
+    "name": "Travel Mug with Handle",
+    "slug": "travel-mug-with-handle",
+    "description": "Insulated travel mug with comfortable handle and spill-proof lid. Keeps beverages hot for 4 hours. Perfect for daily commuters and office workers.",
+    "categoryId": "cat-006",
+    "images": [
+      "/images/products/travel-mug-1.jpg",
+      "/images/products/travel-mug-2.jpg"
+    ],
+    "minUnitPrice": 15.00,
+    "maxUnitPrice": 22.00,
+    "featured": false,
+    "tags": ["drinkware", "travel", "insulated", "popular"],
+    "imprintOptions": ["Screen Printing", "UV Printing"],
+    "specs": {
+      "capacity": "400ml",
+      "material": "Double Wall Plastic",
+      "dimensions": "18cm x 9cm",
+      "weight": "180g",
+      "colors": ["Black", "White", "Blue", "Red"]
+    },
+    "variants": [
+      {
+        "id": "var-014-1",
+        "name": "Black Travel Mug",
+        "sku": "MUG-TRV-BLK",
+        "color": "Black",
+        "material": "Plastic",
+        "moqs": [
+          { "quantity": 50, "unitPrice": 22.00 },
+          { "quantity": 100, "unitPrice": 19.00 },
+          { "quantity": 250, "unitPrice": 17.00 },
+          { "quantity": 500, "unitPrice": 15.00 }
+        ]
+      }
+    ]
+  },
+  {
+    "id": "prod-015",
+    "name": "Canvas Tote Bag",
+    "slug": "canvas-tote-bag",
+    "description": "Eco-friendly canvas tote bag perfect for shopping, events, and promotional giveaways. Durable construction with reinforced handles and custom printing area.",
+    "categoryId": "cat-005",
+    "images": [
+      "/images/products/canvas-tote-1.jpg",
+      "/images/products/canvas-tote-2.jpg"
+    ],
+    "minUnitPrice": 6.00,
+    "maxUnitPrice": 12.00,
+    "featured": false,
+    "tags": ["eco-friendly", "canvas", "promotional", "bulk-discount"],
+    "imprintOptions": ["Screen Printing", "Heat Transfer"],
+    "specs": {
+      "material": "100% Cotton Canvas",
+      "dimensions": "38cm x 42cm",
+      "handle": "60cm long handles",
+      "weight": "140g",
+      "colors": ["Natural", "Black", "Navy", "Red"]
+    },
+    "variants": [
+      {
+        "id": "var-015-1",
+        "name": "Natural Canvas Tote",
+        "sku": "BAG-TOT-NAT",
+        "color": "Natural",
+        "material": "Canvas",
+        "moqs": [
+          { "quantity": 100, "unitPrice": 12.00 },
+          { "quantity": 250, "unitPrice": 9.00 },
+          { "quantity": 500, "unitPrice": 7.50 },
+          { "quantity": 1000, "unitPrice": 6.00 }
+        ]
+      }
+    ]
+  },
+  {
+    "id": "prod-016",
+    "name": "Desk Calendar with Custom Photos",
+    "slug": "desk-calendar-custom-photos",
+    "description": "Professional desk calendar with custom photo printing. Features monthly view, holidays marked, and ample space for notes. Perfect corporate gift for year-end.",
+    "categoryId": "cat-007",
+    "images": [
+      "/images/products/desk-calendar-1.jpg",
+      "/images/products/desk-calendar-2.jpg"
+    ],
+    "minUnitPrice": 8.00,
+    "maxUnitPrice": 15.00,
+    "featured": false,
+    "tags": ["calendar", "office", "customizable", "corporate"],
+    "imprintOptions": ["Digital Printing", "UV Printing"],
+    "specs": {
+      "size": "A5 (21cm x 14cm)",
+      "pages": "13 pages (cover + 12 months)",
+      "paper": "250gsm Art Paper",
+      "binding": "Wire-O Binding",
+      "stand": "Built-in easel stand"
+    },
+    "variants": [
+      {
+        "id": "var-016-1",
+        "name": "Standard Desk Calendar",
+        "sku": "CAL-DSK-STD",
+        "color": "Full Color",
+        "material": "Paper",
+        "moqs": [
+          { "quantity": 100, "unitPrice": 15.00 },
+          { "quantity": 250, "unitPrice": 12.00 },
+          { "quantity": 500, "unitPrice": 10.00 },
+          { "quantity": 1000, "unitPrice": 8.00 }
+        ]
+      }
+    ]
+  },
+  {
+    "id": "prod-017",
+    "name": "Wireless Mouse with Custom Logo",
+    "slug": "wireless-mouse-custom-logo",
+    "description": "Ergonomic wireless mouse with 2.4GHz connectivity and long battery life. Features custom logo printing area and comfortable grip design.",
+    "categoryId": "cat-003",
+    "images": [
+      "/images/products/wireless-mouse-1.jpg",
+      "/images/products/wireless-mouse-2.jpg"
+    ],
+    "minUnitPrice": 12.00,
+    "maxUnitPrice": 20.00,
+    "featured": false,
+    "tags": ["tech", "wireless", "office", "customizable"],
+    "imprintOptions": ["UV Printing", "Laser Engraving"],
+    "specs": {
+      "connectivity": "2.4GHz Wireless",
+      "range": "10 meters",
+      "battery": "2 x AAA (included)",
+      "dimensions": "11cm x 6cm x 3cm",
+      "colors": ["Black", "White", "Grey"]
+    },
+    "variants": [
+      {
+        "id": "var-017-1",
+        "name": "Black Wireless Mouse",
+        "sku": "MOU-WRL-BLK",
+        "color": "Black",
+        "material": "ABS Plastic",
+        "moqs": [
+          { "quantity": 50, "unitPrice": 20.00 },
+          { "quantity": 100, "unitPrice": 17.00 },
+          { "quantity": 250, "unitPrice": 15.00 },
+          { "quantity": 500, "unitPrice": 12.00 }
+        ]
+      }
+    ]
+  },
+  {
+    "id": "prod-018",
+    "name": "Stress Ball with Logo",
+    "slug": "stress-ball-with-logo",
+    "description": "Soft foam stress ball perfect for stress relief and promotional giveaways. Features large imprint area for custom logos and messages.",
+    "categoryId": "cat-009",
+    "images": [
+      "/images/products/stress-ball-1.jpg",
+      "/images/products/stress-ball-2.jpg"
+    ],
+    "minUnitPrice": 2.50,
+    "maxUnitPrice": 5.00,
+    "featured": false,
+    "tags": ["stress-relief", "promotional", "health", "bulk-discount"],
+    "imprintOptions": ["Screen Printing", "Pad Printing"],
+    "specs": {
+      "material": "PU Foam",
+      "diameter": "6.5cm",
+      "weight": "45g",
+      "colors": ["White", "Blue", "Red", "Green", "Yellow"]
+    },
+    "variants": [
+      {
+        "id": "var-018-1",
+        "name": "White Stress Ball",
+        "sku": "STR-BAL-WHT",
+        "color": "White",
+        "material": "PU Foam",
+        "moqs": [
+          { "quantity": 250, "unitPrice": 5.00 },
+          { "quantity": 500, "unitPrice": 4.00 },
+          { "quantity": 1000, "unitPrice": 3.20 },
+          { "quantity": 2500, "unitPrice": 2.50 }
+        ]
+      }
+    ]
+  },
+  {
+    "id": "prod-019",
+    "name": "Pop-Up Banner Stand",
+    "slug": "pop-up-banner-stand",
+    "description": "Portable pop-up banner stand perfect for trade shows, exhibitions, and events. Easy setup with custom graphic printing and carrying case included.",
+    "categoryId": "cat-011",
+    "images": [
+      "/images/products/banner-stand-1.jpg",
+      "/images/products/banner-stand-2.jpg"
+    ],
+    "minUnitPrice": 85.00,
+    "maxUnitPrice": 120.00,
+    "featured": false,
+    "tags": ["banner", "exhibition", "trade-show", "portable"],
+    "imprintOptions": ["Digital Printing"],
+    "specs": {
+      "size": "85cm x 200cm",
+      "material": "Aluminum Frame + PVC Banner",
+      "weight": "2.5kg",
+      "setup": "Tool-free assembly",
+      "includes": "Carrying case"
+    },
+    "variants": [
+      {
+        "id": "var-019-1",
+        "name": "Standard Banner Stand",
+        "sku": "BAN-STD-85",
+        "color": "Silver Frame",
+        "material": "Aluminum",
+        "moqs": [
+          { "quantity": 5, "unitPrice": 120.00 },
+          { "quantity": 10, "unitPrice": 105.00 },
+          { "quantity": 25, "unitPrice": 95.00 },
+          { "quantity": 50, "unitPrice": 85.00 }
+        ]
+      }
+    ]
+  },
+  {
+    "id": "prod-020",
+    "name": "Recycled Paper Notebook",
+    "slug": "recycled-paper-notebook",
+    "description": "Eco-friendly notebook made from 100% recycled paper. Features spiral binding, perforated pages, and custom cover printing. Perfect for green initiatives.",
+    "categoryId": "cat-010",
+    "images": [
+      "/images/products/recycled-notebook-1.jpg",
+      "/images/products/recycled-notebook-2.jpg"
+    ],
+    "minUnitPrice": 4.00,
+    "maxUnitPrice": 8.00,
+    "featured": false,
+    "tags": ["eco-friendly", "recycled", "notebook", "sustainable"],
+    "imprintOptions": ["Screen Printing", "Digital Printing"],
+    "specs": {
+      "pages": "80 lined pages",
+      "paper": "100% Recycled Paper",
+      "size": "A5 (21cm x 14cm)",
+      "binding": "Spiral Wire",
+      "colors": ["Natural", "Green", "Blue"]
+    },
+    "variants": [
+      {
+        "id": "var-020-1",
+        "name": "Natural Recycled Notebook",
+        "sku": "NB-REC-NAT",
+        "color": "Natural",
+        "material": "Recycled Paper",
+        "moqs": [
+          { "quantity": 100, "unitPrice": 8.00 },
+          { "quantity": 250, "unitPrice": 6.50 },
+          { "quantity": 500, "unitPrice": 5.50 },
+          { "quantity": 1000, "unitPrice": 4.00 }
+        ]
+      }
+    ]
+  },
+  {
+    "id": "prod-021",
+    "name": "Ceramic Coffee Mug",
+    "slug": "ceramic-coffee-mug",
+    "description": "Classic ceramic coffee mug with comfortable handle and smooth finish. Perfect for office use and promotional campaigns. Available with full-color printing.",
+    "categoryId": "cat-006",
+    "images": [
+      "/images/products/ceramic-mug-1.jpg",
+      "/images/products/ceramic-mug-2.jpg"
+    ],
+    "minUnitPrice": 5.00,
+    "maxUnitPrice": 10.00,
+    "featured": false,
+    "tags": ["ceramic", "mug", "office", "promotional"],
+    "imprintOptions": ["Sublimation", "Screen Printing"],
+    "specs": {
+      "capacity": "330ml",
+      "material": "Ceramic",
+      "dimensions": "9cm x 8cm",
+      "weight": "280g",
+      "colors": ["White", "Black", "Blue", "Red"]
+    },
+    "variants": [
+      {
+        "id": "var-021-1",
+        "name": "White Ceramic Mug",
+        "sku": "MUG-CER-WHT",
+        "color": "White",
+        "material": "Ceramic",
+        "moqs": [
+          { "quantity": 50, "unitPrice": 10.00 },
+          { "quantity": 100, "unitPrice": 8.00 },
+          { "quantity": 250, "unitPrice": 6.50 },
+          { "quantity": 500, "unitPrice": 5.00 }
+        ]
+      }
+    ]
+  },
+  {
+    "id": "prod-022",
+    "name": "Laptop Backpack with USB Port",
+    "slug": "laptop-backpack-usb-port",
+    "description": "Professional laptop backpack with built-in USB charging port and multiple compartments. Water-resistant material with padded laptop compartment up to 15.6 inches.",
+    "categoryId": "cat-005",
+    "images": [
+      "/images/products/laptop-backpack-1.jpg",
+      "/images/products/laptop-backpack-2.jpg",
+      "/images/products/laptop-backpack-3.jpg"
+    ],
+    "minUnitPrice": 35.00,
+    "maxUnitPrice": 55.00,
+    "featured": true,
+    "tags": ["backpack", "laptop", "usb", "professional"],
+    "imprintOptions": ["Embroidery", "Screen Printing"],
+    "specs": {
+      "capacity": "25L",
+      "laptop": "Up to 15.6 inch",
+      "material": "Water-resistant Polyester",
+      "dimensions": "45cm x 32cm x 15cm",
+      "features": "USB charging port, Anti-theft zipper",
+      "colors": ["Black", "Grey", "Navy"]
+    },
+    "variants": [
+      {
+        "id": "var-022-1",
+        "name": "Black Laptop Backpack",
+        "sku": "BAG-LAP-BLK",
+        "color": "Black",
+        "material": "Polyester",
+        "moqs": [
+          { "quantity": 25, "unitPrice": 55.00 },
+          { "quantity": 50, "unitPrice": 48.00 },
+          { "quantity": 100, "unitPrice": 42.00 },
+          { "quantity": 250, "unitPrice": 35.00 }
+        ]
+      }
+    ]
+  }
+]

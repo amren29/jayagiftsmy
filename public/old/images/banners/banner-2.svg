@@ -1,0 +1,39 @@
+<svg width="1200" height="675" viewBox="0 0 1200 675" fill="none" xmlns="http://www.w3.org/2000/svg">
+  <!-- Background Gradient -->
+  <defs>
+    <linearGradient id="grad2" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" style="stop-color:#059669;stop-opacity:1" />
+      <stop offset="100%" style="stop-color:#047857;stop-opacity:1" />
+    </linearGradient>
+  </defs>
+  
+  <!-- Background -->
+  <rect width="1200" height="675" fill="url(#grad2)"/>
+  
+  <!-- Background Pattern -->
+  <circle cx="200" cy="150" r="100" fill="rgba(255,255,255,0.08)"/>
+  <circle cx="1000" cy="500" r="150" fill="rgba(255,255,255,0.08)"/>
+  
+  <!-- Content Text -->
+  <text x="80" y="200" font-family="Arial, sans-serif" font-size="18" font-weight="500" fill="rgba(255,255,255,0.9)" letter-spacing="2px">ECO-FRIENDLY SOLUTIONS</text>
+  
+  <text x="80" y="280" font-family="Arial, sans-serif" font-size="48" font-weight="bold" fill="white">Sustainable</text>
+  <text x="80" y="340" font-family="Arial, sans-serif" font-size="48" font-weight="bold" fill="white">Corporate Gifts</text>
+  
+  <text x="80" y="400" font-family="Arial, sans-serif" font-size="20" fill="rgba(255,255,255,0.9)">Make a positive impact with environmentally</text>
+  <text x="80" y="430" font-family="Arial, sans-serif" font-size="20" fill="rgba(255,255,255,0.9)">conscious gifts that reflect your values.</text>
+  
+  <!-- CTA Button -->
+  <rect x="80" y="480" width="160" height="50" rx="8" fill="white"/>
+  <text x="160" y="510" font-family="Arial, sans-serif" font-size="16" font-weight="bold" fill="#059669" text-anchor="middle">Go Green →</text>
+  
+  <!-- Eco Icons -->
+  <circle cx="850" cy="200" r="40" fill="rgba(255,255,255,0.2)"/>
+  <text x="850" y="210" font-family="Arial, sans-serif" font-size="24" fill="white" text-anchor="middle">🌱</text>
+  
+  <circle cx="950" cy="280" r="40" fill="rgba(255,255,255,0.2)"/>
+  <text x="950" y="290" font-family="Arial, sans-serif" font-size="24" fill="white" text-anchor="middle">♻️</text>
+  
+  <circle cx="900" cy="380" r="40" fill="rgba(255,255,255,0.2)"/>
+  <text x="900" y="390" font-family="Arial, sans-serif" font-size="24" fill="white" text-anchor="middle">🌍</text>
+</svg>

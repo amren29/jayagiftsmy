@@ -1,0 +1,45 @@
+<svg width="1200" height="675" viewBox="0 0 1200 675" fill="none" xmlns="http://www.w3.org/2000/svg">
+  <!-- Background Gradient -->
+  <defs>
+    <linearGradient id="grad4" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" style="stop-color:#374151;stop-opacity:1" />
+      <stop offset="100%" style="stop-color:#1f2937;stop-opacity:1" />
+    </linearGradient>
+  </defs>
+  
+  <!-- Background -->
+  <rect width="1200" height="675" fill="url(#grad4)"/>
+  
+  <!-- Background Luxury Pattern -->
+  <rect x="0" y="0" width="1200" height="2" fill="rgba(255,215,0,0.3)"/>
+  <rect x="0" y="673" width="1200" height="2" fill="rgba(255,215,0,0.3)"/>
+  
+  <!-- Elegant Corner Decorations -->
+  <rect x="50" y="50" width="80" height="2" fill="rgba(255,215,0,0.5)"/>
+  <rect x="50" y="50" width="2" height="80" fill="rgba(255,215,0,0.5)"/>
+  <rect x="1070" y="50" width="80" height="2" fill="rgba(255,215,0,0.5)"/>
+  <rect x="1148" y="50" width="2" height="80" fill="rgba(255,215,0,0.5)"/>
+  
+  <!-- Content Text -->
+  <text x="80" y="200" font-family="Arial, sans-serif" font-size="18" font-weight="500" fill="rgba(255,215,0,0.8)" letter-spacing="2px">IMPRESS WITH ELEGANCE</text>
+  
+  <text x="80" y="280" font-family="Arial, sans-serif" font-size="48" font-weight="bold" fill="white">Luxury Executive</text>
+  <text x="80" y="340" font-family="Arial, sans-serif" font-size="48" font-weight="bold" fill="white">Gifts</text>
+  
+  <text x="80" y="400" font-family="Arial, sans-serif" font-size="20" fill="rgba(255,255,255,0.9)">Sophisticated luxury items perfect for</text>
+  <text x="80" y="430" font-family="Arial, sans-serif" font-size="20" fill="rgba(255,255,255,0.9)">executive gifting and client relationships.</text>
+  
+  <!-- CTA Button -->
+  <rect x="80" y="480" width="180" height="50" rx="8" fill="rgba(255,215,0,0.9)"/>
+  <text x="170" y="510" font-family="Arial, sans-serif" font-size="16" font-weight="bold" fill="#1f2937" text-anchor="middle">View Luxury →</text>
+  
+  <!-- Luxury Icons -->
+  <circle cx="900" cy="200" r="50" fill="rgba(255,215,0,0.1)" stroke="rgba(255,215,0,0.3)" stroke-width="2"/>
+  <text x="900" y="210" font-family="Arial, sans-serif" font-size="20" fill="rgba(255,215,0,0.8)" text-anchor="middle">★</text>
+  
+  <circle cx="900" cy="350" r="50" fill="rgba(255,215,0,0.1)" stroke="rgba(255,215,0,0.3)" stroke-width="2"/>
+  <text x="900" y="360" font-family="Arial, sans-serif" font-size="20" fill="rgba(255,215,0,0.8)" text-anchor="middle">♦</text>
+  
+  <circle cx="900" cy="500" r="50" fill="rgba(255,215,0,0.1)" stroke="rgba(255,215,0,0.3)" stroke-width="2"/>
+  <text x="900" y="510" font-family="Arial, sans-serif" font-size="20" fill="rgba(255,215,0,0.8)" text-anchor="middle">◆</text>
+</svg>

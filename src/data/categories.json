@@ -1,0 +1,74 @@
+[
+  {
+    "id": "bags",
+    "name": "Bags",
+    "slug": "bags",
+    "description": "Corporate bags including tote bags, backpacks, and messenger bags",
+    "icon": "👜",
+    "productCount": 38
+  },
+  {
+    "id": "notebooks",
+    "name": "Notebooks",
+    "slug": "notebooks",
+    "description": "Professional notebooks and journals for corporate gifting",
+    "icon": "📓",
+    "productCount": 31
+  },
+  {
+    "id": "pens",
+    "name": "Pens",
+    "slug": "pens",
+    "description": "Quality pens and writing instruments",
+    "icon": "✒️",
+    "productCount": 24
+  },
+  {
+    "id": "lanyard-&-id",
+    "name": "Lanyard & ID",
+    "slug": "lanyard-id",
+    "description": "Lanyards and ID holders for events and corporate use",
+    "icon": "🎫",
+    "productCount": 23
+  },
+  {
+    "id": "accessories",
+    "name": "Accessories",
+    "slug": "accessories",
+    "description": "Corporate accessories and gift items",
+    "icon": "🎁",
+    "productCount": 20
+  },
+  {
+    "id": "electronic",
+    "name": "Electronic",
+    "slug": "electronic",
+    "description": "Tech gadgets and electronic corporate gifts",
+    "icon": "📱",
+    "productCount": 15
+  },
+  {
+    "id": "umbrella",
+    "name": "Umbrella",
+    "slug": "umbrella",
+    "description": "Corporate umbrellas for promotional use",
+    "icon": "☂️",
+    "productCount": 15
+  },
+  {
+    "id": "vacuum-flask",
+    "name": "Vacuum Flask",
+    "slug": "vacuum-flask",
+    "description": "Insulated vacuum flasks and tumblers",
+    "icon": "🧉",
+    "productCount": 15
+  },
+  {
+    "id": "bottles",
+    "name": "Bottles",
+    "slug": "bottles",
+    "description": "Water bottles and drinkware",
+    "icon": "🍶",
+    "productCount": 4
+  }
+]

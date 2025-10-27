@@ -1,0 +1,5537 @@
+{
+ "Product": [
+  {
+   "Product Code": "SL09",
+   "Category": "Bag",
+   "Name": "Draw-string Bag",
+   "Material": "Nylon 420D",
+   "Size (cm)": "34 × 42 cm",
+   "Weight": 50,
+   "Function / Feature": "Single compartment",
+   "Printing Type": "Silk-screen / Embroidery",
+   "Colour Options": "Royal-Blue, Lime-Green, Red, Orange, Magenta, Sea-Blue, Grey, Black, White",
+   "Printing Area (cm)": "20 × 20",
+   "Price for 100 - 299": 5.3,
+   "Price for 300 - 499": 4.87,
+   "Price for 500 - 699": 4.48,
+   "Price for 700 - 899": 4.17,
+   "Price for 900 - 999": 3.88,
+   "Price for 1000 above": 3.6,
+   "Printing Cost - Silkscreen": 1.5,
+   "Printing Cost - Pad Print": 1.6,
+   "Printing Cost - UV Print": 5,
+   "Printing Cost - UV Sticker": 1.9,
+   "Printing Cost - Engraving": 3.5,
+   "Image URL": "public/images/placeholder.jpg",
+   "variants": [
+    {
+     "variant": "default",
+     "image": "public/images/placeholder.jpg"
+    }
+   ]
+  },
+  {
+   "Product Code": "SL12",
+   "Category": "Bag",
+   "Name": "Draw-string Bag",
+   "Material": "Nylon 420",
+   "Size (cm)": "34 × 40 cm",
+   "Weight": 50,
+   "Function / Feature": "2 compartments",
+   "Printing Type": "Silk-screen / Embroidery",
+   "Colour Options": "Royal-Blue, Orange, Green, Red, Magenta",
+   "Printing Area (cm)": "Logo-1: 10 × 10 Logo-2: 20 × 10",
+   "Price for 100 - 299": 7.88,
+   "Price for 300 - 499": 7.25,
+   "Price for 500 - 699": 6.67,
+   "Price for 700 - 899": 6.2,
+   "Price for 900 - 999": 5.77,
+   "Price for 1000 above": 5.36,
+   "Printing Cost - Silkscreen": 1.5,
+   "Printing Cost - Pad Print": 1.6,
+   "Printing Cost - UV Print": 5,
+   "Printing Cost - UV Sticker": 1.9,
+   "Printing Cost - Engraving": 3.5,
+   "Image URL": "public/images/placeholder.jpg",
+   "variants": [
+    {
+     "variant": "default",
+     "image": "public/images/placeholder.jpg"
+    }
+   ]
+  },
+  {
+   "Product Code": "SL20",
+   "Category": "Bag",
+   "Name": "Backpack",
+   "Material": "Nylon 420D",
+   "Size (cm)": "31.5 × 18 × 45 cm",
+   "Weight": 270,
+   "Function / Feature": "-",
+   "Printing Type": "Silk-screen / Embroidery",
+   "Colour Options": "Navy, Black, Maroon, Grey",
+   "Printing Area (cm)": "8 × 8",
+   "Price for 100 - 299": 33.75,
+   "Price for 300 - 499": 31.05,
+   "Price for 500 - 699": 28.57,
+   "Price for 700 - 899": 26.57,
+   "Price for 900 - 999": 24.71,
+   "Price for 1000 above": 22.98,
+   "Printing Cost - Silkscreen": 1.5,
+   "Printing Cost - Pad Print": 1.6,
+   "Printing Cost - UV Print": 5,
+   "Printing Cost - UV Sticker": 1.9,
+   "Printing Cost - Engraving": 3.5,
+   "Image URL": "public/images/placeholder.jpg",
+   "variants": [
+    {
+     "variant": "default",
+     "image": "public/images/placeholder.jpg"
+    }
+   ]
+  },
+  {
+   "Product Code": "SL18",
+   "Category": "Bag",
+   "Name": "Sling Bag",
+   "Material": "High-Density Micro-fibre (waterproof)",
+   "Size (cm)": "18 × 11 × 37 cm",
+   "Weight": 460,
+   "Function / Feature": "3 compartments, full lining",
+   "Printing Type": "Silk-screen / Embroidery",
+   "Colour Options": "Black",
+   "Printing Area (cm)": "12 × 6",
+   "Price for 100 - 299": 48.38,
+   "Price for 300 - 499": 44.5,
+   "Price for 500 - 699": 40.94,
+   "Price for 700 - 899": 38.07,
+   "Price for 900 - 999": 35.41,
+   "Price for 1000 above": 32.93,
+   "Printing Cost - Silkscreen": 1.5,
+   "Printing Cost - Pad Print": 1.6,
+   "Printing Cost - UV Print": 5,
+   "Printing Cost - UV Sticker": 1.9,
+   "Printing Cost - Engraving": 3.5,
+   "Image URL": "public/images/placeholder.jpg",
+   "variants": [
+    {
+     "variant": "default",
+     "image": "public/images/placeholder.jpg"
+    }
+   ]
+  },
+  {
+   "Product Code": "MB70",
+   "Category": "Bag",
+   "Name": "3-in-1 Tote",
+   "Material": "Set: Nylon 190D",
+   "Size (cm)": "Large: 40 × 30 × 8 cm Small: 30 × 20 × 7 cm",
+   "Weight": 190,
+   "Function / Feature": "3-in-1 set",
+   "Printing Type": "Silk-screen / Embroidery",
+   "Colour Options": "Black, Grey",
+   "Printing Area (cm)": "Logo-1: 34 × 16 Logo-2: 10 × 12",
+   "Price for 100 - 299": 18,
+   "Price for 300 - 499": 16.56,
+   "Price for 500 - 699": 15.23,
+   "Price for 700 - 899": 14.16,
+   "Price for 900 - 999": 13.17,
+   "Price for 1000 above": 12.25,
+   "Printing Cost - Silkscreen": 1.5,
+   "Printing Cost - Pad Print": 1.6,
+   "Printing Cost - UV Print": 5,
+   "Printing Cost - UV Sticker": 1.9,
+   "Printing Cost - Engraving": 3.5,
+   "Image URL": "public/images/placeholder.jpg",
+   "variants": [
+    {
+     "variant": "default",
+     "image": "public/images/placeholder.jpg"
+    }
+   ]
+  },
+  {
+   "Product Code": "MB71",
+   "Category": "Bag",
+   "Name": "Shopper",
+   "Material": "Nylon 420D",
+   "Size (cm)": "43 × 52.5 cm (handle 26 cm)",
+   "Weight": "-",
+   "Function / Feature": "Single compartment",
+   "Printing Type": "Silk-screen / Embroidery",
+   "Colour Options": "Black, Red, Orange, Royal-Blue",
+   "Printing Area (cm)": "Logo-1: 26 × 22 Logo-2: 8 × 10",
+   "Price for 100 - 299": 61.88,
+   "Price for 300 - 499": 56.92,
+   "Price for 500 - 699": 52.37,
+   "Price for 700 - 899": 48.7,
+   "Price for 900 - 999": 45.29,
+   "Price for 1000 above": 42.12,
+   "Printing Cost - Silkscreen": 1.5,
+   "Printing Cost - Pad Print": 1.6,
+   "Printing Cost - UV Print": 5,
+   "Printing Cost - UV Sticker": 1.9,
+   "Printing Cost - Engraving": 3.5,
+   "Image URL": "public/images/placeholder.jpg",
+   "variants": [
+    {
+     "variant": "default",
+     "image": "public/images/placeholder.jpg"
+    }
+   ]
+  },
+  {
+   "Product Code": "MB72",
+   "Category": "Bag",
+   "Name": "Pouch",
+   "Material": "Twill",
+   "Size (cm)": "27 × 16 × 10 cm",
+   "Weight": "-",
+   "Function / Feature": "Single compartment",
+   "Printing Type": "Silk-screen / Embroidery",
+   "Colour Options": "Black, Maroon, Grey, Army-Green, Navy",
+   "Printing Area (cm)": "Logo-1: 26 × 26 Logo-2: 6 × 6",
+   "Price for 100 - 299": 13.5,
+   "Price for 300 - 499": 12.42,
+   "Price for 500 - 699": 11.43,
+   "Price for 700 - 899": 10.63,
+   "Price for 900 - 999": 9.88,
+   "Price for 1000 above": 9.19,
+   "Printing Cost - Silkscreen": 1.5,
+   "Printing Cost - Pad Print": 1.6,
+   "Printing Cost - UV Print": 5,
+   "Printing Cost - UV Sticker": 1.9,
+   "Printing Cost - Engraving": 3.5,
+   "Image URL": "public/images/placeholder.jpg",
+   "variants": [
+    {
+     "variant": "default",
+     "image": "public/images/placeholder.jpg"
+    }
+   ]
+  },
+  {
+   "Product Code": "MB52",
+   "Category": "Bag",
+   "Name": "Toiletries",
+   "Material": "2-Tone Nylon / 600D",
+   "Size (cm)": "35.5 × 15 × 17 cm",
+   "Weight": 210,
+   "Function / Feature": "Single compartment",
+   "Printing Type": "Silk-screen / Embroidery",
+   "Colour Options": "Maroon, Magenta, Purple, Red, Sea-Blue, Orange",
+   "Printing Area (cm)": "30 × 14",
+   "Price for 100 - 299": 21.38,
+   "Price for 300 - 499": 19.66,
+   "Price for 500 - 699": 18.09,
+   "Price for 700 - 899": 16.82,
+   "Price for 900 - 999": 15.64,
+   "Price for 1000 above": 14.55,
+   "Printing Cost - Silkscreen": 1.5,
+   "Printing Cost - Pad Print": 1.6,
+   "Printing Cost - UV Print": 5,
+   "Printing Cost - UV Sticker": 1.9,
+   "Printing Cost - Engraving": 3.5,
+   "Image URL": "public/images/placeholder.jpg",
+   "variants": [
+    {
+     "variant": "default",
+     "image": "public/images/placeholder.jpg"
+    }
+   ]
+  },
+  {
+   "Product Code": "MB47",
+   "Category": "Bag",
+   "Name": "Pencil Case",
+   "Material": "2-Tone Nylon",
+   "Size (cm)": "24 × 10 × 12 cm",
+   "Weight": 90,
+   "Function / Feature": "Single compartment",
+   "Printing Type": "Silk-screen / Embroidery",
+   "Colour Options": "Grey, Maroon, Purple",
+   "Printing Area (cm)": "16 × 8",
+   "Price for 100 - 299": 14.63,
+   "Price for 300 - 499": 13.45,
+   "Price for 500 - 699": 12.37,
+   "Price for 700 - 899": 11.5,
+   "Price for 900 - 999": 10.7,
+   "Price for 1000 above": 9.95,
+   "Printing Cost - Silkscreen": 1.5,
+   "Printing Cost - Pad Print": 1.6,
+   "Printing Cost - UV Print": 5,
+   "Printing Cost - UV Sticker": 1.9,
+   "Printing Cost - Engraving": 3.5,
+   "Image URL": "public/images/placeholder.jpg",
+   "variants": [
+    {
+     "variant": "default",
+     "image": "public/images/placeholder.jpg"
+    }
+   ]
+  },
+  {
+   "Product Code": "MB46",
+   "Category": "Bag",
+   "Name": "Pencil Case",
+   "Material": "2-Tone Nylon",
+   "Size (cm)": "25 × 9.5 × 14 cm",
+   "Weight": 120,
+   "Function / Feature": "Single + 1 front pocket",
+   "Printing Type": "Silk-screen / Embroidery",
+   "Colour Options": "Navy, Maroon, Khaki, Purple, Army-Green",
+   "Printing Area (cm)": "16 × 4",
+   "Price for 100 - 299": 16.88,
+   "Price for 300 - 499": 15.52,
+   "Price for 500 - 699": 14.28,
+   "Price for 700 - 899": 13.28,
+   "Price for 900 - 999": 12.35,
+   "Price for 1000 above": 11.48,
+   "Printing Cost - Silkscreen": 1.5,
+   "Printing Cost - Pad Print": 1.6,
+   "Printing Cost - UV Print": 5,
+   "Printing Cost - UV Sticker": 1.9,
+   "Printing Cost - Engraving": 3.5,
+   "Image URL": "public/images/placeholder.jpg",
+   "variants": [
+    {
+     "variant": "default",
+     "image": "public/images/placeholder.jpg"
+    }
+   ]
+  },
+  {
+   "Product Code": "MB48",
+   "Category": "Bag",
+   "Name": "Pouch",
+   "Material": "2-Tone Nylon",
+   "Size (cm)": "22.5 × 10 × 12.5 cm",
+   "Weight": 90,
+   "Function / Feature": "-",
+   "Printing Type": "Silk-screen / Embroidery",
+   "Colour Options": "Grey, Maroon, Navy, Army-Green",
+   "Printing Area (cm)": "16 × 8",
+   "Price for 100 - 299": 14.63,
+   "Price for 300 - 499": 13.45,
+   "Price for 500 - 699": 12.37,
+   "Price for 700 - 899": 11.5,
+   "Price for 900 - 999": 10.7,
+   "Price for 1000 above": 9.95,
+   "Printing Cost - Silkscreen": 1.5,
+   "Printing Cost - Pad Print": 1.6,
+   "Printing Cost - UV Print": 5,
+   "Printing Cost - UV Sticker": 1.9,
+   "Printing Cost - Engraving": 3.5,
+   "Image URL": "public/images/placeholder.jpg",
+   "variants": [
+    {
+     "variant": "default",
+     "image": "public/images/placeholder.jpg"
+    }
+   ]
+  },
+  {
+   "Product Code": "MB28",
+   "Category": "Bag",
+   "Name": "Tote",
+   "Material": "Nylon 210D",
+   "Size (cm)": "45 × 40 cm (handle 25 cm)",
+   "Weight": 60,
+   "Function / Feature": "Single compartment",
+   "Printing Type": "Silk-screen",
+   "Colour Options": "Black, Red, Orange, Purple",
+   "Printing Area (cm)": "30 × 14",
+   "Price for 100 - 299": 14.63,
+   "Price for 300 - 499": 13.45,
+   "Price for 500 - 699": 12.37,
+   "Price for 700 - 899": 11.5,
+   "Price for 900 - 999": 10.7,
+   "Price for 1000 above": 9.95,
+   "Printing Cost - Silkscreen": 1.5,
+   "Printing Cost - Pad Print": 1.6,
+   "Printing Cost - UV Print": 5,
+   "Printing Cost - UV Sticker": 1.9,
+   "Printing Cost - Engraving": 3.5,
+   "Image URL": "public/images/placeholder.jpg",
+   "variants": [
+    {
+     "variant": "default",
+     "image": "public/images/placeholder.jpg"
+    }
+   ]
+  },
+  {
+   "Product Code": "MB29",
+   "Category": "Bag",
+   "Name": "Tote",
+   "Material": "Nylon 210D",
+   "Size (cm)": "36.5 × 32 cm",
+   "Weight": 47,
+   "Function / Feature": "Single compartment",
+   "Printing Type": "Silk-screen",
+   "Colour Options": "Lime-Green, Red, Magenta, Sea-Blue",
+   "Printing Area (cm)": "Logo-1: 26 × 22 Logo-2: 8 × 10",
+   "Price for 100 - 299": 12.38,
+   "Price for 300 - 499": 11.38,
+   "Price for 500 - 699": 10.47,
+   "Price for 700 - 899": 9.74,
+   "Price for 900 - 999": 9.06,
+   "Price for 1000 above": 8.42,
+   "Printing Cost - Silkscreen": 1.5,
+   "Printing Cost - Pad Print": 1.6,
+   "Printing Cost - UV Print": 5,
+   "Printing Cost - UV Sticker": 1.9,
+   "Printing Cost - Engraving": 3.5,
+   "Image URL": "public/images/placeholder.jpg",
+   "variants": [
+    {
+     "variant": "default",
+     "image": "public/images/placeholder.jpg"
+    }
+   ]
+  },
+  {
+   "Product Code": "MB56",
+   "Category": "Bag",
+   "Name": " draw-string",
+   "Material": "Nylon 210D",
+   "Size (cm)": "36 × 55 cm + small cover",
+   "Weight": 27,
+   "Function / Feature": "Single compartment",
+   "Printing Type": "Silk-screen",
+   "Colour Options": "Royal-Blue, Orange, Red, Maroon, Black",
+   "Printing Area (cm)": "Logo-1: 26 × 26 Logo-2: 6 × 6",
+   "Price for 100 - 299": 8.55,
+   "Price for 300 - 499": 7.87,
+   "Price for 500 - 699": 7.24,
+   "Price for 700 - 899": 6.73,
+   "Price for 900 - 999": 6.26,
+   "Price for 1000 above": 5.82,
+   "Printing Cost - Silkscreen": 1.5,
+   "Printing Cost - Pad Print": 1.6,
+   "Printing Cost - UV Print": 5,
+   "Printing Cost - UV Sticker": 1.9,
+   "Printing Cost - Engraving": 3.5,
+   "Image URL": "public/images/placeholder.jpg",
+   "variants": [
+    {
+     "variant": "default",
+     "image": "public/images/placeholder.jpg"
+    }
+   ]
+  },
+  {
+   "Product Code": "MB57",
+   "Category": "Bag",
+   "Name": " draw-string",
+   "Material": "Nylon 210D",
+   "Size (cm)": "36 × 55 cm + small cover",
+   "Weight": 27,
+   "Function / Feature": "Single compartment",
+   "Printing Type": "Silk-screen",
+   "Colour Options": "Red, Royal-Blue, Maroon, Black",
+   "Printing Area (cm)": "Logo-1: 26 × 26 Logo-2: 10 × 10",
+   "Price for 100 - 299": 7.88,
+   "Price for 300 - 499": 7.25,
+   "Price for 500 - 699": 6.67,
+   "Price for 700 - 899": 6.2,
+   "Price for 900 - 999": 5.77,
+   "Price for 1000 above": 5.36,
+   "Printing Cost - Silkscreen": 1.5,
+   "Printing Cost - Pad Print": 1.6,
+   "Printing Cost - UV Print": 5,
+   "Printing Cost - UV Sticker": 1.9,
+   "Printing Cost - Engraving": 3.5,
+   "Image URL": "public/images/placeholder.jpg",
+   "variants": [
+    {
+     "variant": "default",
+     "image": "public/images/placeholder.jpg"
+    }
+   ]
+  },
+  {
+   "Product Code": "NW20",
+   "Category": "Bag",
+   "Name": "Non-Woven A3",
+   "Material": "Non-Woven (A3 ultrasonic)",
+   "Size (cm)": "35 × 10 × 35 cm",
+   "Weight": 40,
+   "Function / Feature": "-",
+   "Printing Type": "Silk-screen",
+   "Colour Options": "White, Navy, Black, Yellow, Red, Maroon, Orange, Royal-Blue, Lime-Green, Turquoise, Magenta, Sea-Blue, Purple",
+   "Printing Area (cm)": "28 × 28",
+   "Price for 100 - 299": 2.6,
+   "Price for 300 - 499": 2.39,
+   "Price for 500 - 699": 2.2,
+   "Price for 700 - 899": 2.05,
+   "Price for 900 - 999": 1.9,
+   "Price for 1000 above": 1.77,
+   "Printing Cost - Silkscreen": 1.5,
+   "Printing Cost - Pad Print": 1.6,
+   "Printing Cost - UV Print": 5,
+   "Printing Cost - UV Sticker": 1.9,
+   "Printing Cost - Engraving": 3.5,
+   "Image URL": "public/images/placeholder.jpg",
+   "variants": [
+    {
+     "variant": "default",
+     "image": "public/images/placeholder.jpg"
+    }
+   ]
+  },
+  {
+   "Product Code": "NW21",
+   "Category": "Bag",
+   "Name": "Non-Woven A4",
+   "Material": "Non-Woven (A4 ultrasonic)",
+   "Size (cm)": "28 × 9 × 35 cm",
+   "Weight": 32,
+   "Function / Feature": "-",
+   "Printing Type": "Silk-screen",
+   "Colour Options": "White, Navy, Black, Beige, Yellow, Red, Maroon, Orange, Royal-Blue, Light-Blue, Lime-Green, Turquoise, Green, Grey, Magenta, Sea-Blue, Purple",
+   "Printing Area (cm)": "28 × 28",
+   "Price for 100 - 299": 2.25,
+   "Price for 300 - 499": 2.07,
+   "Price for 500 - 699": 1.9,
+   "Price for 700 - 899": 1.77,
+   "Price for 900 - 999": 1.64,
+   "Price for 1000 above": 1.53,
+   "Printing Cost - Silkscreen": 1.5,
+   "Printing Cost - Pad Print": 1.6,
+   "Printing Cost - UV Print": 5,
+   "Printing Cost - UV Sticker": 1.9,
+   "Printing Cost - Engraving": 3.5,
+   "Image URL": "public/images/placeholder.jpg",
+   "variants": [
+    {
+     "variant": "default",
+     "image": "public/images/placeholder.jpg"
+    }
+   ]
+  },
+  {
+   "Product Code": "NW01",
+   "Category": "Bag",
+   "Name": "Non-Woven A4",
+   "Material": "Non-Woven 90 gsm",
+   "Size (cm)": "26 × 9 × 33 cm",
+   "Weight": 30,
+   "Function / Feature": "-",
+   "Printing Type": "Silk-screen",
+   "Colour Options": "White, Navy, Black, Yellow, Red, Maroon, Orange, Royal-Blue, Light-Blue, Lime-Green",
+   "Printing Area (cm)": "28 × 28",
+   "Price for 100 - 299": 2.82,
+   "Price for 300 - 499": 2.59,
+   "Price for 500 - 699": 2.38,
+   "Price for 700 - 899": 2.22,
+   "Price for 900 - 999": 2.06,
+   "Price for 1000 above": 1.92,
+   "Printing Cost - Silkscreen": 1.5,
+   "Printing Cost - Pad Print": 1.6,
+   "Printing Cost - UV Print": 5,
+   "Printing Cost - UV Sticker": 1.9,
+   "Printing Cost - Engraving": 3.5,
+   "Image URL": "public/images/placeholder.jpg",
+   "variants": [
+    {
+     "variant": "default",
+     "image": "public/images/placeholder.jpg"
+    }
+   ]
+  },
+  {
+   "Product Code": "NW05",
+   "Category": "Bag",
+   "Name": "Non-Woven A3",
+   "Material": "Non-Woven 90 gsm",
+   "Size (cm)": "35 × 10 × 35 cm",
+   "Weight": 50,
+   "Function / Feature": "-",
+   "Printing Type": "Silk-screen",
+   "Colour Options": "White, Black, Beige, Yellow, Red, Orange, Royal-Blue, Lime-Green, Sea-Blue, Purple, Magenta",
+   "Printing Area (cm)": "28 × 28",
+   "Price for 100 - 299": 4.05,
+   "Price for 300 - 499": 3.73,
+   "Price for 500 - 699": 3.43,
+   "Price for 700 - 899": 3.19,
+   "Price for 900 - 999": 2.97,
+   "Price for 1000 above": 2.76,
+   "Printing Cost - Silkscreen": 1.5,
+   "Printing Cost - Pad Print": 1.6,
+   "Printing Cost - UV Print": 5,
+   "Printing Cost - UV Sticker": 1.9,
+   "Printing Cost - Engraving": 3.5,
+   "Image URL": "public/images/placeholder.jpg",
+   "variants": [
+    {
+     "variant": "default",
+     "image": "public/images/placeholder.jpg"
+    }
+   ]
+  },
+  {
+   "Product Code": "NW15",
+   "Category": "Bag",
+   "Name": "Non-Woven 2-tone",
+   "Material": "Non-Woven 90 gsm",
+   "Size (cm)": "30 × 10 × 33 cm",
+   "Weight": 34,
+   "Function / Feature": "-",
+   "Printing Type": "Silk-screen",
+   "Colour Options": "White/Purple, Lime-Green/White, Brown/Beige, Magenta/Pink, Purple/Black, Black/Red, Yellow/Black, Red/White, Royal-Blue/Yellow",
+   "Printing Area (cm)": "20 × 28",
+   "Price for 100 - 299": 3.38,
+   "Price for 300 - 499": 3.11,
+   "Price for 500 - 699": 2.86,
+   "Price for 700 - 899": 2.66,
+   "Price for 900 - 999": 2.47,
+   "Price for 1000 above": 2.3,
+   "Printing Cost - Silkscreen": 1.5,
+   "Printing Cost - Pad Print": 1.6,
+   "Printing Cost - UV Print": 5,
+   "Printing Cost - UV Sticker": 1.9,
+   "Printing Cost - Engraving": 3.5,
+   "Image URL": "public/images/placeholder.jpg",
+   "variants": [
+    {
+     "variant": "default",
+     "image": "public/images/placeholder.jpg"
+    }
+   ]
+  },
+  {
+   "Product Code": "NW17",
+   "Category": "Bag",
+   "Name": "Non-Woven Tote",
+   "Material": "Non-Woven 90 gsm",
+   "Size (cm)": "36 × 44 cm",
+   "Weight": 45,
+   "Function / Feature": "-",
+   "Printing Type": "Silk-screen",
+   "Colour Options": "Black, Red, Royal-Blue, Magenta",
+   "Printing Area (cm)": "30 × 38",
+   "Price for 100 - 299": 4.95,
+   "Price for 300 - 499": 4.55,
+   "Price for 500 - 699": 4.19,
+   "Price for 700 - 899": 3.9,
+   "Price for 900 - 999": 3.62,
+   "Price for 1000 above": 3.37,
+   "Printing Cost - Silkscreen": 1.5,
+   "Printing Cost - Pad Print": 1.6,
+   "Printing Cost - UV Print": 5,
+   "Printing Cost - UV Sticker": 1.9,
+   "Printing Cost - Engraving": 3.5,
+   "Image URL": "public/images/placeholder.jpg",
+   "variants": [
+    {
+     "variant": "default",
+     "image": "public/images/placeholder.jpg"
+    }
+   ]
+  },
+  {
+   "Product Code": "NW25",
+   "Category": "Bag",
+   "Name": "Non-Woven Grocery",
+   "Material": "Non-Woven",
+   "Size (cm)": "43 × 15 × 38 cm",
+   "Weight": 53,
+   "Function / Feature": "-",
+   "Printing Type": "Silk-screen",
+   "Colour Options": "White, Black, Red, Orange, Purple, Royal-Blue, Lime-Green",
+   "Printing Area (cm)": "36 × 32",
+   "Price for 100 - 299": 4.05,
+   "Price for 300 - 499": 3.73,
+   "Price for 500 - 699": 3.43,
+   "Price for 700 - 899": 3.19,
+   "Price for 900 - 999": 2.97,
+   "Price for 1000 above": 2.76,
+   "Printing Cost - Silkscreen": 1.5,
+   "Printing Cost - Pad Print": 1.6,
+   "Printing Cost - UV Print": 5,
+   "Printing Cost - UV Sticker": 1.9,
+   "Printing Cost - Engraving": 3.5,
+   "Image URL": "public/images/placeholder.jpg",
+   "variants": [
+    {
+     "variant": "default",
+     "image": "public/images/placeholder.jpg"
+    }
+   ]
+  },
+  {
+   "Product Code": "NW24",
+   "Category": "Bag",
+   "Name": "Non-Woven A5",
+   "Material": "Non-Woven 75 gsm",
+   "Size (cm)": "20 × 8 × 20 cm",
+   "Weight": 15,
+   "Function / Feature": "-",
+   "Printing Type": "Silk-screen",
+   "Colour Options": "White, Navy, Red, Royal-Blue, Black, Turquoise",
+   "Printing Area (cm)": "14 × 16",
+   "Price for 100 - 299": 1.8,
+   "Price for 300 - 499": 1.66,
+   "Price for 500 - 699": 1.52,
+   "Price for 700 - 899": 1.42,
+   "Price for 900 - 999": 1.32,
+   "Price for 1000 above": 1.23,
+   "Printing Cost - Silkscreen": 1.5,
+   "Printing Cost - Pad Print": 1.6,
+   "Printing Cost - UV Print": 5,
+   "Printing Cost - UV Sticker": 1.9,
+   "Printing Cost - Engraving": 3.5,
+   "Image URL": "public/images/placeholder.jpg",
+   "variants": [
+    {
+     "variant": "default",
+     "image": "public/images/placeholder.jpg"
+    }
+   ]
+  },
+  {
+   "Product Code": "NW16",
+   "Category": "Bag",
+   "Name": "Foldable Shopper",
+   "Material": "Non-Woven 90 gsm",
+   "Size (cm)": "40 × 10 × 35 cm",
+   "Weight": 50,
+   "Function / Feature": "Foldable",
+   "Printing Type": "Silk-screen",
+   "Colour Options": "White, Black, Red, Orange, Purple, Royal-Blue, Green",
+   "Printing Area (cm)": "15 × 12",
+   "Price for 100 - 299": 3.38,
+   "Price for 300 - 499": 3.11,
+   "Price for 500 - 699": 2.86,
+   "Price for 700 - 899": 2.66,
+   "Price for 900 - 999": 2.47,
+   "Price for 1000 above": 2.3,
+   "Printing Cost - Silkscreen": 1.5,
+   "Printing Cost - Pad Print": 1.6,
+   "Printing Cost - UV Print": 5,
+   "Printing Cost - UV Sticker": 1.9,
+   "Printing Cost - Engraving": 3.5,
+   "Image URL": "public/images/placeholder.jpg",
+   "variants": [
+    {
+     "variant": "default",
+     "image": "public/images/placeholder.jpg"
+    }
+   ]
+  },
+  {
+   "Product Code": "CB04",
+   "Category": "Bag",
+   "Name": "Cotton 5 oz",
+   "Material": "Natural Cotton",
+   "Size (cm)": "35 × 38 cm",
+   "Weight": 70,
+   "Function / Feature": "-",
+   "Printing Type": "Silk-screen",
+   "Colour Options": "Natural",
+   "Printing Area (cm)": "28 × 28",
+   "Price for 100 - 299": 8.45,
+   "Price for 300 - 499": 7.77,
+   "Price for 500 - 699": 7.15,
+   "Price for 700 - 899": 6.65,
+   "Price for 900 - 999": 6.18,
+   "Price for 1000 above": 5.75,
+   "Printing Cost - Silkscreen": 1.5,
+   "Printing Cost - Pad Print": 1.6,
+   "Printing Cost - UV Print": 5,
+   "Printing Cost - UV Sticker": 1.9,
+   "Printing Cost - Engraving": 3.5,
+   "Image URL": "public/images/placeholder.jpg",
+   "variants": [
+    {
+     "variant": "default",
+     "image": "public/images/placeholder.jpg"
+    }
+   ]
+  },
+  {
+   "Product Code": "CB03",
+   "Category": "Bag",
+   "Name": "Cotton 8 oz",
+   "Material": "Natural Cotton",
+   "Size (cm)": "43 × 10 × 33 cm",
+   "Weight": 160,
+   "Function / Feature": "-",
+   "Printing Type": "Silk-screen",
+   "Colour Options": "Natural",
+   "Printing Area (cm)": "36 × 28",
+   "Price for 100 - 299": 11.25,
+   "Price for 300 - 499": 10.35,
+   "Price for 500 - 699": 9.52,
+   "Price for 700 - 899": 8.85,
+   "Price for 900 - 999": 8.23,
+   "Price for 1000 above": 7.65,
+   "Printing Cost - Silkscreen": 1.5,
+   "Printing Cost - Pad Print": 1.6,
+   "Printing Cost - UV Print": 5,
+   "Printing Cost - UV Sticker": 1.9,
+   "Printing Cost - Engraving": 3.5,
+   "Image URL": "public/images/placeholder.jpg",
+   "variants": [
+    {
+     "variant": "default",
+     "image": "public/images/placeholder.jpg"
+    }
+   ]
+  },
+  {
+   "Product Code": "CB02",
+   "Category": "Bag",
+   "Name": "Cotton 8 oz",
+   "Material": "Natural Cotton",
+   "Size (cm)": "35 × 10 × 35 cm",
+   "Weight": 185,
+   "Function / Feature": "-",
+   "Printing Type": "Silk-screen",
+   "Colour Options": "Natural",
+   "Printing Area (cm)": "28 × 28",
+   "Price for 100 - 299": 12.38,
+   "Price for 300 - 499": 11.38,
+   "Price for 500 - 699": 10.47,
+   "Price for 700 - 899": 9.74,
+   "Price for 900 - 999": 9.06,
+   "Price for 1000 above": 8.42,
+   "Printing Cost - Silkscreen": 1.5,
+   "Printing Cost - Pad Print": 1.6,
+   "Printing Cost - UV Print": 5,
+   "Printing Cost - UV Sticker": 1.9,
+   "Printing Cost - Engraving": 3.5,
+   "Image URL": "public/images/placeholder.jpg",
+   "variants": [
+    {
+     "variant": "default",
+     "image": "public/images/placeholder.jpg"
+    }
+   ]
+  },
+  {
+   "Product Code": "CB01",
+   "Category": "Bag",
+   "Name": "Cotton 5 oz",
+   "Material": "Natural Cotton",
+   "Size (cm)": "35 × 10 × 35 cm",
+   "Weight": 160,
+   "Function / Feature": "-",
+   "Printing Type": "Silk-screen",
+   "Colour Options": "Natural",
+   "Printing Area (cm)": "28 × 28",
+   "Price for 100 - 299": 10.8,
+   "Price for 300 - 499": 9.94,
+   "Price for 500 - 699": 9.14,
+   "Price for 700 - 899": 8.5,
+   "Price for 900 - 999": 7.91,
+   "Price for 1000 above": 7.36,
+   "Printing Cost - Silkscreen": 1.5,
+   "Printing Cost - Pad Print": 1.6,
+   "Printing Cost - UV Print": 5,
+   "Printing Cost - UV Sticker": 1.9,
+   "Printing Cost - Engraving": 3.5,
+   "Image URL": "public/images/placeholder.jpg",
+   "variants": [
+    {
+     "variant": "default",
+     "image": "public/images/placeholder.jpg"
+    }
+   ]
+  },
+  {
+   "Product Code": "CB24",
+   "Category": "Bag",
+   "Name": "Cotton 6 oz",
+   "Material": "Natural Cotton",
+   "Size (cm)": "35 × 38 cm",
+   "Weight": 80,
+   "Function / Feature": "-",
+   "Printing Type": "Silk-screen",
+   "Colour Options": "Natural",
+   "Printing Area (cm)": "28 × 28",
+   "Price for 100 - 299": 10.13,
+   "Price for 300 - 499": 9.31,
+   "Price for 500 - 699": 8.57,
+   "Price for 700 - 899": 7.97,
+   "Price for 900 - 999": 7.41,
+   "Price for 1000 above": 6.89,
+   "Printing Cost - Silkscreen": 1.5,
+   "Printing Cost - Pad Print": 1.6,
+   "Printing Cost - UV Print": 5,
+   "Printing Cost - UV Sticker": 1.9,
+   "Printing Cost - Engraving": 3.5,
+   "Image URL": "public/images/placeholder.jpg",
+   "variants": [
+    {
+     "variant": "default",
+     "image": "public/images/placeholder.jpg"
+    }
+   ]
+  },
+  {
+   "Product Code": "CB25",
+   "Category": "Bag",
+   "Name": "Cotton 8 oz",
+   "Material": "Natural Cotton",
+   "Size (cm)": "37 × 8 × 40 cm",
+   "Weight": 110,
+   "Function / Feature": "-",
+   "Printing Type": "Silk-screen",
+   "Colour Options": "Natural",
+   "Printing Area (cm)": "28 × 28",
+   "Price for 100 - 299": 13.5,
+   "Price for 300 - 499": 12.42,
+   "Price for 500 - 699": 11.43,
+   "Price for 700 - 899": 10.63,
+   "Price for 900 - 999": 9.88,
+   "Price for 1000 above": 9.19,
+   "Printing Cost - Silkscreen": 1.5,
+   "Printing Cost - Pad Print": 1.6,
+   "Printing Cost - UV Print": 5,
+   "Printing Cost - UV Sticker": 1.9,
+   "Printing Cost - Engraving": 3.5,
+   "Image URL": "public/images/placeholder.jpg",
+   "variants": [
+    {
+     "variant": "default",
+     "image": "public/images/placeholder.jpg"
+    }
+   ]
+  },
+  {
+   "Product Code": "CB08",
+   "Category": "Bag",
+   "Name": "Foldable Cotton",
+   "Material": "10 oz Natural Cotton",
+   "Size (cm)": "38 × 11 × 44 cm",
+   "Weight": 165,
+   "Function / Feature": "Foldable",
+   "Printing Type": "Embroidery / Silk-screen",
+   "Colour Options": "Lime-Green, Sea-Blue, Black, Red, Orange",
+   "Printing Area (cm)": "24 × 24",
+   "Price for 100 - 299": 15.3,
+   "Price for 300 - 499": 14.08,
+   "Price for 500 - 699": 12.95,
+   "Price for 700 - 899": 12.04,
+   "Price for 900 - 999": 11.2,
+   "Price for 1000 above": 10.42,
+   "Printing Cost - Silkscreen": 1.5,
+   "Printing Cost - Pad Print": 1.6,
+   "Printing Cost - UV Print": 5,
+   "Printing Cost - UV Sticker": 1.9,
+   "Printing Cost - Engraving": 3.5,
+   "Image URL": "public/images/placeholder.jpg",
+   "variants": [
+    {
+     "variant": "default",
+     "image": "public/images/placeholder.jpg"
+    }
+   ]
+  },
+  {
+   "Product Code": "CB09",
+   "Category": "Bag",
+   "Name": "Cotton Tote",
+   "Material": "5 oz Natural Cotton",
+   "Size (cm)": "34 × 42 cm",
+   "Weight": 190,
+   "Function / Feature": "-",
+   "Printing Type": "Embroidery / Silk-screen",
+   "Colour Options": "Red, Natural, Black",
+   "Printing Area (cm)": "28 × 30",
+   "Price for 100 - 299": 11.25,
+   "Price for 300 - 499": 10.35,
+   "Price for 500 - 699": 9.52,
+   "Price for 700 - 899": 8.85,
+   "Price for 900 - 999": 8.23,
+   "Price for 1000 above": 7.65,
+   "Printing Cost - Silkscreen": 1.5,
+   "Printing Cost - Pad Print": 1.6,
+   "Printing Cost - UV Print": 5,
+   "Printing Cost - UV Sticker": 1.9,
+   "Printing Cost - Engraving": 3.5,
+   "Image URL": "public/images/placeholder.jpg",
+   "variants": [
+    {
+     "variant": "default",
+     "image": "public/images/placeholder.jpg"
+    }
+   ]
+  },
+  {
+   "Product Code": "CB10",
+   "Category": "Bag",
+   "Name": "Cotton 10 oz",
+   "Material": "10 oz Natural Cotton",
+   "Size (cm)": "35 × 38 cm",
+   "Weight": 120,
+   "Function / Feature": "-",
+   "Printing Type": "Silk-screen",
+   "Colour Options": "Natural",
+   "Printing Area (cm)": "28 × 28",
+   "Price for 100 - 299": 12.38,
+   "Price for 300 - 499": 11.38,
+   "Price for 500 - 699": 10.47,
+   "Price for 700 - 899": 9.74,
+   "Price for 900 - 999": 9.06,
+   "Price for 1000 above": 8.42,
+   "Printing Cost - Silkscreen": 1.5,
+   "Printing Cost - Pad Print": 1.6,
+   "Printing Cost - UV Print": 5,
+   "Printing Cost - UV Sticker": 1.9,
+   "Printing Cost - Engraving": 3.5,
+   "Image URL": "public/images/placeholder.jpg",
+   "variants": [
+    {
+     "variant": "default",
+     "image": "public/images/placeholder.jpg"
+    }
+   ]
+  },
+  {
+   "Product Code": "CB11",
+   "Category": "Bag",
+   "Name": "Cotton 10 oz",
+   "Material": "10 oz Natural Cotton",
+   "Size (cm)": "35 × 38 cm",
+   "Weight": 120,
+   "Function / Feature": "-",
+   "Printing Type": "Silk-screen",
+   "Colour Options": "Black, Red",
+   "Printing Area (cm)": "28 × 28",
+   "Price for 100 - 299": 13.05,
+   "Price for 300 - 499": 12.01,
+   "Price for 500 - 699": 11.05,
+   "Price for 700 - 899": 10.27,
+   "Price for 900 - 999": 9.55,
+   "Price for 1000 above": 8.88,
+   "Printing Cost - Silkscreen": 1.5,
+   "Printing Cost - Pad Print": 1.6,
+   "Printing Cost - UV Print": 5,
+   "Printing Cost - UV Sticker": 1.9,
+   "Printing Cost - Engraving": 3.5,
+   "Image URL": "public/images/placeholder.jpg",
+   "variants": [
+    {
+     "variant": "default",
+     "image": "public/images/placeholder.jpg"
+    }
+   ]
+  },
+  {
+   "Product Code": "CB12",
+   "Category": "Bag",
+   "Name": "Laminated Canvas",
+   "Material": "Canvas + lamination + zipper",
+   "Size (cm)": "40 × 15 × 35 cm",
+   "Weight": 220,
+   "Function / Feature": "-",
+   "Printing Type": "Silk-screen",
+   "Colour Options": "Black, Red, Magenta, Sea-Blue",
+   "Printing Area (cm)": "25 × 20",
+   "Price for 100 - 299": 23.63,
+   "Price for 300 - 499": 21.73,
+   "Price for 500 - 699": 20,
+   "Price for 700 - 899": 18.6,
+   "Price for 900 - 999": 17.3,
+   "Price for 1000 above": 16.09,
+   "Printing Cost - Silkscreen": 1.5,
+   "Printing Cost - Pad Print": 1.6,
+   "Printing Cost - UV Print": 5,
+   "Printing Cost - UV Sticker": 1.9,
+   "Printing Cost - Engraving": 3.5,
+   "Image URL": "public/images/placeholder.jpg",
+   "variants": [
+    {
+     "variant": "default",
+     "image": "public/images/placeholder.jpg"
+    }
+   ]
+  },
+  {
+   "Product Code": "JB10",
+   "Category": "Bag",
+   "Name": "Laminated Jute",
+   "Material": "Jute + lamination",
+   "Size (cm)": "43 × 15 × 34 cm",
+   "Weight": 270,
+   "Function / Feature": "-",
+   "Printing Type": "Silk-screen",
+   "Colour Options": "Black",
+   "Printing Area (cm)": "38 × 28",
+   "Price for 100 - 299": 31.88,
+   "Price for 300 - 499": 29.32,
+   "Price for 500 - 699": 26.99,
+   "Price for 700 - 899": 25.1,
+   "Price for 900 - 999": 23.3,
+   "Price for 1000 above": 21.7,
+   "Printing Cost - Silkscreen": 1.5,
+   "Printing Cost - Pad Print": 1.6,
+   "Printing Cost - UV Print": 5,
+   "Printing Cost - UV Sticker": 1.9,
+   "Printing Cost - Engraving": 3.5,
+   "Image URL": "public/images/placeholder.jpg",
+   "variants": [
+    {
+     "variant": "default",
+     "image": "public/images/placeholder.jpg"
+    }
+   ]
+  },
+  {
+   "Product Code": "JB13",
+   "Category": "Bag",
+   "Name": "Laminated Jute",
+   "Material": "Jute + lamination",
+   "Size (cm)": "20 × 18 × 18 cm",
+   "Weight": 130,
+   "Function / Feature": "-",
+   "Printing Type": "Silk-screen",
+   "Colour Options": "Black, Beige, Red, Neon-Green",
+   "Printing Area (cm)": "14 × 14",
+   "Price for 100 - 299": 22.5,
+   "Price for 300 - 499": 20.7,
+   "Price for 500 - 699": 19,
+   "Price for 700 - 899": 17.7,
+   "Price for 900 - 999": 16.48,
+   "Price for 1000 above": 15.31,
+   "Printing Cost - Silkscreen": 1.5,
+   "Printing Cost - Pad Print": 1.6,
+   "Printing Cost - UV Print": 5,
+   "Printing Cost - UV Sticker": 1.9,
+   "Printing Cost - Engraving": 3.5,
+   "Image URL": "public/images/placeholder.jpg",
+   "variants": [
+    {
+     "variant": "default",
+     "image": "public/images/placeholder.jpg"
+    }
+   ]
+  },
+  {
+   "Product Code": "JB08",
+   "Category": "Bag",
+   "Name": "Soft Jute",
+   "Material": "Soft Jute",
+   "Size (cm)": "30 × 32 cm",
+   "Weight": 210,
+   "Function / Feature": "-",
+   "Printing Type": "Silk-screen",
+   "Colour Options": "Red, Orange, Lime-Green, Purple",
+   "Printing Area (cm)": "26 × 28",
+   "Price for 100 - 299": 10.13,
+   "Price for 300 - 499": 9.31,
+   "Price for 500 - 699": 8.57,
+   "Price for 700 - 899": 7.97,
+   "Price for 900 - 999": 7.41,
+   "Price for 1000 above": 6.89,
+   "Printing Cost - Silkscreen": 1.5,
+   "Printing Cost - Pad Print": 1.6,
+   "Printing Cost - UV Print": 5,
+   "Printing Cost - UV Sticker": 1.9,
+   "Printing Cost - Engraving": 3.5,
+   "Image URL": "public/images/placeholder.jpg",
+   "variants": [
+    {
+     "variant": "default",
+     "image": "public/images/placeholder.jpg"
+    }
+   ]
+  },
+  {
+   "Product Code": "PP73",
+   "Category": "Pen",
+   "Name": "Lanyard",
+   "Material": "Polyester",
+   "Size (cm)": "90 × 0.6 cm",
+   "Weight": 10,
+   "Function / Feature": "-",
+   "Printing Type": "Silk-screen",
+   "Colour Options": "Black, Red, Orange, Royal-Blue, Green, Purple, Silver, White, Yellow",
+   "Printing Area (cm)": "6 × 0.6",
+   "Price for 100 - 299": 1.62,
+   "Price for 300 - 499": 1.49,
+   "Price for 500 - 699": 1.37,
+   "Price for 700 - 899": 1.27,
+   "Price for 900 - 999": 1.18,
+   "Price for 1000 above": 1.1,
+   "Printing Cost - Silkscreen": 1.5,
+   "Printing Cost - Pad Print": 1.6,
+   "Printing Cost - UV Print": 5,
+   "Printing Cost - UV Sticker": 1.9,
+   "Printing Cost - Engraving": 3.5,
+   "Image URL": "public/images/placeholder.jpg",
+   "variants": [
+    {
+     "variant": "default",
+     "image": "public/images/placeholder.jpg"
+    }
+   ]
+  },
+  {
+   "Product Code": "PP76",
+   "Category": "Pen",
+   "Name": "Lanyard",
+   "Material": "Polyester",
+   "Size (cm)": "90 × 0.5 cm",
+   "Weight": 8,
+   "Function / Feature": "-",
+   "Printing Type": "Silk-screen",
+   "Colour Options": "Black, Red, Orange, Royal-Blue, Green, Purple, Silver",
+   "Printing Area (cm)": "7 × 0.5",
+   "Price for 100 - 299": 1.11,
+   "Price for 300 - 499": 1.02,
+   "Price for 500 - 699": 0.94,
+   "Price for 700 - 899": 0.87,
+   "Price for 900 - 999": 0.81,
+   "Price for 1000 above": 0.75,
+   "Printing Cost - Silkscreen": 1.5,
+   "Printing Cost - Pad Print": 1.6,
+   "Printing Cost - UV Print": 5,
+   "Printing Cost - UV Sticker": 1.9,
+   "Printing Cost - Engraving": 3.5,
+   "Image URL": "public/images/placeholder.jpg",
+   "variants": [
+    {
+     "variant": "default",
+     "image": "public/images/placeholder.jpg"
+    }
+   ]
+  },
+  {
+   "Product Code": "PP78",
+   "Category": "Pen",
+   "Name": "Lanyard",
+   "Material": "Polyester",
+   "Size (cm)": "90 × 0.5 cm",
+   "Weight": 9,
+   "Function / Feature": "-",
+   "Printing Type": "Silk-screen",
+   "Colour Options": "Black, Red, Orange, Royal-Blue, Green, Purple, Silver",
+   "Printing Area (cm)": "6 × 0.5",
+   "Price for 100 - 299": 1.65,
+   "Price for 300 - 499": 1.52,
+   "Price for 500 - 699": 1.4,
+   "Price for 700 - 899": 1.3,
+   "Price for 900 - 999": 1.21,
+   "Price for 1000 above": 1.12,
+   "Printing Cost - Silkscreen": 1.5,
+   "Printing Cost - Pad Print": 1.6,
+   "Printing Cost - UV Print": 5,
+   "Printing Cost - UV Sticker": 1.9,
+   "Printing Cost - Engraving": 3.5,
+   "Image URL": "public/images/placeholder.jpg",
+   "variants": [
+    {
+     "variant": "default",
+     "image": "public/images/placeholder.jpg"
+    }
+   ]
+  },
+  {
+   "Product Code": "PP79",
+   "Category": "Pen",
+   "Name": "Lanyard",
+   "Material": "Polyester",
+   "Size (cm)": "90 × 0.5 cm",
+   "Weight": 8,
+   "Function / Feature": "-",
+   "Printing Type": "Silk-screen",
+   "Colour Options": "Black, Red, Orange, Royal-Blue, Green, Purple, Silver",
+   "Printing Area (cm)": "6 × 0.5",
+   "Price for 100 - 299": 1.49,
+   "Price for 300 - 499": 1.37,
+   "Price for 500 - 699": 1.26,
+   "Price for 700 - 899": 1.17,
+   "Price for 900 - 999": 1.09,
+   "Price for 1000 above": 1.01,
+   "Printing Cost - Silkscreen": 1.5,
+   "Printing Cost - Pad Print": 1.6,
+   "Printing Cost - UV Print": 5,
+   "Printing Cost - UV Sticker": 1.9,
+   "Printing Cost - Engraving": 3.5,
+   "Image URL": "public/images/placeholder.jpg",
+   "variants": [
+    {
+     "variant": "default",
+     "image": "public/images/placeholder.jpg"
+    }
+   ]
+  },
+  {
+   "Product Code": "PP75",
+   "Category": "Pen",
+   "Name": "Lanyard",
+   "Material": "Polyester",
+   "Size (cm)": "90 × 0.5 cm",
+   "Weight": 12,
+   "Function / Feature": "-",
+   "Printing Type": "Silk-screen",
+   "Colour Options": "Black, Red, Orange, Royal-Blue, Green, Purple, Silver",
+   "Printing Area (cm)": "4 × 0.5",
+   "Price for 100 - 299": 1.34,
+   "Price for 300 - 499": 1.23,
+   "Price for 500 - 699": 1.13,
+   "Price for 700 - 899": 1.05,
+   "Price for 900 - 999": 0.98,
+   "Price for 1000 above": 0.91,
+   "Printing Cost - Silkscreen": 1.5,
+   "Printing Cost - Pad Print": 1.6,
+   "Printing Cost - UV Print": 5,
+   "Printing Cost - UV Sticker": 1.9,
+   "Printing Cost - Engraving": 3.5,
+   "Image URL": "public/images/placeholder.jpg",
+   "variants": [
+    {
+     "variant": "default",
+     "image": "public/images/placeholder.jpg"
+    }
+   ]
+  },
+  {
+   "Product Code": "MP30",
+   "Category": "Pen",
+   "Name": "Ball-pen",
+   "Material": "Plastic",
+   "Size (cm)": "14.5 cm",
+   "Weight": 15,
+   "Function / Feature": "-",
+   "Printing Type": "Silk-screen / Engraving",
+   "Colour Options": "Black, Grey, Silver",
+   "Printing Area (cm)": "3 × 0.5",
+   "Price for 100 - 299": 15.3,
+   "Price for 300 - 499": 14.08,
+   "Price for 500 - 699": 12.95,
+   "Price for 700 - 899": 12.04,
+   "Price for 900 - 999": 11.2,
+   "Price for 1000 above": 10.42,
+   "Printing Cost - Silkscreen": 1.5,
+   "Printing Cost - Pad Print": 1.6,
+   "Printing Cost - UV Print": 5,
+   "Printing Cost - UV Sticker": 1.9,
+   "Printing Cost - Engraving": 3.5,
+   "Image URL": "public/images/placeholder.jpg",
+   "variants": [
+    {
+     "variant": "default",
+     "image": "public/images/placeholder.jpg"
+    }
+   ]
+  },
+  {
+   "Product Code": "MP29",
+   "Category": "Pen",
+   "Name": "Ball-pen",
+   "Material": "Plastic",
+   "Size (cm)": "14.5 cm",
+   "Weight": 15,
+   "Function / Feature": "-",
+   "Printing Type": "Silk-screen / Engraving",
+   "Colour Options": "White, Black, Grey",
+   "Printing Area (cm)": "3 × 0.5",
+   "Price for 100 - 299": 4.5,
+   "Price for 300 - 499": 4.14,
+   "Price for 500 - 699": 3.81,
+   "Price for 700 - 899": 3.54,
+   "Price for 900 - 999": 3.29,
+   "Price for 1000 above": 3.06,
+   "Printing Cost - Silkscreen": 1.5,
+   "Printing Cost - Pad Print": 1.6,
+   "Printing Cost - UV Print": 5,
+   "Printing Cost - UV Sticker": 1.9,
+   "Printing Cost - Engraving": 3.5,
+   "Image URL": "public/images/placeholder.jpg",
+   "variants": [
+    {
+     "variant": "default",
+     "image": "public/images/placeholder.jpg"
+    }
+   ]
+  },
+  {
+   "Product Code": "MP36",
+   "Category": "Pen",
+   "Name": "Ball-pen",
+   "Material": "Plastic",
+   "Size (cm)": "14.5 cm",
+   "Weight": 20,
+   "Function / Feature": "-",
+   "Printing Type": "Silk-screen / Engraving",
+   "Colour Options": "Black, Grey",
+   "Printing Area (cm)": "3 × 0.5",
+   "Price for 100 - 299": 15.3,
+   "Price for 300 - 499": 14.08,
+   "Price for 500 - 699": 12.95,
+   "Price for 700 - 899": 12.04,
+   "Price for 900 - 999": 11.2,
+   "Price for 1000 above": 10.42,
+   "Printing Cost - Silkscreen": 1.5,
+   "Printing Cost - Pad Print": 1.6,
+   "Printing Cost - UV Print": 5,
+   "Printing Cost - UV Sticker": 1.9,
+   "Printing Cost - Engraving": 3.5,
+   "Image URL": "public/images/placeholder.jpg",
+   "variants": [
+    {
+     "variant": "default",
+     "image": "public/images/placeholder.jpg"
+    }
+   ]
+  },
+  {
+   "Product Code": "MP35",
+   "Category": "Pen",
+   "Name": "Ball-pen",
+   "Material": "Plastic",
+   "Size (cm)": "14.5 cm",
+   "Weight": 20,
+   "Function / Feature": "-",
+   "Printing Type": "Silk-screen / Engraving",
+   "Colour Options": "Grey",
+   "Printing Area (cm)": "3 × 0.5",
+   "Price for 100 - 299": 11.25,
+   "Price for 300 - 499": 10.35,
+   "Price for 500 - 699": 9.52,
+   "Price for 700 - 899": 8.85,
+   "Price for 900 - 999": 8.23,
+   "Price for 1000 above": 7.65,
+   "Printing Cost - Silkscreen": 1.5,
+   "Printing Cost - Pad Print": 1.6,
+   "Printing Cost - UV Print": 5,
+   "Printing Cost - UV Sticker": 1.9,
+   "Printing Cost - Engraving": 3.5,
+   "Image URL": "public/images/placeholder.jpg",
+   "variants": [
+    {
+     "variant": "default",
+     "image": "public/images/placeholder.jpg"
+    }
+   ]
+  },
+  {
+   "Product Code": "MP37",
+   "Category": "Pen",
+   "Name": "Ball-pen",
+   "Material": "Plastic",
+   "Size (cm)": "14.5 cm",
+   "Weight": 20,
+   "Function / Feature": "-",
+   "Printing Type": "Silk-screen / Engraving",
+   "Colour Options": "Black",
+   "Printing Area (cm)": "3 × 0.5",
+   "Price for 100 - 299": 15.3,
+   "Price for 300 - 499": 14.08,
+   "Price for 500 - 699": 12.95,
+   "Price for 700 - 899": 12.04,
+   "Price for 900 - 999": 11.2,
+   "Price for 1000 above": 10.42,
+   "Printing Cost - Silkscreen": 1.5,
+   "Printing Cost - Pad Print": 1.6,
+   "Printing Cost - UV Print": 5,
+   "Printing Cost - UV Sticker": 1.9,
+   "Printing Cost - Engraving": 3.5,
+   "Image URL": "public/images/placeholder.jpg",
+   "variants": [
+    {
+     "variant": "default",
+     "image": "public/images/placeholder.jpg"
+    }
+   ]
+  },
+  {
+   "Product Code": "MP34",
+   "Category": "Pen",
+   "Name": "Ball-pen",
+   "Material": "Plastic",
+   "Size (cm)": "14.5 cm",
+   "Weight": 35,
+   "Function / Feature": "-",
+   "Printing Type": "Silk-screen / Engraving",
+   "Colour Options": "Royal-Blue, Black",
+   "Printing Area (cm)": "3 × 0.5",
+   "Price for 100 - 299": 16.88,
+   "Price for 300 - 499": 15.52,
+   "Price for 500 - 699": 14.28,
+   "Price for 700 - 899": 13.28,
+   "Price for 900 - 999": 12.35,
+   "Price for 1000 above": 11.48,
+   "Printing Cost - Silkscreen": 1.5,
+   "Printing Cost - Pad Print": 1.6,
+   "Printing Cost - UV Print": 5,
+   "Printing Cost - UV Sticker": 1.9,
+   "Printing Cost - Engraving": 3.5,
+   "Image URL": "public/images/placeholder.jpg",
+   "variants": [
+    {
+     "variant": "default",
+     "image": "public/images/placeholder.jpg"
+    }
+   ]
+  },
+  {
+   "Product Code": "MP33",
+   "Category": "Pen",
+   "Name": "Ball-pen",
+   "Material": "Plastic",
+   "Size (cm)": "14.5 cm",
+   "Weight": 35,
+   "Function / Feature": "-",
+   "Printing Type": "Silk-screen / Engraving",
+   "Colour Options": "Black",
+   "Printing Area (cm)": "3 × 0.5",
+   "Price for 100 - 299": 15.3,
+   "Price for 300 - 499": 14.08,
+   "Price for 500 - 699": 12.95,
+   "Price for 700 - 899": 12.04,
+   "Price for 900 - 999": 11.2,
+   "Price for 1000 above": 10.42,
+   "Printing Cost - Silkscreen": 1.5,
+   "Printing Cost - Pad Print": 1.6,
+   "Printing Cost - UV Print": 5,
+   "Printing Cost - UV Sticker": 1.9,
+   "Printing Cost - Engraving": 3.5,
+   "Image URL": "public/images/placeholder.jpg",
+   "variants": [
+    {
+     "variant": "default",
+     "image": "public/images/placeholder.jpg"
+    }
+   ]
+  },
+  {
+   "Product Code": "MP32",
+   "Category": "Pen",
+   "Name": "Ball-pen",
+   "Material": "Plastic",
+   "Size (cm)": "14.5 cm",
+   "Weight": 35,
+   "Function / Feature": "-",
+   "Printing Type": "Silk-screen / Engraving",
+   "Colour Options": "Black",
+   "Printing Area (cm)": "3 × 0.5",
+   "Price for 100 - 299": 11.25,
+   "Price for 300 - 499": 10.35,
+   "Price for 500 - 699": 9.52,
+   "Price for 700 - 899": 8.85,
+   "Price for 900 - 999": 8.23,
+   "Price for 1000 above": 7.65,
+   "Printing Cost - Silkscreen": 1.5,
+   "Printing Cost - Pad Print": 1.6,
+   "Printing Cost - UV Print": 5,
+   "Printing Cost - UV Sticker": 1.9,
+   "Printing Cost - Engraving": 3.5,
+   "Image URL": "public/images/placeholder.jpg",
+   "variants": [
+    {
+     "variant": "default",
+     "image": "public/images/placeholder.jpg"
+    }
+   ]
+  },
+  {
+   "Product Code": "MP31",
+   "Category": "Pen",
+   "Name": "Ball-pen",
+   "Material": "Plastic",
+   "Size (cm)": "14.5 cm",
+   "Weight": 40,
+   "Function / Feature": "-",
+   "Printing Type": "Silk-screen / Engraving",
+   "Colour Options": "Black",
+   "Printing Area (cm)": "3 × 0.5",
+   "Price for 100 - 299": 19.13,
+   "Price for 300 - 499": 17.59,
+   "Price for 500 - 699": 16.18,
+   "Price for 700 - 899": 15.05,
+   "Price for 900 - 999": 13.99,
+   "Price for 1000 above": 13.01,
+   "Printing Cost - Silkscreen": 1.5,
+   "Printing Cost - Pad Print": 1.6,
+   "Printing Cost - UV Print": 5,
+   "Printing Cost - UV Sticker": 1.9,
+   "Printing Cost - Engraving": 3.5,
+   "Image URL": "public/images/placeholder.jpg",
+   "variants": [
+    {
+     "variant": "default",
+     "image": "public/images/placeholder.jpg"
+    }
+   ]
+  },
+  {
+   "Product Code": "MP28",
+   "Category": "Pen",
+   "Name": "Metal Ball-pen",
+   "Material": "Metal",
+   "Size (cm)": "14.5 cm",
+   "Weight": 50,
+   "Function / Feature": "-",
+   "Printing Type": "Silk-screen / Engraving",
+   "Colour Options": "Black/Gold",
+   "Printing Area (cm)": "4 × 0.6",
+   "Price for 100 - 299": 18,
+   "Price for 300 - 499": 16.56,
+   "Price for 500 - 699": 15.23,
+   "Price for 700 - 899": 14.16,
+   "Price for 900 - 999": 13.17,
+   "Price for 1000 above": 12.25,
+   "Printing Cost - Silkscreen": 1.5,
+   "Printing Cost - Pad Print": 1.6,
+   "Printing Cost - UV Print": 5,
+   "Printing Cost - UV Sticker": 1.9,
+   "Printing Cost - Engraving": 3.5,
+   "Image URL": "public/images/placeholder.jpg",
+   "variants": [
+    {
+     "variant": "default",
+     "image": "public/images/placeholder.jpg"
+    }
+   ]
+  },
+  {
+   "Product Code": "MP15",
+   "Category": "Pen",
+   "Name": "Metal Ball-pen",
+   "Material": "Metal",
+   "Size (cm)": "14.5 cm",
+   "Weight": 40,
+   "Function / Feature": "-",
+   "Printing Type": "Silk-screen / Engraving",
+   "Colour Options": "Black",
+   "Printing Area (cm)": "3 × 0.5",
+   "Price for 100 - 299": 13.5,
+   "Price for 300 - 499": 12.42,
+   "Price for 500 - 699": 11.43,
+   "Price for 700 - 899": 10.63,
+   "Price for 900 - 999": 9.88,
+   "Price for 1000 above": 9.19,
+   "Printing Cost - Silkscreen": 1.5,
+   "Printing Cost - Pad Print": 1.6,
+   "Printing Cost - UV Print": 5,
+   "Printing Cost - UV Sticker": 1.9,
+   "Printing Cost - Engraving": 3.5,
+   "Image URL": "public/images/placeholder.jpg",
+   "variants": [
+    {
+     "variant": "default",
+     "image": "public/images/placeholder.jpg"
+    }
+   ]
+  },
+  {
+   "Product Code": "MP16",
+   "Category": "Pen",
+   "Name": "Metal Ball-pen",
+   "Material": "Metal",
+   "Size (cm)": "14.5 cm",
+   "Weight": 30,
+   "Function / Feature": "-",
+   "Printing Type": "Silk-screen / Engraving",
+   "Colour Options": "Gold, Silver",
+   "Printing Area (cm)": "3 × 0.5",
+   "Price for 100 - 299": 11.25,
+   "Price for 300 - 499": 10.35,
+   "Price for 500 - 699": 9.52,
+   "Price for 700 - 899": 8.85,
+   "Price for 900 - 999": 8.23,
+   "Price for 1000 above": 7.65,
+   "Printing Cost - Silkscreen": 1.5,
+   "Printing Cost - Pad Print": 1.6,
+   "Printing Cost - UV Print": 5,
+   "Printing Cost - UV Sticker": 1.9,
+   "Printing Cost - Engraving": 3.5,
+   "Image URL": "public/images/placeholder.jpg",
+   "variants": [
+    {
+     "variant": "default",
+     "image": "public/images/placeholder.jpg"
+    }
+   ]
+  },
+  {
+   "Product Code": "MP22",
+   "Category": "Pen",
+   "Name": "Plastic Ball-pen",
+   "Material": "Plastic",
+   "Size (cm)": "14.5 cm",
+   "Weight": 9,
+   "Function / Feature": "-",
+   "Printing Type": "Silk-screen / Engraving",
+   "Colour Options": "Black, Red, Royal-Blue",
+   "Printing Area (cm)": "3 × 0.5",
+   "Price for 100 - 299": 6.3,
+   "Price for 300 - 499": 5.8,
+   "Price for 500 - 699": 5.33,
+   "Price for 700 - 899": 4.96,
+   "Price for 900 - 999": 4.61,
+   "Price for 1000 above": 4.29,
+   "Printing Cost - Silkscreen": 1.5,
+   "Printing Cost - Pad Print": 1.6,
+   "Printing Cost - UV Print": 5,
+   "Printing Cost - UV Sticker": 1.9,
+   "Printing Cost - Engraving": 3.5,
+   "Image URL": "public/images/placeholder.jpg",
+   "variants": [
+    {
+     "variant": "default",
+     "image": "public/images/placeholder.jpg"
+    }
+   ]
+  },
+  {
+   "Product Code": "MP26",
+   "Category": "Pen",
+   "Name": "Metal Ball-pen",
+   "Material": "Metal",
+   "Size (cm)": "14.5 cm",
+   "Weight": 40,
+   "Function / Feature": "-",
+   "Printing Type": "Silk-screen / Engraving",
+   "Colour Options": "Silver",
+   "Printing Area (cm)": "3.5 × 0.6",
+   "Price for 100 - 299": 11.25,
+   "Price for 300 - 499": 10.35,
+   "Price for 500 - 699": 9.52,
+   "Price for 700 - 899": 8.85,
+   "Price for 900 - 999": 8.23,
+   "Price for 1000 above": 7.65,
+   "Printing Cost - Silkscreen": 1.5,
+   "Printing Cost - Pad Print": 1.6,
+   "Printing Cost - UV Print": 5,
+   "Printing Cost - UV Sticker": 1.9,
+   "Printing Cost - Engraving": 3.5,
+   "Image URL": "public/images/placeholder.jpg",
+   "variants": [
+    {
+     "variant": "default",
+     "image": "public/images/placeholder.jpg"
+    }
+   ]
+  },
+  {
+   "Product Code": "MP09",
+   "Category": "Pen",
+   "Name": "Metal Ball-pen",
+   "Material": "Metal",
+   "Size (cm)": "14.5 cm",
+   "Weight": 30,
+   "Function / Feature": "-",
+   "Printing Type": "Silk-screen / Engraving",
+   "Colour Options": "Black",
+   "Printing Area (cm)": "3 × 0.5",
+   "Price for 100 - 299": 11.25,
+   "Price for 300 - 499": 10.35,
+   "Price for 500 - 699": 9.52,
+   "Price for 700 - 899": 8.85,
+   "Price for 900 - 999": 8.23,
+   "Price for 1000 above": 7.65,
+   "Printing Cost - Silkscreen": 1.5,
+   "Printing Cost - Pad Print": 1.6,
+   "Printing Cost - UV Print": 5,
+   "Printing Cost - UV Sticker": 1.9,
+   "Printing Cost - Engraving": 3.5,
+   "Image URL": "public/images/placeholder.jpg",
+   "variants": [
+    {
+     "variant": "default",
+     "image": "public/images/placeholder.jpg"
+    }
+   ]
+  },
+  {
+   "Product Code": "MP27",
+   "Category": "Pen",
+   "Name": "Metal Ball-pen",
+   "Material": "Metal",
+   "Size (cm)": "14.5 cm",
+   "Weight": 40,
+   "Function / Feature": "-",
+   "Printing Type": "Silk-screen / Engraving",
+   "Colour Options": "Black",
+   "Printing Area (cm)": "4 × 0.6",
+   "Price for 100 - 299": 12.38,
+   "Price for 300 - 499": 11.38,
+   "Price for 500 - 699": 10.47,
+   "Price for 700 - 899": 9.74,
+   "Price for 900 - 999": 9.06,
+   "Price for 1000 above": 8.42,
+   "Printing Cost - Silkscreen": 1.5,
+   "Printing Cost - Pad Print": 1.6,
+   "Printing Cost - UV Print": 5,
+   "Printing Cost - UV Sticker": 1.9,
+   "Printing Cost - Engraving": 3.5,
+   "Image URL": "public/images/placeholder.jpg",
+   "variants": [
+    {
+     "variant": "default",
+     "image": "public/images/placeholder.jpg"
+    }
+   ]
+  },
+  {
+   "Product Code": "MP11",
+   "Category": "Pen",
+   "Name": "Metal Ball-pen",
+   "Material": "Metal",
+   "Size (cm)": "14.5 cm",
+   "Weight": 40,
+   "Function / Feature": "-",
+   "Printing Type": "Silk-screen / Engraving",
+   "Colour Options": "Silver",
+   "Printing Area (cm)": "3 × 0.5",
+   "Price for 100 - 299": 14.63,
+   "Price for 300 - 499": 13.45,
+   "Price for 500 - 699": 12.37,
+   "Price for 700 - 899": 11.5,
+   "Price for 900 - 999": 10.7,
+   "Price for 1000 above": 9.95,
+   "Printing Cost - Silkscreen": 1.5,
+   "Printing Cost - Pad Print": 1.6,
+   "Printing Cost - UV Print": 5,
+   "Printing Cost - UV Sticker": 1.9,
+   "Printing Cost - Engraving": 3.5,
+   "Image URL": "public/images/placeholder.jpg",
+   "variants": [
+    {
+     "variant": "default",
+     "image": "public/images/placeholder.jpg"
+    }
+   ]
+  },
+  {
+   "Product Code": "MP24",
+   "Category": "Pen",
+   "Name": "Plastic Ball-pen",
+   "Material": "Plastic",
+   "Size (cm)": "14.5 cm",
+   "Weight": 20,
+   "Function / Feature": "-",
+   "Printing Type": "Silk-screen / Engraving",
+   "Colour Options": "White, Black, Royal-Blue, Pink, Purple",
+   "Printing Area (cm)": "4 × 0.5",
+   "Price for 100 - 299": 6.3,
+   "Price for 300 - 499": 5.8,
+   "Price for 500 - 699": 5.33,
+   "Price for 700 - 899": 4.96,
+   "Price for 900 - 999": 4.61,
+   "Price for 1000 above": 4.29,
+   "Printing Cost - Silkscreen": 1.5,
+   "Printing Cost - Pad Print": 1.6,
+   "Printing Cost - UV Print": 5,
+   "Printing Cost - UV Sticker": 1.9,
+   "Printing Cost - Engraving": 3.5,
+   "Image URL": "public/images/placeholder.jpg",
+   "variants": [
+    {
+     "variant": "default",
+     "image": "public/images/placeholder.jpg"
+    }
+   ]
+  },
+  {
+   "Product Code": "MP25",
+   "Category": "Pen",
+   "Name": "Plastic Ball-pen",
+   "Material": "Plastic",
+   "Size (cm)": "14.5 cm",
+   "Weight": 20,
+   "Function / Feature": "-",
+   "Printing Type": "Silk-screen / Engraving",
+   "Colour Options": "Red, Orange, Royal-Blue, Grey, Silver",
+   "Printing Area (cm)": "3 × 0.5",
+   "Price for 100 - 299": 6.3,
+   "Price for 300 - 499": 5.8,
+   "Price for 500 - 699": 5.33,
+   "Price for 700 - 899": 4.96,
+   "Price for 900 - 999": 4.61,
+   "Price for 1000 above": 4.29,
+   "Printing Cost - Silkscreen": 1.5,
+   "Printing Cost - Pad Print": 1.6,
+   "Printing Cost - UV Print": 5,
+   "Printing Cost - UV Sticker": 1.9,
+   "Printing Cost - Engraving": 3.5,
+   "Image URL": "public/images/placeholder.jpg",
+   "variants": [
+    {
+     "variant": "default",
+     "image": "public/images/placeholder.jpg"
+    }
+   ]
+  },
+  {
+   "Product Code": "EC03",
+   "Category": "Notebook",
+   "Name": "Eco-Notebook + Pen",
+   "Material": "Recycled kraft",
+   "Size (cm)": "14 × 18 cm",
+   "Weight": 170,
+   "Function / Feature": "70 sheets, OPP bag",
+   "Printing Type": "Silk-screen",
+   "Colour Options": "Black, Red, Royal-Blue, Green",
+   "Printing Area (cm)": "8 × 16",
+   "Price for 100 - 299": 9,
+   "Price for 300 - 499": 8.28,
+   "Price for 500 - 699": 7.62,
+   "Price for 700 - 899": 7.09,
+   "Price for 900 - 999": 6.59,
+   "Price for 1000 above": 6.13,
+   "Printing Cost - Silkscreen": 1.5,
+   "Printing Cost - Pad Print": 1.6,
+   "Printing Cost - UV Print": 5,
+   "Printing Cost - UV Sticker": 1.9,
+   "Printing Cost - Engraving": 3.5,
+   "Image URL": "public/images/placeholder.jpg",
+   "variants": [
+    {
+     "variant": "default",
+     "image": "public/images/placeholder.jpg"
+    }
+   ]
+  },
+  {
+   "Product Code": "EC04",
+   "Category": "Notebook",
+   "Name": "Eco-Notebook + Pen",
+   "Material": "Recycled kraft",
+   "Size (cm)": "14 × 18 cm",
+   "Weight": 175,
+   "Function / Feature": "70 sheets, OPP bag",
+   "Printing Type": "Silk-screen",
+   "Colour Options": "Red, Orange, Green",
+   "Printing Area (cm)": "8 × 12",
+   "Price for 100 - 299": 9,
+   "Price for 300 - 499": 8.28,
+   "Price for 500 - 699": 7.62,
+   "Price for 700 - 899": 7.09,
+   "Price for 900 - 999": 6.59,
+   "Price for 1000 above": 6.13,
+   "Printing Cost - Silkscreen": 1.5,
+   "Printing Cost - Pad Print": 1.6,
+   "Printing Cost - UV Print": 5,
+   "Printing Cost - UV Sticker": 1.9,
+   "Printing Cost - Engraving": 3.5,
+   "Image URL": "public/images/placeholder.jpg",
+   "variants": [
+    {
+     "variant": "default",
+     "image": "public/images/placeholder.jpg"
+    }
+   ]
+  },
+  {
+   "Product Code": "EC05",
+   "Category": "Notebook",
+   "Name": "Eco-Notebook + Pen",
+   "Material": "Recycled kraft",
+   "Size (cm)": "14 × 18 cm",
+   "Weight": 170,
+   "Function / Feature": "70 sheets, OPP bag",
+   "Printing Type": "Silk-screen",
+   "Colour Options": "Red, Navy",
+   "Printing Area (cm)": "Logo-1: 8 × 5 Logo-2: 8 × 8",
+   "Price for 100 - 299": 9,
+   "Price for 300 - 499": 8.28,
+   "Price for 500 - 699": 7.62,
+   "Price for 700 - 899": 7.09,
+   "Price for 900 - 999": 6.59,
+   "Price for 1000 above": 6.13,
+   "Printing Cost - Silkscreen": 1.5,
+   "Printing Cost - Pad Print": 1.6,
+   "Printing Cost - UV Print": 5,
+   "Printing Cost - UV Sticker": 1.9,
+   "Printing Cost - Engraving": 3.5,
+   "Image URL": "public/images/placeholder.jpg",
+   "variants": [
+    {
+     "variant": "default",
+     "image": "public/images/placeholder.jpg"
+    }
+   ]
+  },
+  {
+   "Product Code": "EC06",
+   "Category": "Notebook",
+   "Name": "Eco-Notebook + Pen",
+   "Material": "Recycled kraft",
+   "Size (cm)": "11 × 14.5 cm",
+   "Weight": 110,
+   "Function / Feature": "70 sheets, OPP bag",
+   "Printing Type": "Silk-screen",
+   "Colour Options": "Khaki, Black",
+   "Printing Area (cm)": "8 × 8",
+   "Price for 100 - 299": 6.75,
+   "Price for 300 - 499": 6.21,
+   "Price for 500 - 699": 5.71,
+   "Price for 700 - 899": 5.31,
+   "Price for 900 - 999": 4.94,
+   "Price for 1000 above": 4.59,
+   "Printing Cost - Silkscreen": 1.5,
+   "Printing Cost - Pad Print": 1.6,
+   "Printing Cost - UV Print": 5,
+   "Printing Cost - UV Sticker": 1.9,
+   "Printing Cost - Engraving": 3.5,
+   "Image URL": "public/images/placeholder.jpg",
+   "variants": [
+    {
+     "variant": "default",
+     "image": "public/images/placeholder.jpg"
+    }
+   ]
+  },
+  {
+   "Product Code": "EC07",
+   "Category": "Notebook",
+   "Name": "Bamboo-Notebook + Pen",
+   "Material": "Bamboo cover",
+   "Size (cm)": "12 × 16 cm",
+   "Weight": 110,
+   "Function / Feature": "70 sheets, OPP bag",
+   "Printing Type": "Silk-screen",
+   "Colour Options": "Red, Orange, Royal-Blue",
+   "Printing Area (cm)": "7 × 14",
+   "Price for 100 - 299": 9,
+   "Price for 300 - 499": 8.28,
+   "Price for 500 - 699": 7.62,
+   "Price for 700 - 899": 7.09,
+   "Price for 900 - 999": 6.59,
+   "Price for 1000 above": 6.13,
+   "Printing Cost - Silkscreen": 1.5,
+   "Printing Cost - Pad Print": 1.6,
+   "Printing Cost - UV Print": 5,
+   "Printing Cost - UV Sticker": 1.9,
+   "Printing Cost - Engraving": 3.5,
+   "Image URL": "public/images/placeholder.jpg",
+   "variants": [
+    {
+     "variant": "default",
+     "image": "public/images/placeholder.jpg"
+    }
+   ]
+  },
+  {
+   "Product Code": "EC15",
+   "Category": "Notebook",
+   "Name": "Eco-Notebook + Pen",
+   "Material": "Recycled kraft",
+   "Size (cm)": "11.5 × 14.5 cm",
+   "Weight": 100,
+   "Function / Feature": "70 sheets, OPP bag",
+   "Printing Type": "Silk-screen",
+   "Colour Options": "Black, Red, Royal-Blue",
+   "Printing Area (cm)": "7 × 12",
+   "Price for 100 - 299": 9,
+   "Price for 300 - 499": 8.28,
+   "Price for 500 - 699": 7.62,
+   "Price for 700 - 899": 7.09,
+   "Price for 900 - 999": 6.59,
+   "Price for 1000 above": 6.13,
+   "Printing Cost - Silkscreen": 1.5,
+   "Printing Cost - Pad Print": 1.6,
+   "Printing Cost - UV Print": 5,
+   "Printing Cost - UV Sticker": 1.9,
+   "Printing Cost - Engraving": 3.5,
+   "Image URL": "public/images/placeholder.jpg",
+   "variants": [
+    {
+     "variant": "default",
+     "image": "public/images/placeholder.jpg"
+    }
+   ]
+  },
+  {
+   "Product Code": "EC16",
+   "Category": "Notebook",
+   "Name": "Eco-Notebook + Pen",
+   "Material": "Recycled kraft",
+   "Size (cm)": "10 × 14.5 cm",
+   "Weight": 83,
+   "Function / Feature": "70 sheets, OPP bag",
+   "Printing Type": "Silk-screen",
+   "Colour Options": "Red, Orange, Royal-Blue, Lime-Green",
+   "Printing Area (cm)": "4 × 7",
+   "Price for 100 - 299": 9.45,
+   "Price for 300 - 499": 8.69,
+   "Price for 500 - 699": 8,
+   "Price for 700 - 899": 7.44,
+   "Price for 900 - 999": 6.92,
+   "Price for 1000 above": 6.44,
+   "Printing Cost - Silkscreen": 1.5,
+   "Printing Cost - Pad Print": 1.6,
+   "Printing Cost - UV Print": 5,
+   "Printing Cost - UV Sticker": 1.9,
+   "Printing Cost - Engraving": 3.5,
+   "Image URL": "public/images/placeholder.jpg",
+   "variants": [
+    {
+     "variant": "default",
+     "image": "public/images/placeholder.jpg"
+    }
+   ]
+  },
+  {
+   "Product Code": "EC17",
+   "Category": "Notebook",
+   "Name": "Eco-HardCover Notebook",
+   "Material": "Recycled kraft",
+   "Size (cm)": "9 × 9 × 9 cm",
+   "Weight": 313,
+   "Function / Feature": "70 gsm paper, OPP bag",
+   "Printing Type": "Silk-screen",
+   "Colour Options": "Black, Khaki",
+   "Printing Area (cm)": "7 × 9",
+   "Price for 100 - 299": 23.63,
+   "Price for 300 - 499": 21.73,
+   "Price for 500 - 699": 20,
+   "Price for 700 - 899": 18.6,
+   "Price for 900 - 999": 17.3,
+   "Price for 1000 above": 16.09,
+   "Printing Cost - Silkscreen": 1.5,
+   "Printing Cost - Pad Print": 1.6,
+   "Printing Cost - UV Print": 5,
+   "Printing Cost - UV Sticker": 1.9,
+   "Printing Cost - Engraving": 3.5,
+   "Image URL": "public/images/placeholder.jpg",
+   "variants": [
+    {
+     "variant": "default",
+     "image": "public/images/placeholder.jpg"
+    }
+   ]
+  },
+  {
+   "Product Code": "EC18",
+   "Category": "Notebook",
+   "Name": "Eco-HardCover Notebook",
+   "Material": "Recycled kraft",
+   "Size (cm)": "7 × 8 cm",
+   "Weight": 85,
+   "Function / Feature": "70 gsm paper, OPP bag",
+   "Printing Type": "Silk-screen",
+   "Colour Options": "Black, Khaki",
+   "Printing Area (cm)": "5 × 4",
+   "Price for 100 - 299": 9.68,
+   "Price for 300 - 499": 8.9,
+   "Price for 500 - 699": 8.19,
+   "Price for 700 - 899": 7.62,
+   "Price for 900 - 999": 7.09,
+   "Price for 1000 above": 6.59,
+   "Printing Cost - Silkscreen": 1.5,
+   "Printing Cost - Pad Print": 1.6,
+   "Printing Cost - UV Print": 5,
+   "Printing Cost - UV Sticker": 1.9,
+   "Printing Cost - Engraving": 3.5,
+   "Image URL": "public/images/placeholder.jpg",
+   "variants": [
+    {
+     "variant": "default",
+     "image": "public/images/placeholder.jpg"
+    }
+   ]
+  },
+  {
+   "Product Code": "EC22",
+   "Category": "Notebook",
+   "Name": "Sticky-Note Book",
+   "Material": "Recycled kraft",
+   "Size (cm)": "8.5 × 11 cm",
+   "Weight": 75,
+   "Function / Feature": "Sticky pad, OPP bag",
+   "Printing Type": "Silk-screen",
+   "Colour Options": "Natural, Red, Navy",
+   "Printing Area (cm)": "7 × 9",
+   "Price for 100 - 299": 11.25,
+   "Price for 300 - 499": 10.35,
+   "Price for 500 - 699": 9.52,
+   "Price for 700 - 899": 8.85,
+   "Price for 900 - 999": 8.23,
+   "Price for 1000 above": 7.65,
+   "Printing Cost - Silkscreen": 1.5,
+   "Printing Cost - Pad Print": 1.6,
+   "Printing Cost - UV Print": 5,
+   "Printing Cost - UV Sticker": 1.9,
+   "Printing Cost - Engraving": 3.5,
+   "Image URL": "public/images/placeholder.jpg",
+   "variants": [
+    {
+     "variant": "default",
+     "image": "public/images/placeholder.jpg"
+    }
+   ]
+  },
+  {
+   "Product Code": "EC19",
+   "Category": "Notebook",
+   "Name": "Sticky-Note Book",
+   "Material": "Recycled kraft",
+   "Size (cm)": "8.5 × 13 cm",
+   "Weight": 100,
+   "Function / Feature": "Sticky pad, OPP bag",
+   "Printing Type": "Silk-screen",
+   "Colour Options": "Natural, Red, Navy",
+   "Printing Area (cm)": "7 × 11",
+   "Price for 100 - 299": 11.25,
+   "Price for 300 - 499": 10.35,
+   "Price for 500 - 699": 9.52,
+   "Price for 700 - 899": 8.85,
+   "Price for 900 - 999": 8.23,
+   "Price for 1000 above": 7.65,
+   "Printing Cost - Silkscreen": 1.5,
+   "Printing Cost - Pad Print": 1.6,
+   "Printing Cost - UV Print": 5,
+   "Printing Cost - UV Sticker": 1.9,
+   "Printing Cost - Engraving": 3.5,
+   "Image URL": "public/images/placeholder.jpg",
+   "variants": [
+    {
+     "variant": "default",
+     "image": "public/images/placeholder.jpg"
+    }
+   ]
+  },
+  {
+   "Product Code": "EC21",
+   "Category": "Notebook",
+   "Name": "Sticky-Note + Pen",
+   "Material": "PVC cover",
+   "Size (cm)": "8.5 × 12.5 cm",
+   "Weight": 55,
+   "Function / Feature": "40 sheets + sticky, OPP bag",
+   "Printing Type": "Silk-screen",
+   "Colour Options": "Natural, Black, Red, Royal-Blue",
+   "Printing Area (cm)": "6.5 × 6.5",
+   "Price for 100 - 299": 7.43,
+   "Price for 300 - 499": 6.83,
+   "Price for 500 - 699": 6.28,
+   "Price for 700 - 899": 5.84,
+   "Price for 900 - 999": 5.43,
+   "Price for 1000 above": 5.05,
+   "Printing Cost - Silkscreen": 1.5,
+   "Printing Cost - Pad Print": 1.6,
+   "Printing Cost - UV Print": 5,
+   "Printing Cost - UV Sticker": 1.9,
+   "Printing Cost - Engraving": 3.5,
+   "Image URL": "public/images/placeholder.jpg",
+   "variants": [
+    {
+     "variant": "default",
+     "image": "public/images/placeholder.jpg"
+    }
+   ]
+  },
+  {
+   "Product Code": "EC20",
+   "Category": "Notebook",
+   "Name": "Sticky-Note Book",
+   "Material": "PVC cover",
+   "Size (cm)": "10 × 10 cm",
+   "Weight": 55,
+   "Function / Feature": "Sticky pad, OPP bag",
+   "Printing Type": "Silk-screen",
+   "Colour Options": "Black, Red, Sea-Blue",
+   "Printing Area (cm)": "6 × 6",
+   "Price for 100 - 299": 5.63,
+   "Price for 300 - 499": 5.17,
+   "Price for 500 - 699": 4.76,
+   "Price for 700 - 899": 4.43,
+   "Price for 900 - 999": 4.12,
+   "Price for 1000 above": 3.83,
+   "Printing Cost - Silkscreen": 1.5,
+   "Printing Cost - Pad Print": 1.6,
+   "Printing Cost - UV Print": 5,
+   "Printing Cost - UV Sticker": 1.9,
+   "Printing Cost - Engraving": 3.5,
+   "Image URL": "public/images/placeholder.jpg",
+   "variants": [
+    {
+     "variant": "default",
+     "image": "public/images/placeholder.jpg"
+    }
+   ]
+  },
+  {
+   "Product Code": "EC23",
+   "Category": "Notebook",
+   "Name": "Mini Sticky-Notebook + Pen",
+   "Material": "Recycled kraft",
+   "Size (cm)": "8 × 10.5 cm",
+   "Weight": 53,
+   "Function / Feature": "Sticky pad, OPP bag",
+   "Printing Type": "Silk-screen",
+   "Colour Options": "Natural, Black, Red",
+   "Printing Area (cm)": "3 × 9",
+   "Price for 100 - 299": 6.3,
+   "Price for 300 - 499": 5.8,
+   "Price for 500 - 699": 5.33,
+   "Price for 700 - 899": 4.96,
+   "Price for 900 - 999": 4.61,
+   "Price for 1000 above": 4.29,
+   "Printing Cost - Silkscreen": 1.5,
+   "Printing Cost - Pad Print": 1.6,
+   "Printing Cost - UV Print": 5,
+   "Printing Cost - UV Sticker": 1.9,
+   "Printing Cost - Engraving": 3.5,
+   "Image URL": "public/images/placeholder.jpg",
+   "variants": [
+    {
+     "variant": "default",
+     "image": "public/images/placeholder.jpg"
+    }
+   ]
+  },
+  {
+   "Product Code": "EC24",
+   "Category": "Notebook",
+   "Name": "Eco-Notebook + Pen",
+   "Material": "Recycled kraft",
+   "Size (cm)": "9.5 × 14.5 cm",
+   "Weight": "-",
+   "Function / Feature": "70 sheets, OPP bag",
+   "Printing Type": "Silk-screen",
+   "Colour Options": "Natural, Black, Red, Royal-Blue",
+   "Printing Area (cm)": "4 × 6",
+   "Price for 100 - 299": 7.88,
+   "Price for 300 - 499": 7.25,
+   "Price for 500 - 699": 6.67,
+   "Price for 700 - 899": 6.2,
+   "Price for 900 - 999": 5.77,
+   "Price for 1000 above": 5.36,
+   "Printing Cost - Silkscreen": 1.5,
+   "Printing Cost - Pad Print": 1.6,
+   "Printing Cost - UV Print": 5,
+   "Printing Cost - UV Sticker": 1.9,
+   "Printing Cost - Engraving": 3.5,
+   "Image URL": "public/images/placeholder.jpg",
+   "variants": [
+    {
+     "variant": "default",
+     "image": "public/images/placeholder.jpg"
+    }
+   ]
+  },
+  {
+   "Product Code": "EC25",
+   "Category": "Notebook",
+   "Name": "Bamboo-Notebook + Pen",
+   "Material": "Bamboo cover",
+   "Size (cm)": "14 × 18 cm",
+   "Weight": "-",
+   "Function / Feature": "70 sheets, OPP bag",
+   "Printing Type": "Silk-screen",
+   "Colour Options": "Black, Orange, Royal-Blue, Green",
+   "Printing Area (cm)": "8 × 12",
+   "Price for 100 - 299": 10.13,
+   "Price for 300 - 499": 9.31,
+   "Price for 500 - 699": 8.57,
+   "Price for 700 - 899": 7.97,
+   "Price for 900 - 999": 7.41,
+   "Price for 1000 above": 6.89,
+   "Printing Cost - Silkscreen": 1.5,
+   "Printing Cost - Pad Print": 1.6,
+   "Printing Cost - UV Print": 5,
+   "Printing Cost - UV Sticker": 1.9,
+   "Printing Cost - Engraving": 3.5,
+   "Image URL": "public/images/placeholder.jpg",
+   "variants": [
+    {
+     "variant": "default",
+     "image": "public/images/placeholder.jpg"
+    }
+   ]
+  },
+  {
+   "Product Code": "EC26",
+   "Category": "Notebook",
+   "Name": "Eco-Notebook + Pen",
+   "Material": "Recycled kraft",
+   "Size (cm)": "9 × 13 cm",
+   "Weight": "-",
+   "Function / Feature": "70 sheets, OPP bag",
+   "Printing Type": "Silk-screen",
+   "Colour Options": "Black, Red, Orange, Royal-Blue",
+   "Printing Area (cm)": "8 × 12",
+   "Price for 100 - 299": 7.88,
+   "Price for 300 - 499": 7.25,
+   "Price for 500 - 699": 6.67,
+   "Price for 700 - 899": 6.2,
+   "Price for 900 - 999": 5.77,
+   "Price for 1000 above": 5.36,
+   "Printing Cost - Silkscreen": 1.5,
+   "Printing Cost - Pad Print": 1.6,
+   "Printing Cost - UV Print": 5,
+   "Printing Cost - UV Sticker": 1.9,
+   "Printing Cost - Engraving": 3.5,
+   "Image URL": "public/images/placeholder.jpg",
+   "variants": [
+    {
+     "variant": "default",
+     "image": "public/images/placeholder.jpg"
+    }
+   ]
+  },
+  {
+   "Product Code": "EC27",
+   "Category": "Notebook",
+   "Name": "Eco-Notebook",
+   "Material": "Recycled kraft",
+   "Size (cm)": "14 × 18 cm",
+   "Weight": "-",
+   "Function / Feature": "70 sheets, non-woven pouch + pen",
+   "Printing Type": "Silk-screen",
+   "Colour Options": "Black, Red, Orange, Royal-Blue",
+   "Printing Area (cm)": "6 × 4",
+   "Printing Cost - Silkscreen": 1.5,
+   "Printing Cost - Pad Print": 1.6,
+   "Printing Cost - UV Print": 5,
+   "Printing Cost - UV Sticker": 1.9,
+   "Printing Cost - Engraving": 3.5,
+   "Image URL": "public/images/placeholder.jpg",
+   "variants": [
+    {
+     "variant": "default",
+     "image": "public/images/placeholder.jpg"
+    }
+   ]
+  },
+  {
+   "Product Code": "NB44",
+   "Category": "Notebook",
+   "Name": "PU Notebook",
+   "Material": "PU",
+   "Size (cm)": "17 × 23 cm",
+   "Weight": 500,
+   "Function / Feature": "100 sheets, OPP bag",
+   "Printing Type": "Silk-screen",
+   "Colour Options": "Navy, Black, Brown",
+   "Printing Area (cm)": "Logo-1: 12 × 20 Logo-2: 8 × 6",
+   "Price for 100 - 299": 42.75,
+   "Price for 300 - 499": 39.33,
+   "Price for 500 - 699": 36.18,
+   "Price for 700 - 899": 33.65,
+   "Price for 900 - 999": 31.29,
+   "Price for 1000 above": 29.1,
+   "Printing Cost - Silkscreen": 1.5,
+   "Printing Cost - Pad Print": 1.6,
+   "Printing Cost - UV Print": 5,
+   "Printing Cost - UV Sticker": 1.9,
+   "Printing Cost - Engraving": 3.5,
+   "Image URL": "public/images/placeholder.jpg",
+   "variants": [
+    {
+     "variant": "default",
+     "image": "public/images/placeholder.jpg"
+    }
+   ]
+  },
+  {
+   "Product Code": "NB43",
+   "Category": "Notebook",
+   "Name": "PU Notebook",
+   "Material": "PU",
+   "Size (cm)": "17 × 23 cm",
+   "Weight": 540,
+   "Function / Feature": "100 sheets, OPP bag",
+   "Printing Type": "Silk-screen",
+   "Colour Options": "Red, Khaki, Lime-Green, Grey",
+   "Printing Area (cm)": "12 × 20",
+   "Price for 100 - 299": 54,
+   "Price for 300 - 499": 49.68,
+   "Price for 500 - 699": 45.75,
+   "Price for 700 - 899": 42.55,
+   "Price for 900 - 999": 39.57,
+   "Price for 1000 above": 36.8,
+   "Printing Cost - Silkscreen": 1.5,
+   "Printing Cost - Pad Print": 1.6,
+   "Printing Cost - UV Print": 5,
+   "Printing Cost - UV Sticker": 1.9,
+   "Printing Cost - Engraving": 3.5,
+   "Image URL": "public/images/placeholder.jpg",
+   "variants": [
+    {
+     "variant": "default",
+     "image": "public/images/placeholder.jpg"
+    }
+   ]
+  },
+  {
+   "Product Code": "NB42",
+   "Category": "Notebook",
+   "Name": "PU Notebook",
+   "Material": "PU",
+   "Size (cm)": "17 × 23 cm",
+   "Weight": 560,
+   "Function / Feature": "100 sheets, OPP bag",
+   "Printing Type": "Silk-screen",
+   "Colour Options": "Red, Orange, Khaki, Turquoise",
+   "Printing Area (cm)": "14 × 20",
+   "Price for 100 - 299": 51.75,
+   "Price for 300 - 499": 47.61,
+   "Price for 500 - 699": 43.8,
+   "Price for 700 - 899": 40.73,
+   "Price for 900 - 999": 37.88,
+   "Price for 1000 above": 35.23,
+   "Printing Cost - Silkscreen": 1.5,
+   "Printing Cost - Pad Print": 1.6,
+   "Printing Cost - UV Print": 5,
+   "Printing Cost - UV Sticker": 1.9,
+   "Printing Cost - Engraving": 3.5,
+   "Image URL": "public/images/placeholder.jpg",
+   "variants": [
+    {
+     "variant": "default",
+     "image": "public/images/placeholder.jpg"
+    }
+   ]
+  },
+  {
+   "Product Code": "NB38",
+   "Category": "Notebook",
+   "Name": "PU Notebook",
+   "Material": "PU",
+   "Size (cm)": "18 × 23 cm",
+   "Weight": 520,
+   "Function / Feature": "100 sheets",
+   "Printing Type": "-",
+   "Colour Options": "Brown, Grey",
+   "Printing Area (cm)": "12 × 20",
+   "Price for 100 - 299": 52.88,
+   "Price for 300 - 499": 48.64,
+   "Price for 500 - 699": 44.75,
+   "Price for 700 - 899": 41.62,
+   "Price for 900 - 999": 38.71,
+   "Price for 1000 above": 36,
+   "Printing Cost - Silkscreen": 1.5,
+   "Printing Cost - Pad Print": 1.6,
+   "Printing Cost - UV Print": 5,
+   "Printing Cost - UV Sticker": 1.9,
+   "Printing Cost - Engraving": 3.5,
+   "Image URL": "public/images/placeholder.jpg",
+   "variants": [
+    {
+     "variant": "default",
+     "image": "public/images/placeholder.jpg"
+    }
+   ]
+  },
+  {
+   "Product Code": "NB55",
+   "Category": "Notebook",
+   "Name": "PU Portfolio",
+   "Material": "PU",
+   "Size (cm)": "19 × 25.5 cm",
+   "Weight": 315,
+   "Function / Feature": "-",
+   "Printing Type": "Silk-screen",
+   "Colour Options": "Black, Brown",
+   "Printing Area (cm)": "12 × 20",
+   "Price for 100 - 299": 73.13,
+   "Price for 300 - 499": 67.27,
+   "Price for 500 - 699": 61.89,
+   "Price for 700 - 899": 57.56,
+   "Price for 900 - 999": 53.53,
+   "Price for 1000 above": 49.78,
+   "Printing Cost - Silkscreen": 1.5,
+   "Printing Cost - Pad Print": 1.6,
+   "Printing Cost - UV Print": 5,
+   "Printing Cost - UV Sticker": 1.9,
+   "Printing Cost - Engraving": 3.5,
+   "Image URL": "public/images/placeholder.jpg",
+   "variants": [
+    {
+     "variant": "default",
+     "image": "public/images/placeholder.jpg"
+    }
+   ]
+  },
+  {
+   "Product Code": "NB50",
+   "Category": "Notebook",
+   "Name": "PU Notebook",
+   "Material": "PU",
+   "Size (cm)": "18.5 × 22.5 cm",
+   "Weight": 540,
+   "Function / Feature": "100 sheets, OPP bag",
+   "Printing Type": "Silk-screen",
+   "Colour Options": "Red, Brown, Navy, Orange",
+   "Printing Area (cm)": "Logo-1: 14 × 10 Logo-2: 10 × 8",
+   "Price for 100 - 299": 55.13,
+   "Price for 300 - 499": 50.71,
+   "Price for 500 - 699": 46.65,
+   "Price for 700 - 899": 43.38,
+   "Price for 900 - 999": 40.35,
+   "Price for 1000 above": 37.52,
+   "Printing Cost - Silkscreen": 1.5,
+   "Printing Cost - Pad Print": 1.6,
+   "Printing Cost - UV Print": 5,
+   "Printing Cost - UV Sticker": 1.9,
+   "Printing Cost - Engraving": 3.5,
+   "Image URL": "public/images/placeholder.jpg",
+   "variants": [
+    {
+     "variant": "default",
+     "image": "public/images/placeholder.jpg"
+    }
+   ]
+  },
+  {
+   "Product Code": "NB49",
+   "Category": "Notebook",
+   "Name": "PU Notebook",
+   "Material": "PU",
+   "Size (cm)": "18.5 × 22.5 cm",
+   "Weight": 545,
+   "Function / Feature": "100 sheets, OPP bag",
+   "Printing Type": "Silk-screen",
+   "Colour Options": "Red, Orange, Lime-Green",
+   "Printing Area (cm)": "Logo-1: 15 × 9 Logo-2: 12 × 20",
+   "Price for 100 - 299": 52.88,
+   "Price for 300 - 499": 48.64,
+   "Price for 500 - 699": 44.75,
+   "Price for 700 - 899": 41.62,
+   "Price for 900 - 999": 38.71,
+   "Price for 1000 above": 36,
+   "Printing Cost - Silkscreen": 1.5,
+   "Printing Cost - Pad Print": 1.6,
+   "Printing Cost - UV Print": 5,
+   "Printing Cost - UV Sticker": 1.9,
+   "Printing Cost - Engraving": 3.5,
+   "Image URL": "public/images/placeholder.jpg",
+   "variants": [
+    {
+     "variant": "default",
+     "image": "public/images/placeholder.jpg"
+    }
+   ]
+  },
+  {
+   "Product Code": "NB48",
+   "Category": "Notebook",
+   "Name": "PU Notebook",
+   "Material": "PU",
+   "Size (cm)": "18.5 × 22.5 cm",
+   "Weight": 540,
+   "Function / Feature": "100 sheets, OPP bag",
+   "Printing Type": "Silk-screen",
+   "Colour Options": "Black, Red, Navy, Grey",
+   "Printing Area (cm)": "8 × 6",
+   "Price for 100 - 299": 55.13,
+   "Price for 300 - 499": 50.71,
+   "Price for 500 - 699": 46.65,
+   "Price for 700 - 899": 43.38,
+   "Price for 900 - 999": 40.35,
+   "Price for 1000 above": 37.52,
+   "Printing Cost - Silkscreen": 1.5,
+   "Printing Cost - Pad Print": 1.6,
+   "Printing Cost - UV Print": 5,
+   "Printing Cost - UV Sticker": 1.9,
+   "Printing Cost - Engraving": 3.5,
+   "Image URL": "public/images/placeholder.jpg",
+   "variants": [
+    {
+     "variant": "default",
+     "image": "public/images/placeholder.jpg"
+    }
+   ]
+  },
+  {
+   "Product Code": "NB47",
+   "Category": "Notebook",
+   "Name": "PU Notebook",
+   "Material": "PU",
+   "Size (cm)": "17 × 22.5 cm",
+   "Weight": 540,
+   "Function / Feature": "100 sheets, OPP bag",
+   "Printing Type": "Silk-screen",
+   "Colour Options": "Orange, Lime-Green, Brown, Purple",
+   "Printing Area (cm)": "12 × 20",
+   "Price for 100 - 299": 54,
+   "Price for 300 - 499": 49.68,
+   "Price for 500 - 699": 45.75,
+   "Price for 700 - 899": 42.55,
+   "Price for 900 - 999": 39.57,
+   "Price for 1000 above": 36.8,
+   "Printing Cost - Silkscreen": 1.5,
+   "Printing Cost - Pad Print": 1.6,
+   "Printing Cost - UV Print": 5,
+   "Printing Cost - UV Sticker": 1.9,
+   "Printing Cost - Engraving": 3.5,
+   "Image URL": "public/images/NB47/NB471.jpg",
+   "variants": [
+    {
+     "variant": "1",
+     "image": "public/images/NB47/NB471.jpg"
+    },
+    {
+     "variant": "2",
+     "image": "public/images/NB47/NB472.jpg"
+    },
+    {
+     "variant": "3",
+     "image": "public/images/NB47/NB473.jpg"
+    },
+    {
+     "variant": "4",
+     "image": "public/images/NB47/NB474.jpg"
+    },
+    {
+     "variant": "5",
+     "image": "public/images/NB47/NB475.jpg"
+    },
+    {
+     "variant": "6",
+     "image": "public/images/NB47/NB476.jpg"
+    },
+    {
+     "variant": "7",
+     "image": "public/images/NB47/NB477.jpg"
+    },
+    {
+     "variant": "8",
+     "image": "public/images/NB47/NB478.jpg"
+    }
+   ]
+  },
+  {
+   "Product Code": "NB54",
+   "Category": "Notebook",
+   "Name": "PU Notebook",
+   "Material": "PU",
+   "Size (cm)": "15 × 21 cm",
+   "Weight": 340,
+   "Function / Feature": "90 sheets, OPP bag",
+   "Printing Type": "Silk-screen",
+   "Colour Options": "Red, Black, Royal-Blue, Turquoise, Grey",
+   "Printing Area (cm)": "12 × 6",
+   "Price for 100 - 299": 33.75,
+   "Price for 300 - 499": 31.05,
+   "Price for 500 - 699": 28.57,
+   "Price for 700 - 899": 26.57,
+   "Price for 900 - 999": 24.71,
+   "Price for 1000 above": 22.98,
+   "Printing Cost - Silkscreen": 1.5,
+   "Printing Cost - Pad Print": 1.6,
+   "Printing Cost - UV Print": 5,
+   "Printing Cost - UV Sticker": 1.9,
+   "Printing Cost - Engraving": 3.5,
+   "Image URL": "public/images/placeholder.jpg",
+   "variants": [
+    {
+     "variant": "default",
+     "image": "public/images/placeholder.jpg"
+    }
+   ]
+  },
+  {
+   "Product Code": "NB53",
+   "Category": "Notebook",
+   "Name": "PU Notebook",
+   "Material": "PU",
+   "Size (cm)": "12.5 × 19 cm",
+   "Weight": 255,
+   "Function / Feature": "90 sheets, OPP bag",
+   "Printing Type": "Silk-screen",
+   "Colour Options": "Navy, Black, Red, Purple",
+   "Printing Area (cm)": "8 × 16",
+   "Price for 100 - 299": 30.38,
+   "Price for 300 - 499": 27.94,
+   "Price for 500 - 699": 25.71,
+   "Price for 700 - 899": 23.91,
+   "Price for 900 - 999": 22.24,
+   "Price for 1000 above": 20.68,
+   "Printing Cost - Silkscreen": 1.5,
+   "Printing Cost - Pad Print": 1.6,
+   "Printing Cost - UV Print": 5,
+   "Printing Cost - UV Sticker": 1.9,
+   "Printing Cost - Engraving": 3.5,
+   "Image URL": "public/images/placeholder.jpg",
+   "variants": [
+    {
+     "variant": "default",
+     "image": "public/images/placeholder.jpg"
+    }
+   ]
+  },
+  {
+   "Product Code": "NB52",
+   "Category": "Notebook",
+   "Name": "PU Notebook",
+   "Material": "PU",
+   "Size (cm)": "15 × 22 cm",
+   "Weight": 270,
+   "Function / Feature": "100 sheets, OPP bag",
+   "Printing Type": "Silk-screen",
+   "Colour Options": "Navy, Black, Red, Purple",
+   "Printing Area (cm)": "12 × 20",
+   "Price for 100 - 299": 18,
+   "Price for 300 - 499": 16.56,
+   "Price for 500 - 699": 15.23,
+   "Price for 700 - 899": 14.16,
+   "Price for 900 - 999": 13.17,
+   "Price for 1000 above": 12.25,
+   "Printing Cost - Silkscreen": 1.5,
+   "Printing Cost - Pad Print": 1.6,
+   "Printing Cost - UV Print": 5,
+   "Printing Cost - UV Sticker": 1.9,
+   "Printing Cost - Engraving": 3.5,
+   "Image URL": "public/images/placeholder.jpg",
+   "variants": [
+    {
+     "variant": "default",
+     "image": "public/images/placeholder.jpg"
+    }
+   ]
+  },
+  {
+   "Product Code": "NB51",
+   "Category": "Notebook",
+   "Name": "PU Notebook",
+   "Material": "PU",
+   "Size (cm)": "17 × 22.5 cm",
+   "Weight": 540,
+   "Function / Feature": "100 sheets, OPP bag",
+   "Printing Type": "Silk-screen",
+   "Colour Options": "Black, Red, Lime-Green, Brown, Grey",
+   "Printing Area (cm)": "14 × 20",
+   "Price for 100 - 299": 52.88,
+   "Price for 300 - 499": 48.64,
+   "Price for 500 - 699": 44.75,
+   "Price for 700 - 899": 41.62,
+   "Price for 900 - 999": 38.71,
+   "Price for 1000 above": 36,
+   "Printing Cost - Silkscreen": 1.5,
+   "Printing Cost - Pad Print": 1.6,
+   "Printing Cost - UV Print": 5,
+   "Printing Cost - UV Sticker": 1.9,
+   "Printing Cost - Engraving": 3.5,
+   "Image URL": "public/images/placeholder.jpg",
+   "variants": [
+    {
+     "variant": "default",
+     "image": "public/images/placeholder.jpg"
+    }
+   ]
+  },
+  {
+   "Product Code": "TD25",
+   "Category": "Electronic",
+   "Name": "USB Flash",
+   "Material": "Metal",
+   "Size (cm)": "16 GB",
+   "Weight": 12,
+   "Function / Feature": "OPP bag",
+   "Printing Type": "Pad-print",
+   "Colour Options": "Silver",
+   "Printing Area (cm)": "2 × 1",
+   "Price for 100 - 299": 36,
+   "Price for 300 - 499": 33.12,
+   "Price for 500 - 699": 30.47,
+   "Price for 700 - 899": 28.34,
+   "Price for 900 - 999": 26.36,
+   "Price for 1000 above": 24.51,
+   "Printing Cost - Silkscreen": 1.5,
+   "Printing Cost - Pad Print": 1.6,
+   "Printing Cost - UV Print": 5,
+   "Printing Cost - UV Sticker": 1.9,
+   "Printing Cost - Engraving": 3.5,
+   "Image URL": "public/images/placeholder.jpg",
+   "variants": [
+    {
+     "variant": "default",
+     "image": "public/images/placeholder.jpg"
+    }
+   ]
+  },
+  {
+   "Product Code": "TD14",
+   "Category": "Electronic",
+   "Name": "USB Flash",
+   "Material": "Metal",
+   "Size (cm)": "16 GB",
+   "Weight": 15,
+   "Function / Feature": "OPP bag",
+   "Printing Type": "Pad-print",
+   "Colour Options": "Black, Red, Powder-Blue",
+   "Printing Area (cm)": "2.5 × 0.7",
+   "Price for 100 - 299": 36,
+   "Price for 300 - 499": 33.12,
+   "Price for 500 - 699": 30.47,
+   "Price for 700 - 899": 28.34,
+   "Price for 900 - 999": 26.36,
+   "Price for 1000 above": 24.51,
+   "Printing Cost - Silkscreen": 1.5,
+   "Printing Cost - Pad Print": 1.6,
+   "Printing Cost - UV Print": 5,
+   "Printing Cost - UV Sticker": 1.9,
+   "Printing Cost - Engraving": 3.5,
+   "Image URL": "public/images/placeholder.jpg",
+   "variants": [
+    {
+     "variant": "default",
+     "image": "public/images/placeholder.jpg"
+    }
+   ]
+  },
+  {
+   "Product Code": "TD26",
+   "Category": "Electronic",
+   "Name": "2-in-1 USB-C Flash",
+   "Material": "Metal",
+   "Size (cm)": "16 GB",
+   "Weight": 16,
+   "Function / Feature": "OPP bag",
+   "Printing Type": "Pad-print",
+   "Colour Options": "Silver, Gold",
+   "Printing Area (cm)": "3 × 1",
+   "Price for 100 - 299": 45,
+   "Price for 300 - 499": 41.4,
+   "Price for 500 - 699": 38.09,
+   "Price for 700 - 899": 35.42,
+   "Price for 900 - 999": 32.94,
+   "Price for 1000 above": 30.63,
+   "Printing Cost - Silkscreen": 1.5,
+   "Printing Cost - Pad Print": 1.6,
+   "Printing Cost - UV Print": 5,
+   "Printing Cost - UV Sticker": 1.9,
+   "Printing Cost - Engraving": 3.5,
+   "Image URL": "public/images/placeholder.jpg",
+   "variants": [
+    {
+     "variant": "default",
+     "image": "public/images/placeholder.jpg"
+    }
+   ]
+  },
+  {
+   "Product Code": "TD27",
+   "Category": "Electronic",
+   "Name": "Wood Flash",
+   "Material": "Wood",
+   "Size (cm)": "16 GB",
+   "Weight": 24,
+   "Function / Feature": "OPP bag",
+   "Printing Type": "Pad-print",
+   "Colour Options": "Natural",
+   "Printing Area (cm)": "2.5 × 1",
+   "Price for 100 - 299": 36,
+   "Price for 300 - 499": 33.12,
+   "Price for 500 - 699": 30.47,
+   "Price for 700 - 899": 28.34,
+   "Price for 900 - 999": 26.36,
+   "Price for 1000 above": 24.51,
+   "Printing Cost - Silkscreen": 1.5,
+   "Printing Cost - Pad Print": 1.6,
+   "Printing Cost - UV Print": 5,
+   "Printing Cost - UV Sticker": 1.9,
+   "Printing Cost - Engraving": 3.5,
+   "Image URL": "public/images/placeholder.jpg",
+   "variants": [
+    {
+     "variant": "default",
+     "image": "public/images/placeholder.jpg"
+    }
+   ]
+  },
+  {
+   "Product Code": "TD28",
+   "Category": "Electronic",
+   "Name": "2-in-1 USB-C Flash",
+   "Material": "Metal",
+   "Size (cm)": "16 GB",
+   "Weight": 18,
+   "Function / Feature": "OPP bag",
+   "Printing Type": "Pad-print",
+   "Colour Options": "Black, Red, Royal-Blue",
+   "Printing Area (cm)": "2.5 × 1",
+   "Price for 100 - 299": 45,
+   "Price for 300 - 499": 41.4,
+   "Price for 500 - 699": 38.09,
+   "Price for 700 - 899": 35.42,
+   "Price for 900 - 999": 32.94,
+   "Price for 1000 above": 30.63,
+   "Printing Cost - Silkscreen": 1.5,
+   "Printing Cost - Pad Print": 1.6,
+   "Printing Cost - UV Print": 5,
+   "Printing Cost - UV Sticker": 1.9,
+   "Printing Cost - Engraving": 3.5,
+   "Image URL": "public/images/placeholder.jpg",
+   "variants": [
+    {
+     "variant": "default",
+     "image": "public/images/placeholder.jpg"
+    }
+   ]
+  },
+  {
+   "Product Code": "TA03",
+   "Category": "Electronic",
+   "Name": "Multi-Adapter",
+   "Material": "ABS",
+   "Weight": 110,
+   "Function / Feature": "Box",
+   "Printing Type": "Pad-print",
+   "Colour Options": "White, Black",
+   "Printing Area (cm)": "Logo-1: 3.5 × 1.5 Logo-2: 5 × 1",
+   "Price for 100 - 299": 39.38,
+   "Price for 300 - 499": 36.22,
+   "Price for 500 - 699": 33.32,
+   "Price for 700 - 899": 31,
+   "Price for 900 - 999": 28.83,
+   "Price for 1000 above": 26.81,
+   "Printing Cost - Silkscreen": 1.5,
+   "Printing Cost - Pad Print": 1.6,
+   "Printing Cost - UV Print": 5,
+   "Printing Cost - UV Sticker": 1.9,
+   "Printing Cost - Engraving": 3.5,
+   "Image URL": "public/images/placeholder.jpg",
+   "variants": [
+    {
+     "variant": "default",
+     "image": "public/images/placeholder.jpg"
+    }
+   ]
+  },
+  {
+   "Product Code": "TA04",
+   "Category": "Electronic",
+   "Name": "Multi-Adapter",
+   "Material": "ABS",
+   "Weight": 150,
+   "Function / Feature": "Box",
+   "Printing Type": "Pad-print",
+   "Colour Options": "White, Black, Yellow, Red, Pink, Sea-Blue",
+   "Printing Area (cm)": "3.5 × 1.5",
+   "Price for 100 - 299": 57.38,
+   "Price for 300 - 499": 52.78,
+   "Price for 500 - 699": 48.56,
+   "Price for 700 - 899": 45.2,
+   "Price for 900 - 999": 42.04,
+   "Price for 1000 above": 39.09,
+   "Printing Cost - Silkscreen": 1.5,
+   "Printing Cost - Pad Print": 1.6,
+   "Printing Cost - UV Print": 5,
+   "Printing Cost - UV Sticker": 1.9,
+   "Printing Cost - Engraving": 3.5,
+   "Image URL": "public/images/placeholder.jpg",
+   "variants": [
+    {
+     "variant": "default",
+     "image": "public/images/placeholder.jpg"
+    }
+   ]
+  },
+  {
+   "Product Code": "TA06",
+   "Category": "Electronic",
+   "Name": "Multi-Adapter",
+   "Material": "ABS",
+   "Weight": 100,
+   "Function / Feature": "Non-woven bag + white box",
+   "Printing Type": "Pad-print",
+   "Colour Options": "White",
+   "Printing Area (cm)": "2.5 × 2.5",
+   "Price for 100 - 299": 16.2,
+   "Price for 300 - 499": 14.9,
+   "Price for 500 - 699": 13.71,
+   "Price for 700 - 899": 12.75,
+   "Price for 900 - 999": 11.86,
+   "Price for 1000 above": 11.03,
+   "Printing Cost - Silkscreen": 1.5,
+   "Printing Cost - Pad Print": 1.6,
+   "Printing Cost - UV Print": 5,
+   "Printing Cost - UV Sticker": 1.9,
+   "Printing Cost - Engraving": 3.5,
+   "Image URL": "public/images/placeholder.jpg",
+   "variants": [
+    {
+     "variant": "default",
+     "image": "public/images/placeholder.jpg"
+    }
+   ]
+  },
+  {
+   "Product Code": "TA07",
+   "Category": "Electronic",
+   "Name": "Multi-Adapter",
+   "Material": "ABS",
+   "Weight": 125,
+   "Function / Feature": "Non-woven bag + white box",
+   "Printing Type": "Pad-print",
+   "Colour Options": "White",
+   "Printing Area (cm)": "2 × 2",
+   "Price for 100 - 299": 37.13,
+   "Price for 300 - 499": 34.15,
+   "Price for 500 - 699": 31.42,
+   "Price for 700 - 899": 29.22,
+   "Price for 900 - 999": 27.18,
+   "Price for 1000 above": 25.28,
+   "Printing Cost - Silkscreen": 1.5,
+   "Printing Cost - Pad Print": 1.6,
+   "Printing Cost - UV Print": 5,
+   "Printing Cost - UV Sticker": 1.9,
+   "Printing Cost - Engraving": 3.5,
+   "Image URL": "public/images/placeholder.jpg",
+   "variants": [
+    {
+     "variant": "default",
+     "image": "public/images/placeholder.jpg"
+    }
+   ]
+  },
+  {
+   "Product Code": "EP29",
+   "Category": "Electronic",
+   "Name": "Cell-phone Stand",
+   "Material": "ABS",
+   "Weight": 95,
+   "Function / Feature": "-",
+   "Printing Type": "Pad-print",
+   "Colour Options": "White, Black",
+   "Printing Area (cm)": "5 × 6",
+   "Price for 100 - 299": 12.38,
+   "Price for 300 - 499": 11.38,
+   "Price for 500 - 699": 10.47,
+   "Price for 700 - 899": 9.74,
+   "Price for 900 - 999": 9.06,
+   "Price for 1000 above": 8.42,
+   "Printing Cost - Silkscreen": 1.5,
+   "Printing Cost - Pad Print": 1.6,
+   "Printing Cost - UV Print": 5,
+   "Printing Cost - UV Sticker": 1.9,
+   "Printing Cost - Engraving": 3.5,
+   "Image URL": "public/images/placeholder.jpg",
+   "variants": [
+    {
+     "variant": "default",
+     "image": "public/images/placeholder.jpg"
+    }
+   ]
+  },
+  {
+   "Product Code": "EP23",
+   "Category": "Electronic",
+   "Name": "Car Phone Holder",
+   "Material": "ABS",
+   "Weight": 55,
+   "Function / Feature": "Adjustable rotation",
+   "Printing Type": "Pad-print",
+   "Colour Options": "Black",
+   "Printing Area (cm)": "3 × 4",
+   "Price for 100 - 299": 11.25,
+   "Price for 300 - 499": 10.35,
+   "Price for 500 - 699": 9.52,
+   "Price for 700 - 899": 8.85,
+   "Price for 900 - 999": 8.23,
+   "Price for 1000 above": 7.65,
+   "Printing Cost - Silkscreen": 1.5,
+   "Printing Cost - Pad Print": 1.6,
+   "Printing Cost - UV Print": 5,
+   "Printing Cost - UV Sticker": 1.9,
+   "Printing Cost - Engraving": 3.5,
+   "Image URL": "public/images/placeholder.jpg",
+   "variants": [
+    {
+     "variant": "default",
+     "image": "public/images/placeholder.jpg"
+    }
+   ]
+  },
+  {
+   "Product Code": "EP22",
+   "Category": "Electronic",
+   "Name": "Car Phone Holder",
+   "Material": "Metal",
+   "Weight": 80,
+   "Function / Feature": "Adjustable rotation",
+   "Printing Type": "Pad-print",
+   "Colour Options": "Silver",
+   "Printing Area (cm)": "2.5 × 1.5",
+   "Price for 100 - 299": 4.95,
+   "Price for 300 - 499": 4.55,
+   "Price for 500 - 699": 4.19,
+   "Price for 700 - 899": 3.9,
+   "Price for 900 - 999": 3.62,
+   "Price for 1000 above": 3.37,
+   "Printing Cost - Silkscreen": 1.5,
+   "Printing Cost - Pad Print": 1.6,
+   "Printing Cost - UV Print": 5,
+   "Printing Cost - UV Sticker": 1.9,
+   "Printing Cost - Engraving": 3.5,
+   "Image URL": "public/images/placeholder.jpg",
+   "variants": [
+    {
+     "variant": "default",
+     "image": "public/images/placeholder.jpg"
+    }
+   ]
+  },
+  {
+   "Product Code": "EP24",
+   "Category": "Electronic",
+   "Name": "3-in-1 Cable",
+   "Material": "ABS",
+   "Weight": 45,
+   "Function / Feature": "Retractable",
+   "Printing Type": "Pad-print",
+   "Colour Options": "Red, White, Pink, Purple",
+   "Printing Area (cm)": "2.5 × 1.5",
+   "Price for 100 - 299": 13.5,
+   "Price for 300 - 499": 12.42,
+   "Price for 500 - 699": 11.43,
+   "Price for 700 - 899": 10.63,
+   "Price for 900 - 999": 9.88,
+   "Price for 1000 above": 9.19,
+   "Printing Cost - Silkscreen": 1.5,
+   "Printing Cost - Pad Print": 1.6,
+   "Printing Cost - UV Print": 5,
+   "Printing Cost - UV Sticker": 1.9,
+   "Printing Cost - Engraving": 3.5,
+   "Image URL": "public/images/placeholder.jpg",
+   "variants": [
+    {
+     "variant": "default",
+     "image": "public/images/placeholder.jpg"
+    }
+   ]
+  },
+  {
+   "Product Code": "EP25",
+   "Category": "Electronic",
+   "Name": "3-in-1 Cable",
+   "Material": "ABS",
+   "Weight": 45,
+   "Function / Feature": "Retractable",
+   "Printing Type": "Pad-print",
+   "Colour Options": "Black, Red, Pink, Royal-Blue",
+   "Printing Area (cm)": "2.5 × 1.5",
+   "Price for 100 - 299": 12.38,
+   "Price for 300 - 499": 11.38,
+   "Price for 500 - 699": 10.47,
+   "Price for 700 - 899": 9.74,
+   "Price for 900 - 999": 9.06,
+   "Price for 1000 above": 8.42,
+   "Printing Cost - Silkscreen": 1.5,
+   "Printing Cost - Pad Print": 1.6,
+   "Printing Cost - UV Print": 5,
+   "Printing Cost - UV Sticker": 1.9,
+   "Printing Cost - Engraving": 3.5,
+   "Image URL": "public/images/placeholder.jpg",
+   "variants": [
+    {
+     "variant": "default",
+     "image": "public/images/placeholder.jpg"
+    }
+   ]
+  },
+  {
+   "Product Code": "EP34",
+   "Category": "Electronic",
+   "Name": "Neck Fan",
+   "Material": "ABS",
+   "Size (cm)": "14.9 × 6 × 19.5 cm",
+   "Weight": 300,
+   "Function / Feature": "5-speed",
+   "Printing Type": "Pad-print",
+   "Colour Options": "White, Sea-Blue",
+   "Printing Area (cm)": "1 × 4",
+   "Price for 100 - 299": 12.38,
+   "Price for 300 - 499": 11.38,
+   "Price for 500 - 699": 10.47,
+   "Price for 700 - 899": 9.74,
+   "Price for 900 - 999": 9.06,
+   "Price for 1000 above": 8.42,
+   "Printing Cost - Silkscreen": 1.5,
+   "Printing Cost - Pad Print": 1.6,
+   "Printing Cost - UV Print": 5,
+   "Printing Cost - UV Sticker": 1.9,
+   "Printing Cost - Engraving": 3.5,
+   "Image URL": "public/images/placeholder.jpg",
+   "variants": [
+    {
+     "variant": "default",
+     "image": "public/images/placeholder.jpg"
+    }
+   ]
+  },
+  {
+   "Product Code": "BD01",
+   "Category": "Bottle",
+   "Name": "Steel Bottle",
+   "Material": "SS 304",
+   "Size (cm)": "500 ml",
+   "Weight": "-",
+   "Function / Feature": "-",
+   "Printing Type": "Pad-print",
+   "Colour Options": "White, Navy, Brown, Grey",
+   "Printing Area (cm)": "-",
+   "Price for 100 - 299": 11.03,
+   "Price for 300 - 499": 10.14,
+   "Price for 500 - 699": 9.33,
+   "Price for 700 - 899": 8.68,
+   "Price for 900 - 999": 8.07,
+   "Price for 1000 above": 7.51,
+   "Printing Cost - Silkscreen": 1.5,
+   "Printing Cost - Pad Print": 1.6,
+   "Printing Cost - UV Print": 5,
+   "Printing Cost - UV Sticker": 1.9,
+   "Printing Cost - Engraving": 3.5,
+   "Image URL": "public/images/placeholder.jpg",
+   "variants": [
+    {
+     "variant": "default",
+     "image": "public/images/placeholder.jpg"
+    }
+   ]
+  },
+  {
+   "Product Code": "BD02",
+   "Category": "Bottle",
+   "Name": "Steel Bottle",
+   "Material": "SS 304",
+   "Size (cm)": "750 ml",
+   "Weight": "-",
+   "Function / Feature": "-",
+   "Printing Type": "Pad-print",
+   "Colour Options": "White, Royal-Blue, Grey",
+   "Printing Area (cm)": "-",
+   "Price for 100 - 299": 11.03,
+   "Price for 300 - 499": 10.14,
+   "Price for 500 - 699": 9.33,
+   "Price for 700 - 899": 8.68,
+   "Price for 900 - 999": 8.07,
+   "Price for 1000 above": 7.51,
+   "Printing Cost - Silkscreen": 1.5,
+   "Printing Cost - Pad Print": 1.6,
+   "Printing Cost - UV Print": 5,
+   "Printing Cost - UV Sticker": 1.9,
+   "Printing Cost - Engraving": 3.5,
+   "Image URL": "public/images/placeholder.jpg",
+   "variants": [
+    {
+     "variant": "default",
+     "image": "public/images/placeholder.jpg"
+    }
+   ]
+  },
+  {
+   "Product Code": "BD03",
+   "Category": "Bottle",
+   "Name": "Steel Bottle",
+   "Material": "SS 304",
+   "Size (cm)": "470 ml",
+   "Weight": "-",
+   "Function / Feature": "-",
+   "Printing Type": "Pad-print",
+   "Colour Options": "Navy, Turquoise, Gold",
+   "Printing Area (cm)": "-",
+   "Price for 100 - 299": 11.03,
+   "Price for 300 - 499": 10.14,
+   "Price for 500 - 699": 9.33,
+   "Price for 700 - 899": 8.68,
+   "Price for 900 - 999": 8.07,
+   "Price for 1000 above": 7.51,
+   "Printing Cost - Silkscreen": 1.5,
+   "Printing Cost - Pad Print": 1.6,
+   "Printing Cost - UV Print": 5,
+   "Printing Cost - UV Sticker": 1.9,
+   "Printing Cost - Engraving": 3.5,
+   "Image URL": "public/images/placeholder.jpg",
+   "variants": [
+    {
+     "variant": "default",
+     "image": "public/images/placeholder.jpg"
+    }
+   ]
+  },
+  {
+   "Product Code": "BD04",
+   "Category": "Bottle",
+   "Name": "Steel Bottle",
+   "Material": "SS 304",
+   "Size (cm)": "600 ml",
+   "Weight": "-",
+   "Function / Feature": "-",
+   "Printing Type": "Pad-print",
+   "Colour Options": "White, Navy, Army-Green",
+   "Printing Area (cm)": "-",
+   "Price for 100 - 299": 11.03,
+   "Price for 300 - 499": 10.14,
+   "Price for 500 - 699": 9.33,
+   "Price for 700 - 899": 8.68,
+   "Price for 900 - 999": 8.07,
+   "Price for 1000 above": 7.51,
+   "Printing Cost - Silkscreen": 1.5,
+   "Printing Cost - Pad Print": 1.6,
+   "Printing Cost - UV Print": 5,
+   "Printing Cost - UV Sticker": 1.9,
+   "Printing Cost - Engraving": 3.5,
+   "Image URL": "public/images/placeholder.jpg",
+   "variants": [
+    {
+     "variant": "default",
+     "image": "public/images/placeholder.jpg"
+    }
+   ]
+  },
+  {
+   "Product Code": "VF10",
+   "Category": "Vacuum Flask",
+   "Name": "Steel Mug",
+   "Material": "SS",
+   "Weight": 260,
+   "Function / Feature": "-",
+   "Printing Type": "Pad-print",
+   "Colour Options": "Navy, Brown",
+   "Printing Area (cm)": 8,
+   "Price for 100 - 299": 28.13,
+   "Price for 300 - 499": 25.87,
+   "Price for 500 - 699": 23.8,
+   "Price for 700 - 899": 22.13,
+   "Price for 900 - 999": 20.58,
+   "Price for 1000 above": 19.14,
+   "Printing Cost - Silkscreen": 1.5,
+   "Printing Cost - Pad Print": 1.6,
+   "Printing Cost - UV Print": 5,
+   "Printing Cost - UV Sticker": 1.9,
+   "Printing Cost - Engraving": 3.5,
+   "Image URL": "public/images/placeholder.jpg",
+   "variants": [
+    {
+     "variant": "default",
+     "image": "public/images/placeholder.jpg"
+    }
+   ]
+  },
+  {
+   "Product Code": "VF14",
+   "Category": "Vacuum Flask",
+   "Name": "Steel Mug",
+   "Material": "SS",
+   "Weight": 245,
+   "Function / Feature": "-",
+   "Printing Type": "Pad-print",
+   "Colour Options": "Black, Red, Royal-Blue",
+   "Printing Area (cm)": 8,
+   "Price for 100 - 299": 29.25,
+   "Price for 300 - 499": 26.91,
+   "Price for 500 - 699": 24.76,
+   "Price for 700 - 899": 23.02,
+   "Price for 900 - 999": 21.41,
+   "Price for 1000 above": 19.91,
+   "Printing Cost - Silkscreen": 1.5,
+   "Printing Cost - Pad Print": 1.6,
+   "Printing Cost - UV Print": 5,
+   "Printing Cost - UV Sticker": 1.9,
+   "Printing Cost - Engraving": 3.5,
+   "Image URL": "public/images/placeholder.jpg",
+   "variants": [
+    {
+     "variant": "default",
+     "image": "public/images/placeholder.jpg"
+    }
+   ]
+  },
+  {
+   "Product Code": "VF25",
+   "Category": "Vacuum Flask",
+   "Name": "Steel Mug",
+   "Material": "SS",
+   "Weight": 310,
+   "Function / Feature": "Matt finish",
+   "Printing Type": "Pad-print",
+   "Colour Options": "Navy, Maroon, Turquoise, Silver",
+   "Printing Area (cm)": 8,
+   "Price for 100 - 299": 34.88,
+   "Price for 300 - 499": 32.08,
+   "Price for 500 - 699": 29.51,
+   "Price for 700 - 899": 27.44,
+   "Price for 900 - 999": 25.52,
+   "Price for 1000 above": 23.73,
+   "Printing Cost - Silkscreen": 1.5,
+   "Printing Cost - Pad Print": 1.6,
+   "Printing Cost - UV Print": 5,
+   "Printing Cost - UV Sticker": 1.9,
+   "Printing Cost - Engraving": 3.5,
+   "Image URL": "public/images/placeholder.jpg",
+   "variants": [
+    {
+     "variant": "default",
+     "image": "public/images/placeholder.jpg"
+    }
+   ]
+  },
+  {
+   "Product Code": "VF27",
+   "Category": "Vacuum Flask",
+   "Name": "Smart LED Mug",
+   "Material": "SS",
+   "Weight": 310,
+   "Function / Feature": "LED temp indicator",
+   "Printing Type": "Pad-print",
+   "Colour Options": "Black, White, Red, Royal-Blue, Gold",
+   "Printing Area (cm)": 8,
+   "Price for 100 - 299": 36,
+   "Price for 300 - 499": 33.12,
+   "Price for 500 - 699": 30.47,
+   "Price for 700 - 899": 28.34,
+   "Price for 900 - 999": 26.36,
+   "Price for 1000 above": 24.51,
+   "Printing Cost - Silkscreen": 1.5,
+   "Printing Cost - Pad Print": 1.6,
+   "Printing Cost - UV Print": 5,
+   "Printing Cost - UV Sticker": 1.9,
+   "Printing Cost - Engraving": 3.5,
+   "Image URL": "public/images/placeholder.jpg",
+   "variants": [
+    {
+     "variant": "default",
+     "image": "public/images/placeholder.jpg"
+    }
+   ]
+  },
+  {
+   "Product Code": "VF30",
+   "Category": "Vacuum Flask",
+   "Name": "Steel Mug",
+   "Material": "SS",
+   "Weight": 310,
+   "Function / Feature": "Matt finish",
+   "Printing Type": "Pad-print",
+   "Colour Options": "Black, Red, Pink, Turquoise",
+   "Printing Area (cm)": 8,
+   "Price for 100 - 299": 36,
+   "Price for 300 - 499": 33.12,
+   "Price for 500 - 699": 30.47,
+   "Price for 700 - 899": 28.34,
+   "Price for 900 - 999": 26.36,
+   "Price for 1000 above": 24.51,
+   "Printing Cost - Silkscreen": 1.5,
+   "Printing Cost - Pad Print": 1.6,
+   "Printing Cost - UV Print": 5,
+   "Printing Cost - UV Sticker": 1.9,
+   "Printing Cost - Engraving": 3.5,
+   "Image URL": "public/images/placeholder.jpg",
+   "variants": [
+    {
+     "variant": "default",
+     "image": "public/images/placeholder.jpg"
+    }
+   ]
+  },
+  {
+   "Product Code": "VF42",
+   "Category": "Vacuum Flask",
+   "Name": "Steel Bottle",
+   "Material": "SS 304",
+   "Weight": 335,
+   "Function / Feature": "Double wall matt",
+   "Printing Type": 12,
+   "Colour Options": 32.9,
+   "Price for 100 - 299": 43.88,
+   "Price for 300 - 499": 40.36,
+   "Price for 500 - 699": 37.13,
+   "Price for 700 - 899": 34.53,
+   "Price for 900 - 999": 32.11,
+   "Price for 1000 above": 29.86,
+   "Printing Cost - Silkscreen": 1.5,
+   "Printing Cost - Pad Print": 1.6,
+   "Printing Cost - UV Print": 5,
+   "Printing Cost - UV Sticker": 1.9,
+   "Printing Cost - Engraving": 3.5,
+   "Image URL": "public/images/placeholder.jpg",
+   "variants": [
+    {
+     "variant": "default",
+     "image": "public/images/placeholder.jpg"
+    }
+   ]
+  },
+  {
+   "Product Code": "VF43",
+   "Category": "Vacuum Flask",
+   "Name": "Steel Bottle",
+   "Material": "SS 304",
+   "Weight": 300,
+   "Function / Feature": "Double wall matt",
+   "Printing Type": 10,
+   "Colour Options": 29.9,
+   "Price for 100 - 299": 45,
+   "Price for 300 - 499": 41.4,
+   "Price for 500 - 699": 38.09,
+   "Price for 700 - 899": 35.42,
+   "Price for 900 - 999": 32.94,
+   "Price for 1000 above": 30.63,
+   "Printing Cost - Silkscreen": 1.5,
+   "Printing Cost - Pad Print": 1.6,
+   "Printing Cost - UV Print": 5,
+   "Printing Cost - UV Sticker": 1.9,
+   "Printing Cost - Engraving": 3.5,
+   "Image URL": "public/images/placeholder.jpg",
+   "variants": [
+    {
+     "variant": "default",
+     "image": "public/images/placeholder.jpg"
+    }
+   ]
+  },
+  {
+   "Product Code": "VF44",
+   "Category": "Vacuum Flask",
+   "Name": "Steel Bottle",
+   "Material": "SS 304",
+   "Weight": 495,
+   "Function / Feature": "Double wall high-grade matt",
+   "Printing Type": 12,
+   "Colour Options": 39.9,
+   "Price for 100 - 299": 50.63,
+   "Price for 300 - 499": 46.57,
+   "Price for 500 - 699": 42.85,
+   "Price for 700 - 899": 39.85,
+   "Price for 900 - 999": 37.06,
+   "Price for 1000 above": 34.47,
+   "Printing Cost - Silkscreen": 1.5,
+   "Printing Cost - Pad Print": 1.6,
+   "Printing Cost - UV Print": 5,
+   "Printing Cost - UV Sticker": 1.9,
+   "Printing Cost - Engraving": 3.5,
+   "Image URL": "public/images/placeholder.jpg",
+   "variants": [
+    {
+     "variant": "default",
+     "image": "public/images/placeholder.jpg"
+    }
+   ]
+  },
+  {
+   "Product Code": "VF41",
+   "Category": "Vacuum Flask",
+   "Name": "Steel Bottle",
+   "Material": "SS 304",
+   "Weight": 330,
+   "Function / Feature": "Double wall matt",
+   "Printing Type": 15,
+   "Colour Options": 34.9,
+   "Price for 100 - 299": 50.63,
+   "Price for 300 - 499": 46.57,
+   "Price for 500 - 699": 42.85,
+   "Price for 700 - 899": 39.85,
+   "Price for 900 - 999": 37.06,
+   "Price for 1000 above": 34.47,
+   "Printing Cost - Silkscreen": 1.5,
+   "Printing Cost - Pad Print": 1.6,
+   "Printing Cost - UV Print": 5,
+   "Printing Cost - UV Sticker": 1.9,
+   "Printing Cost - Engraving": 3.5,
+   "Image URL": "public/images/placeholder.jpg",
+   "variants": [
+    {
+     "variant": "default",
+     "image": "public/images/placeholder.jpg"
+    }
+   ]
+  },
+  {
+   "Product Code": "VF45",
+   "Category": "Vacuum Flask",
+   "Name": "Steel Bottle",
+   "Material": "SS 304",
+   "Weight": 495,
+   "Function / Feature": "Double wall high-grade matt",
+   "Printing Type": 15,
+   "Colour Options": 39.9,
+   "Price for 100 - 299": 57.38,
+   "Price for 300 - 499": 52.78,
+   "Price for 500 - 699": 48.56,
+   "Price for 700 - 899": 45.2,
+   "Price for 900 - 999": 42.04,
+   "Price for 1000 above": 39.09,
+   "Printing Cost - Silkscreen": 1.5,
+   "Printing Cost - Pad Print": 1.6,
+   "Printing Cost - UV Print": 5,
+   "Printing Cost - UV Sticker": 1.9,
+   "Printing Cost - Engraving": 3.5,
+   "Image URL": "public/images/placeholder.jpg",
+   "variants": [
+    {
+     "variant": "default",
+     "image": "public/images/placeholder.jpg"
+    }
+   ]
+  },
+  {
+   "Product Code": "VF46",
+   "Category": "Vacuum Flask",
+   "Name": "Steel Bottle",
+   "Material": "SS 304",
+   "Weight": 390,
+   "Function / Feature": "Double wall high-grade matt",
+   "Printing Type": 12,
+   "Colour Options": 36.9,
+   "Price for 100 - 299": 55.13,
+   "Price for 300 - 499": 50.71,
+   "Price for 500 - 699": 46.65,
+   "Price for 700 - 899": 43.38,
+   "Price for 900 - 999": 40.35,
+   "Price for 1000 above": 37.52,
+   "Printing Cost - Silkscreen": 1.5,
+   "Printing Cost - Pad Print": 1.6,
+   "Printing Cost - UV Print": 5,
+   "Printing Cost - UV Sticker": 1.9,
+   "Printing Cost - Engraving": 3.5,
+   "Image URL": "public/images/placeholder.jpg",
+   "variants": [
+    {
+     "variant": "default",
+     "image": "public/images/placeholder.jpg"
+    }
+   ]
+  },
+  {
+   "Product Code": "VF48",
+   "Category": "Vacuum Flask",
+   "Name": "Steel Bottle",
+   "Material": "SS 304",
+   "Weight": 335,
+   "Function / Feature": "Double wall high-grade matt",
+   "Printing Type": 10,
+   "Colour Options": 32.9,
+   "Price for 100 - 299": 57.38,
+   "Price for 300 - 499": 52.78,
+   "Price for 500 - 699": 48.56,
+   "Price for 700 - 899": 45.2,
+   "Price for 900 - 999": 42.04,
+   "Price for 1000 above": 39.09,
+   "Printing Cost - Silkscreen": 1.5,
+   "Printing Cost - Pad Print": 1.6,
+   "Printing Cost - UV Print": 5,
+   "Printing Cost - UV Sticker": 1.9,
+   "Printing Cost - Engraving": 3.5,
+   "Image URL": "public/images/placeholder.jpg",
+   "variants": [
+    {
+     "variant": "default",
+     "image": "public/images/placeholder.jpg"
+    }
+   ]
+  },
+  {
+   "Product Code": "VF49",
+   "Category": "Vacuum Flask",
+   "Name": "Steel Bottle",
+   "Material": "SS 304",
+   "Weight": 335,
+   "Function / Feature": "Double wall matt",
+   "Printing Type": 12,
+   "Colour Options": 32.9,
+   "Price for 100 - 299": 52.88,
+   "Price for 300 - 499": 48.64,
+   "Price for 500 - 699": 44.75,
+   "Price for 700 - 899": 41.62,
+   "Price for 900 - 999": 38.71,
+   "Price for 1000 above": 36,
+   "Printing Cost - Silkscreen": 1.5,
+   "Printing Cost - Pad Print": 1.6,
+   "Printing Cost - UV Print": 5,
+   "Printing Cost - UV Sticker": 1.9,
+   "Printing Cost - Engraving": 3.5,
+   "Image URL": "public/images/placeholder.jpg",
+   "variants": [
+    {
+     "variant": "default",
+     "image": "public/images/placeholder.jpg"
+    }
+   ]
+  },
+  {
+   "Product Code": "VF51",
+   "Category": "Vacuum Flask",
+   "Name": "Steel Mug",
+   "Material": "SS 304",
+   "Weight": 300,
+   "Function / Feature": "Matt finish",
+   "Printing Type": 8,
+   "Colour Options": 24.9,
+   "Price for 100 - 299": 46.13,
+   "Price for 300 - 499": 42.43,
+   "Price for 500 - 699": 39.04,
+   "Price for 700 - 899": 36.3,
+   "Price for 900 - 999": 33.76,
+   "Price for 1000 above": 31.4,
+   "Printing Cost - Silkscreen": 1.5,
+   "Printing Cost - Pad Print": 1.6,
+   "Printing Cost - UV Print": 5,
+   "Printing Cost - UV Sticker": 1.9,
+   "Printing Cost - Engraving": 3.5,
+   "Image URL": "public/images/placeholder.jpg",
+   "variants": [
+    {
+     "variant": "default",
+     "image": "public/images/placeholder.jpg"
+    }
+   ]
+  },
+  {
+   "Product Code": "VF52",
+   "Category": "Vacuum Flask",
+   "Name": "Steel Mug",
+   "Material": "SS",
+   "Weight": "-",
+   "Function / Feature": "Double wall high-grade matt",
+   "Printing Type": 8,
+   "Colour Options": 26.9,
+   "Price for 100 - 299": 46.13,
+   "Price for 300 - 499": 42.43,
+   "Price for 500 - 699": 39.04,
+   "Price for 700 - 899": 36.3,
+   "Price for 900 - 999": 33.76,
+   "Price for 1000 above": 31.4,
+   "Printing Cost - Silkscreen": 1.5,
+   "Printing Cost - Pad Print": 1.6,
+   "Printing Cost - UV Print": 5,
+   "Printing Cost - UV Sticker": 1.9,
+   "Printing Cost - Engraving": 3.5,
+   "Image URL": "public/images/placeholder.jpg",
+   "variants": [
+    {
+     "variant": "default",
+     "image": "public/images/placeholder.jpg"
+    }
+   ]
+  },
+  {
+   "Product Code": "TB05",
+   "Category": "Accessories",
+   "Name": "Pen Box",
+   "Material": "Paper",
+   "Size (cm)": "18 × 4.5 × 2.3 cm",
+   "Weight": 40,
+   "Function / Feature": "-",
+   "Printing Type": "Silk-screen",
+   "Colour Options": "Black",
+   "Printing Area (cm)": "9.5 × 3.5",
+   "Price for 100 - 299": 6.3,
+   "Price for 300 - 499": 5.8,
+   "Price for 500 - 699": 5.33,
+   "Price for 700 - 899": 4.96,
+   "Price for 900 - 999": 4.61,
+   "Price for 1000 above": 4.29,
+   "Printing Cost - Silkscreen": 1.5,
+   "Printing Cost - Pad Print": 1.6,
+   "Printing Cost - UV Print": 5,
+   "Printing Cost - UV Sticker": 1.9,
+   "Printing Cost - Engraving": 3.5,
+   "Image URL": "public/images/placeholder.jpg",
+   "variants": [
+    {
+     "variant": "default",
+     "image": "public/images/placeholder.jpg"
+    }
+   ]
+  },
+  {
+   "Product Code": "TB06",
+   "Category": "Accessories",
+   "Name": "Pen Box",
+   "Material": "Paper",
+   "Size (cm)": "15.5 × 2 × 2 cm",
+   "Weight": 25,
+   "Function / Feature": "-",
+   "Printing Type": "Silk-screen",
+   "Colour Options": "Transparent",
+   "Printing Area (cm)": "13.5 × 1.2",
+   "Price for 100 - 299": 2.25,
+   "Price for 300 - 499": 2.07,
+   "Price for 500 - 699": 1.9,
+   "Price for 700 - 899": 1.77,
+   "Price for 900 - 999": 1.64,
+   "Price for 1000 above": 1.53,
+   "Printing Cost - Silkscreen": 1.5,
+   "Printing Cost - Pad Print": 1.6,
+   "Printing Cost - UV Print": 5,
+   "Printing Cost - UV Sticker": 1.9,
+   "Printing Cost - Engraving": 3.5,
+   "Image URL": "public/images/placeholder.jpg",
+   "variants": [
+    {
+     "variant": "default",
+     "image": "public/images/placeholder.jpg"
+    }
+   ]
+  },
+  {
+   "Product Code": "TB07",
+   "Category": "Accessories",
+   "Name": "Pen Box",
+   "Material": "Paper",
+   "Size (cm)": "13 × 1.5 × 1.5 cm",
+   "Weight": 17,
+   "Function / Feature": "-",
+   "Printing Type": "Silk-screen",
+   "Colour Options": "Transparent",
+   "Printing Area (cm)": "5.5 × 2.5",
+   "Price for 100 - 299": 2.7,
+   "Price for 300 - 499": 2.49,
+   "Price for 500 - 699": 2.29,
+   "Price for 700 - 899": 2.13,
+   "Price for 900 - 999": 1.98,
+   "Price for 1000 above": 1.84,
+   "Printing Cost - Silkscreen": 1.5,
+   "Printing Cost - Pad Print": 1.6,
+   "Printing Cost - UV Print": 5,
+   "Printing Cost - UV Sticker": 1.9,
+   "Printing Cost - Engraving": 3.5,
+   "Image URL": "public/images/placeholder.jpg",
+   "variants": [
+    {
+     "variant": "default",
+     "image": "public/images/placeholder.jpg"
+    }
+   ]
+  },
+  {
+   "Product Code": "TB22",
+   "Category": "Accessories",
+   "Name": "Magnetic Box",
+   "Material": "Paper",
+   "Size (cm)": "5.5 × 8.5 × 2 cm",
+   "Weight": 20,
+   "Function / Feature": "-",
+   "Printing Type": "Silk-screen",
+   "Colour Options": "Transparent",
+   "Printing Area (cm)": "4 × 6",
+   "Price for 100 - 299": 3.38,
+   "Price for 300 - 499": 3.11,
+   "Price for 500 - 699": 2.86,
+   "Price for 700 - 899": 2.66,
+   "Price for 900 - 999": 2.47,
+   "Price for 1000 above": 2.3,
+   "Printing Cost - Silkscreen": 1.5,
+   "Printing Cost - Pad Print": 1.6,
+   "Printing Cost - UV Print": 5,
+   "Printing Cost - UV Sticker": 1.9,
+   "Printing Cost - Engraving": 3.5,
+   "Image URL": "public/images/placeholder.jpg",
+   "variants": [
+    {
+     "variant": "default",
+     "image": "public/images/placeholder.jpg"
+    }
+   ]
+  },
+  {
+   "Product Code": "TB10",
+   "Category": "Accessories",
+   "Name": "Magnetic Box",
+   "Material": "Paper",
+   "Size (cm)": "7.3 × 10.5 × 0.9 cm",
+   "Weight": 20,
+   "Function / Feature": "-",
+   "Printing Type": "Silk-screen",
+   "Colour Options": "Transparent",
+   "Printing Area (cm)": "4 × 6",
+   "Price for 100 - 299": 1.13,
+   "Price for 300 - 499": 1.03,
+   "Price for 500 - 699": 0.95,
+   "Price for 700 - 899": 0.88,
+   "Price for 900 - 999": 0.82,
+   "Price for 1000 above": 0.76,
+   "Printing Cost - Silkscreen": 1.5,
+   "Printing Cost - Pad Print": 1.6,
+   "Printing Cost - UV Print": 5,
+   "Printing Cost - UV Sticker": 1.9,
+   "Printing Cost - Engraving": 3.5,
+   "Image URL": "public/images/placeholder.jpg",
+   "variants": [
+    {
+     "variant": "default",
+     "image": "public/images/placeholder.jpg"
+    }
+   ]
+  },
+  {
+   "Product Code": "TB11",
+   "Category": "Accessories",
+   "Name": "Keychain Box",
+   "Material": "Paper",
+   "Size (cm)": "11 × 5 × 1.2 cm",
+   "Weight": 10,
+   "Function / Feature": "-",
+   "Printing Type": "Silk-screen",
+   "Colour Options": "Black",
+   "Printing Area (cm)": "14 × 1.5",
+   "Price for 100 - 299": 0.8,
+   "Price for 300 - 499": 0.73,
+   "Price for 500 - 699": 0.67,
+   "Price for 700 - 899": 0.62,
+   "Price for 900 - 999": 0.58,
+   "Price for 1000 above": 0.54,
+   "Printing Cost - Silkscreen": 1.5,
+   "Printing Cost - Pad Print": 1.6,
+   "Printing Cost - UV Print": 5,
+   "Printing Cost - UV Sticker": 1.9,
+   "Printing Cost - Engraving": 3.5,
+   "Image URL": "public/images/placeholder.jpg",
+   "variants": [
+    {
+     "variant": "default",
+     "image": "public/images/placeholder.jpg"
+    }
+   ]
+  },
+  {
+   "Product Code": "TB16",
+   "Category": "Accessories",
+   "Name": "Color Paper Paper",
+   "Material": "Color paper",
+   "Size (cm)": "15.5 × 2.2 cm",
+   "Weight": 6,
+   "Function / Feature": "-",
+   "Printing Type": "Silk-screen",
+   "Colour Options": "Black, Silver",
+   "Printing Area (cm)": "8 × 1",
+   "Price for 100 - 299": 2.15,
+   "Price for 300 - 499": 1.97,
+   "Price for 500 - 699": 1.81,
+   "Price for 700 - 899": 1.69,
+   "Price for 900 - 999": 1.57,
+   "Price for 1000 above": 1.46,
+   "Printing Cost - Silkscreen": 1.5,
+   "Printing Cost - Pad Print": 1.6,
+   "Printing Cost - UV Print": 5,
+   "Printing Cost - UV Sticker": 1.9,
+   "Printing Cost - Engraving": 3.5,
+   "Image URL": "public/images/placeholder.jpg",
+   "variants": [
+    {
+     "variant": "default",
+     "image": "public/images/placeholder.jpg"
+    }
+   ]
+  },
+  {
+   "Product Code": "TB20",
+   "Category": "Accessories",
+   "Name": "Color Paper Paper",
+   "Material": "Color paper",
+   "Size (cm)": "7.5 × 4 × 1 cm",
+   "Weight": 8,
+   "Function / Feature": "-",
+   "Printing Type": "Silk-screen",
+   "Colour Options": "Black",
+   "Printing Area (cm)": "14 × 1.5",
+   "Price for 100 - 299": 1.92,
+   "Price for 300 - 499": 1.76,
+   "Price for 500 - 699": 1.62,
+   "Price for 700 - 899": 1.51,
+   "Price for 900 - 999": 1.4,
+   "Price for 1000 above": 1.3,
+   "Printing Cost - Silkscreen": 1.5,
+   "Printing Cost - Pad Print": 1.6,
+   "Printing Cost - UV Print": 5,
+   "Printing Cost - UV Sticker": 1.9,
+   "Printing Cost - Engraving": 3.5,
+   "Image URL": "public/images/placeholder.jpg",
+   "variants": [
+    {
+     "variant": "default",
+     "image": "public/images/placeholder.jpg"
+    }
+   ]
+  },
+  {
+   "Product Code": "TB17",
+   "Category": "Accessories",
+   "Name": "Single-wall Flute",
+   "Material": "Flute",
+   "Size (cm)": "16 × 3 × 1.8 cm",
+   "Weight": 32,
+   "Function / Feature": "-",
+   "Printing Type": "Silk-screen",
+   "Colour Options": "Black",
+   "Printing Area (cm)": "9.5 × 3.5",
+   "Price for 100 - 299": 2.25,
+   "Price for 300 - 499": 2.07,
+   "Price for 500 - 699": 1.9,
+   "Price for 700 - 899": 1.77,
+   "Price for 900 - 999": 1.64,
+   "Price for 1000 above": 1.53,
+   "Printing Cost - Silkscreen": 1.5,
+   "Printing Cost - Pad Print": 1.6,
+   "Printing Cost - UV Print": 5,
+   "Printing Cost - UV Sticker": 1.9,
+   "Printing Cost - Engraving": 3.5,
+   "Image URL": "public/images/placeholder.jpg",
+   "variants": [
+    {
+     "variant": "default",
+     "image": "public/images/placeholder.jpg"
+    }
+   ]
+  },
+  {
+   "Product Code": "TB19",
+   "Category": "Accessories",
+   "Name": "Single-wall Flute",
+   "Material": "Flute",
+   "Size (cm)": "14.7 × 1.2 cm",
+   "Weight": 18,
+   "Function / Feature": "-",
+   "Printing Type": "Silk-screen",
+   "Colour Options": "Transparent",
+   "Printing Area (cm)": "13.5 × 1.2",
+   "Price for 100 - 299": 1.8,
+   "Price for 300 - 499": 1.66,
+   "Price for 500 - 699": 1.52,
+   "Price for 700 - 899": 1.42,
+   "Price for 900 - 999": 1.32,
+   "Price for 1000 above": 1.23,
+   "Printing Cost - Silkscreen": 1.5,
+   "Printing Cost - Pad Print": 1.6,
+   "Printing Cost - UV Print": 5,
+   "Printing Cost - UV Sticker": 1.9,
+   "Printing Cost - Engraving": 3.5,
+   "Image URL": "public/images/placeholder.jpg",
+   "variants": [
+    {
+     "variant": "default",
+     "image": "public/images/placeholder.jpg"
+    }
+   ]
+  },
+  {
+   "Product Code": "SA16",
+   "Category": "Accessories",
+   "Name": "Photo Frame",
+   "Material": "Laminated craft",
+   "Size (cm)": "27.5 × 31 cm",
+   "Weight": 346,
+   "Function / Feature": "Hot-stamping frame",
+   "Printing Type": "Silk-screen",
+   "Colour Options": "Navy, Black, Maroon, Brown",
+   "Printing Area (cm)": "17.5 × 17.5",
+   "Price for 100 - 299": 14.63,
+   "Price for 300 - 499": 13.45,
+   "Price for 500 - 699": 12.37,
+   "Price for 700 - 899": 11.5,
+   "Price for 900 - 999": 10.7,
+   "Price for 1000 above": 9.95,
+   "Printing Cost - Silkscreen": 1.5,
+   "Printing Cost - Pad Print": 1.6,
+   "Printing Cost - UV Print": 5,
+   "Printing Cost - UV Sticker": 1.9,
+   "Printing Cost - Engraving": 3.5,
+   "Image URL": "public/images/placeholder.jpg",
+   "variants": [
+    {
+     "variant": "default",
+     "image": "public/images/placeholder.jpg"
+    }
+   ]
+  },
+  {
+   "Product Code": "SA15",
+   "Category": "Accessories",
+   "Name": "Photo Frame",
+   "Material": "PS + glass",
+   "Size (cm)": "23 × 32 cm",
+   "Weight": 345,
+   "Function / Feature": "2.5 cm frame",
+   "Printing Type": "Silk-screen",
+   "Colour Options": "Gold",
+   "Printing Area (cm)": "17.5 × 17.5",
+   "Price for 100 - 299": 14.63,
+   "Price for 300 - 499": 13.45,
+   "Price for 500 - 699": 12.37,
+   "Price for 700 - 899": 11.5,
+   "Price for 900 - 999": 10.7,
+   "Price for 1000 above": 9.95,
+   "Printing Cost - Silkscreen": 1.5,
+   "Printing Cost - Pad Print": 1.6,
+   "Printing Cost - UV Print": 5,
+   "Printing Cost - UV Sticker": 1.9,
+   "Printing Cost - Engraving": 3.5,
+   "Image URL": "public/images/placeholder.jpg",
+   "variants": [
+    {
+     "variant": "default",
+     "image": "public/images/placeholder.jpg"
+    }
+   ]
+  },
+  {
+   "Product Code": "SA17",
+   "Category": "Accessories",
+   "Name": "Photo Frame",
+   "Material": "-",
+   "Size (cm)": "7\"",
+   "Weight": 111,
+   "Function / Feature": "OPP bag",
+   "Printing Type": "Silk-screen",
+   "Colour Options": "SA1700",
+   "Printing Area (cm)": "17.5 × 17.5",
+   "Price for 100 - 299": 2.25,
+   "Price for 300 - 499": 2.07,
+   "Price for 500 - 699": 1.9,
+   "Price for 700 - 899": 1.77,
+   "Price for 900 - 999": 1.64,
+   "Price for 1000 above": 1.53,
+   "Printing Cost - Silkscreen": 1.5,
+   "Printing Cost - Pad Print": 1.6,
+   "Printing Cost - UV Print": 5,
+   "Printing Cost - UV Sticker": 1.9,
+   "Printing Cost - Engraving": 3.5,
+   "Image URL": "public/images/placeholder.jpg",
+   "variants": [
+    {
+     "variant": "default",
+     "image": "public/images/placeholder.jpg"
+    }
+   ]
+  },
+  {
+   "Product Code": "SA18",
+   "Category": "Accessories",
+   "Name": "Photo Frame",
+   "Material": "-",
+   "Size (cm)": "32 cm",
+   "Weight": 700,
+   "Function / Feature": "Box",
+   "Printing Type": "Silk-screen",
+   "Colour Options": "SA1800",
+   "Printing Area (cm)": "17.5 × 17.5",
+   "Price for 100 - 299": 2.25,
+   "Price for 300 - 499": 2.07,
+   "Price for 500 - 699": 1.9,
+   "Price for 700 - 899": 1.77,
+   "Price for 900 - 999": 1.64,
+   "Price for 1000 above": 1.53,
+   "Printing Cost - Silkscreen": 1.5,
+   "Printing Cost - Pad Print": 1.6,
+   "Printing Cost - UV Print": 5,
+   "Printing Cost - UV Sticker": 1.9,
+   "Printing Cost - Engraving": 3.5,
+   "Image URL": "public/images/placeholder.jpg",
+   "variants": [
+    {
+     "variant": "default",
+     "image": "public/images/placeholder.jpg"
+    }
+   ]
+  },
+  {
+   "Product Code": "SA19",
+   "Category": "Accessories",
+   "Name": "Photo Frame",
+   "Material": "-",
+   "Size (cm)": "20 cm",
+   "Weight": 620,
+   "Function / Feature": "Box",
+   "Printing Type": "Silk-screen",
+   "Colour Options": "SA1900",
+   "Printing Area (cm)": "17.5 × 17.5",
+   "Price for 100 - 299": 2.25,
+   "Price for 300 - 499": 2.07,
+   "Price for 500 - 699": 1.9,
+   "Price for 700 - 899": 1.77,
+   "Price for 900 - 999": 1.64,
+   "Price for 1000 above": 1.53,
+   "Printing Cost - Silkscreen": 1.5,
+   "Printing Cost - Pad Print": 1.6,
+   "Printing Cost - UV Print": 5,
+   "Printing Cost - UV Sticker": 1.9,
+   "Printing Cost - Engraving": 3.5,
+   "Image URL": "public/images/placeholder.jpg",
+   "variants": [
+    {
+     "variant": "default",
+     "image": "public/images/placeholder.jpg"
+    }
+   ]
+  },
+  {
+   "Product Code": "SA21",
+   "Category": "Accessories",
+   "Name": "Photo Frame",
+   "Material": "-",
+   "Size (cm)": "20 cm",
+   "Weight": 360,
+   "Function / Feature": "Box",
+   "Printing Type": "Silk-screen",
+   "Colour Options": "SA2100",
+   "Printing Area (cm)": "17.5 × 17.5",
+   "Price for 100 - 299": 2.25,
+   "Price for 300 - 499": 2.07,
+   "Price for 500 - 699": 1.9,
+   "Price for 700 - 899": 1.77,
+   "Price for 900 - 999": 1.64,
+   "Price for 1000 above": 1.53,
+   "Printing Cost - Silkscreen": 1.5,
+   "Printing Cost - Pad Print": 1.6,
+   "Printing Cost - UV Print": 5,
+   "Printing Cost - UV Sticker": 1.9,
+   "Printing Cost - Engraving": 3.5,
+   "Image URL": "public/images/placeholder.jpg",
+   "variants": [
+    {
+     "variant": "default",
+     "image": "public/images/placeholder.jpg"
+    }
+   ]
+  },
+  {
+   "Product Code": "SA20",
+   "Category": "Accessories",
+   "Name": "Rain-coat",
+   "Material": "170T polyester",
+   "Size (cm)": "142 × 67 cm",
+   "Weight": 130,
+   "Function / Feature": "OPP bag",
+   "Printing Type": "Silk-screen",
+   "Colour Options": "Silver",
+   "Printing Area (cm)": "15 × 23",
+   "Price for 100 - 299": 2.48,
+   "Price for 300 - 499": 2.28,
+   "Price for 500 - 699": 2.1,
+   "Price for 700 - 899": 1.95,
+   "Price for 900 - 999": 1.81,
+   "Price for 1000 above": 1.69,
+   "Printing Cost - Silkscreen": 1.5,
+   "Printing Cost - Pad Print": 1.6,
+   "Printing Cost - UV Print": 5,
+   "Printing Cost - UV Sticker": 1.9,
+   "Printing Cost - Engraving": 3.5,
+   "Image URL": "public/images/placeholder.jpg",
+   "variants": [
+    {
+     "variant": "default",
+     "image": "public/images/placeholder.jpg"
+    }
+   ]
+  },
+  {
+   "Product Code": "SA24",
+   "Category": "Accessories",
+   "Name": "Photo Frame",
+   "Material": "-",
+   "Size (cm)": "27.5 cm",
+   "Weight": 21,
+   "Function / Feature": "Box",
+   "Printing Type": "Silk-screen",
+   "Colour Options": "White, Red, Royal-Blue",
+   "Printing Area (cm)": "14 × 13",
+   "Price for 100 - 299": 2.48,
+   "Price for 300 - 499": 2.28,
+   "Price for 500 - 699": 2.1,
+   "Price for 700 - 899": 1.95,
+   "Price for 900 - 999": 1.81,
+   "Price for 1000 above": 1.69,
+   "Printing Cost - Silkscreen": 1.5,
+   "Printing Cost - Pad Print": 1.6,
+   "Printing Cost - UV Print": 5,
+   "Printing Cost - UV Sticker": 1.9,
+   "Printing Cost - Engraving": 3.5,
+   "Image URL": "public/images/placeholder.jpg",
+   "variants": [
+    {
+     "variant": "default",
+     "image": "public/images/placeholder.jpg"
+    }
+   ]
+  },
+  {
+   "Product Code": "SA25",
+   "Category": "Accessories",
+   "Name": "Photo Frame",
+   "Material": "-",
+   "Size (cm)": "26.5 cm",
+   "Weight": 18,
+   "Function / Feature": "Box",
+   "Printing Type": "Silk-screen",
+   "Colour Options": "White, Red, Royal-Blue",
+   "Printing Area (cm)": "14 × 12",
+   "Price for 100 - 299": 2.48,
+   "Price for 300 - 499": 2.28,
+   "Price for 500 - 699": 2.1,
+   "Price for 700 - 899": 1.95,
+   "Price for 900 - 999": 1.81,
+   "Price for 1000 above": 1.69,
+   "Printing Cost - Silkscreen": 1.5,
+   "Printing Cost - Pad Print": 1.6,
+   "Printing Cost - UV Print": 5,
+   "Printing Cost - UV Sticker": 1.9,
+   "Printing Cost - Engraving": 3.5,
+   "Image URL": "public/images/placeholder.jpg",
+   "variants": [
+    {
+     "variant": "default",
+     "image": "public/images/placeholder.jpg"
+    }
+   ]
+  },
+  {
+   "Product Code": "SA26",
+   "Category": "Accessories",
+   "Name": "Photo Frame",
+   "Material": "-",
+   "Size (cm)": "17 cm",
+   "Weight": 13,
+   "Function / Feature": "Box",
+   "Printing Type": "Silk-screen",
+   "Colour Options": "White",
+   "Printing Area (cm)": "15 × 10",
+   "Price for 100 - 299": 2.25,
+   "Price for 300 - 499": 2.07,
+   "Price for 500 - 699": 1.9,
+   "Price for 700 - 899": 1.77,
+   "Price for 900 - 999": 1.64,
+   "Price for 1000 above": 1.53,
+   "Printing Cost - Silkscreen": 1.5,
+   "Printing Cost - Pad Print": 1.6,
+   "Printing Cost - UV Print": 5,
+   "Printing Cost - UV Sticker": 1.9,
+   "Printing Cost - Engraving": 3.5,
+   "Image URL": "public/images/placeholder.jpg",
+   "variants": [
+    {
+     "variant": "default",
+     "image": "public/images/placeholder.jpg"
+    }
+   ]
+  },
+  {
+   "Product Code": "ID01",
+   "Category": "Lanyard & ID",
+   "Name": "Pin Badge",
+   "Material": "Plastic",
+   "Size (cm)": "1.5 × 1.5 cm",
+   "Weight": 11,
+   "Function / Feature": "Epoxy",
+   "Printing Type": "Epoxy",
+   "Colour Options": "Black, Red, Orange, Royal-Blue, Green",
+   "Printing Area (cm)": "1.5 × 1.5",
+   "Price for 100 - 299": 1.8,
+   "Price for 300 - 499": 1.66,
+   "Price for 500 - 699": 1.52,
+   "Price for 700 - 899": 1.42,
+   "Price for 900 - 999": 1.32,
+   "Price for 1000 above": 1.23,
+   "Printing Cost - Silkscreen": 1.5,
+   "Printing Cost - Pad Print": 1.6,
+   "Printing Cost - UV Print": 5,
+   "Printing Cost - UV Sticker": 1.9,
+   "Printing Cost - Engraving": 3.5,
+   "Image URL": "public/images/placeholder.jpg",
+   "variants": [
+    {
+     "variant": "default",
+     "image": "public/images/placeholder.jpg"
+    }
+   ]
+  },
+  {
+   "Product Code": "ID02",
+   "Category": "Lanyard & ID",
+   "Name": "ID Card",
+   "Material": "PVC",
+   "Size (cm)": "10 × 7 cm",
+   "Weight": 10,
+   "Function / Feature": "-",
+   "Printing Type": "-",
+   "Colour Options": "ID0200",
+   "Printing Area (cm)": "8 × 4",
+   "Price for 100 - 299": 0.8,
+   "Price for 300 - 499": 0.73,
+   "Price for 500 - 699": 0.67,
+   "Price for 700 - 899": 0.62,
+   "Price for 900 - 999": 0.58,
+   "Price for 1000 above": 0.54,
+   "Printing Cost - Silkscreen": 1.5,
+   "Printing Cost - Pad Print": 1.6,
+   "Printing Cost - UV Print": 5,
+   "Printing Cost - UV Sticker": 1.9,
+   "Printing Cost - Engraving": 3.5,
+   "Image URL": "public/images/placeholder.jpg",
+   "variants": [
+    {
+     "variant": "default",
+     "image": "public/images/placeholder.jpg"
+    }
+   ]
+  },
+  {
+   "Product Code": "ID04",
+   "Category": "Lanyard & ID",
+   "Name": "Waterproof ID",
+   "Material": "Waterproof PVC",
+   "Size (cm)": "8 × 12 cm",
+   "Weight": 9,
+   "Function / Feature": "-",
+   "Printing Type": "-",
+   "Colour Options": "ID0400",
+   "Printing Area (cm)": "5 × 7",
+   "Price for 100 - 299": 1.13,
+   "Price for 300 - 499": 1.03,
+   "Price for 500 - 699": 0.95,
+   "Price for 700 - 899": 0.88,
+   "Price for 900 - 999": 0.82,
+   "Price for 1000 above": 0.76,
+   "Printing Cost - Silkscreen": 1.5,
+   "Printing Cost - Pad Print": 1.6,
+   "Printing Cost - UV Print": 5,
+   "Printing Cost - UV Sticker": 1.9,
+   "Printing Cost - Engraving": 3.5,
+   "Image URL": "public/images/placeholder.jpg",
+   "variants": [
+    {
+     "variant": "default",
+     "image": "public/images/placeholder.jpg"
+    }
+   ]
+  },
+  {
+   "Product Code": "ID03",
+   "Category": "Lanyard & ID",
+   "Name": "Waterproof ID",
+   "Material": "Waterproof PVC",
+   "Size (cm)": "6.7 × 11 cm",
+   "Weight": 6,
+   "Function / Feature": "-",
+   "Printing Type": "-",
+   "Colour Options": "ID0300",
+   "Printing Area (cm)": "7 × 9",
+   "Price for 100 - 299": 1.13,
+   "Price for 300 - 499": 1.03,
+   "Price for 500 - 699": 0.95,
+   "Price for 700 - 899": 0.88,
+   "Price for 900 - 999": 0.82,
+   "Price for 1000 above": 0.76,
+   "Printing Cost - Silkscreen": 1.5,
+   "Printing Cost - Pad Print": 1.6,
+   "Printing Cost - UV Print": 5,
+   "Printing Cost - UV Sticker": 1.9,
+   "Printing Cost - Engraving": 3.5,
+   "Image URL": "public/images/placeholder.jpg",
+   "variants": [
+    {
+     "variant": "default",
+     "image": "public/images/placeholder.jpg"
+    }
+   ]
+  },
+  {
+   "Product Code": "ID05",
+   "Category": "Lanyard & ID",
+   "Name": "Waterproof ID",
+   "Material": "Waterproof PVC",
+   "Size (cm)": "10 × 8 cm",
+   "Weight": 8,
+   "Function / Feature": "-",
+   "Printing Type": "-",
+   "Colour Options": "ID0500",
+   "Printing Area (cm)": "8 × 5",
+   "Price for 100 - 299": 1.13,
+   "Price for 300 - 499": 1.03,
+   "Price for 500 - 699": 0.95,
+   "Price for 700 - 899": 0.88,
+   "Price for 900 - 999": 0.82,
+   "Price for 1000 above": 0.76,
+   "Printing Cost - Silkscreen": 1.5,
+   "Printing Cost - Pad Print": 1.6,
+   "Printing Cost - UV Print": 5,
+   "Printing Cost - UV Sticker": 1.9,
+   "Printing Cost - Engraving": 3.5,
+   "Image URL": "public/images/placeholder.jpg",
+   "variants": [
+    {
+     "variant": "default",
+     "image": "public/images/placeholder.jpg"
+    }
+   ]
+  },
+  {
+   "Product Code": "ID06",
+   "Category": "Lanyard & ID",
+   "Name": "Waterproof ID",
+   "Material": "Waterproof PVC",
+   "Size (cm)": "9.5 × 15.5 cm",
+   "Weight": 12,
+   "Function / Feature": "-",
+   "Printing Type": "-",
+   "Colour Options": "ID0600",
+   "Printing Area (cm)": "8 × 10",
+   "Price for 100 - 299": 1.58,
+   "Price for 300 - 499": 1.45,
+   "Price for 500 - 699": 1.33,
+   "Price for 700 - 899": 1.24,
+   "Price for 900 - 999": 1.15,
+   "Price for 1000 above": 1.07,
+   "Printing Cost - Silkscreen": 1.5,
+   "Printing Cost - Pad Print": 1.6,
+   "Printing Cost - UV Print": 5,
+   "Printing Cost - UV Sticker": 1.9,
+   "Printing Cost - Engraving": 3.5,
+   "Image URL": "public/images/placeholder.jpg",
+   "variants": [
+    {
+     "variant": "default",
+     "image": "public/images/placeholder.jpg"
+    }
+   ]
+  },
+  {
+   "Product Code": "ID07",
+   "Category": "Lanyard & ID",
+   "Name": "ID Card",
+   "Material": "PVC",
+   "Size (cm)": "7 × 10 cm",
+   "Weight": 9,
+   "Function / Feature": "-",
+   "Printing Type": "Silk-screen",
+   "Colour Options": "Navy, Black, Brown, Sea-Blue, Silver",
+   "Printing Area (cm)": "5.5 × 8",
+   "Price for 100 - 299": 1.7,
+   "Price for 300 - 499": 1.56,
+   "Price for 500 - 699": 1.44,
+   "Price for 700 - 899": 1.34,
+   "Price for 900 - 999": 1.25,
+   "Price for 1000 above": 1.16,
+   "Printing Cost - Silkscreen": 1.5,
+   "Printing Cost - Pad Print": 1.6,
+   "Printing Cost - UV Print": 5,
+   "Printing Cost - UV Sticker": 1.9,
+   "Printing Cost - Engraving": 3.5,
+   "Image URL": "public/images/placeholder.jpg",
+   "variants": [
+    {
+     "variant": "default",
+     "image": "public/images/placeholder.jpg"
+    }
+   ]
+  },
+  {
+   "Product Code": "ID08",
+   "Category": "Lanyard & ID",
+   "Name": "ID Card",
+   "Material": "PVC",
+   "Size (cm)": "10 × 7 cm",
+   "Weight": 9,
+   "Function / Feature": "-",
+   "Printing Type": "Silk-screen",
+   "Colour Options": "Navy, Black, Red, Brown, Sea-Blue",
+   "Printing Area (cm)": "5.5 × 8",
+   "Price for 100 - 299": 1.7,
+   "Price for 300 - 499": 1.56,
+   "Price for 500 - 699": 1.44,
+   "Price for 700 - 899": 1.34,
+   "Price for 900 - 999": 1.25,
+   "Price for 1000 above": 1.16,
+   "Printing Cost - Silkscreen": 1.5,
+   "Printing Cost - Pad Print": 1.6,
+   "Printing Cost - UV Print": 5,
+   "Printing Cost - UV Sticker": 1.9,
+   "Printing Cost - Engraving": 3.5,
+   "Image URL": "public/images/placeholder.jpg",
+   "variants": [
+    {
+     "variant": "default",
+     "image": "public/images/placeholder.jpg"
+    }
+   ]
+  },
+  {
+   "Product Code": "ID12",
+   "Category": "Lanyard & ID",
+   "Name": "ID Card",
+   "Material": "PVC",
+   "Size (cm)": "7 × 10 cm",
+   "Weight": 19,
+   "Function / Feature": "-",
+   "Printing Type": "Silk-screen",
+   "Colour Options": "Black, Red, Brown",
+   "Printing Area (cm)": "5 × 8",
+   "Price for 100 - 299": 4.05,
+   "Price for 300 - 499": 3.73,
+   "Price for 500 - 699": 3.43,
+   "Price for 700 - 899": 3.19,
+   "Price for 900 - 999": 2.97,
+   "Price for 1000 above": 2.76,
+   "Printing Cost - Silkscreen": 1.5,
+   "Printing Cost - Pad Print": 1.6,
+   "Printing Cost - UV Print": 5,
+   "Printing Cost - UV Sticker": 1.9,
+   "Printing Cost - Engraving": 3.5,
+   "Image URL": "public/images/placeholder.jpg",
+   "variants": [
+    {
+     "variant": "default",
+     "image": "public/images/placeholder.jpg"
+    }
+   ]
+  },
+  {
+   "Product Code": "ID09",
+   "Category": "Lanyard & ID",
+   "Name": "Plastic Badge",
+   "Material": "Plastic",
+   "Size (cm)": "8.5 × 5.3 cm",
+   "Weight": 10,
+   "Function / Feature": "-",
+   "Printing Type": "Silk-screen",
+   "Colour Options": "Red, Black",
+   "Printing Area (cm)": "6 × 3.5",
+   "Price for 100 - 299": 1.92,
+   "Price for 300 - 499": 1.76,
+   "Price for 500 - 699": 1.62,
+   "Price for 700 - 899": 1.51,
+   "Price for 900 - 999": 1.4,
+   "Price for 1000 above": 1.3,
+   "Printing Cost - Silkscreen": 1.5,
+   "Printing Cost - Pad Print": 1.6,
+   "Printing Cost - UV Print": 5,
+   "Printing Cost - UV Sticker": 1.9,
+   "Printing Cost - Engraving": 3.5,
+   "Image URL": "public/images/placeholder.jpg",
+   "variants": [
+    {
+     "variant": "default",
+     "image": "public/images/placeholder.jpg"
+    }
+   ]
+  },
+  {
+   "Product Code": "ID11",
+   "Category": "Lanyard & ID",
+   "Name": "ID Card",
+   "Material": "PVC",
+   "Size (cm)": "7 × 11 cm",
+   "Weight": 19,
+   "Function / Feature": "-",
+   "Printing Type": "Silk-screen",
+   "Colour Options": "Navy, Black",
+   "Printing Area (cm)": "5.5 × 8",
+   "Price for 100 - 299": 3.38,
+   "Price for 300 - 499": 3.11,
+   "Price for 500 - 699": 2.86,
+   "Price for 700 - 899": 2.66,
+   "Price for 900 - 999": 2.47,
+   "Price for 1000 above": 2.3,
+   "Printing Cost - Silkscreen": 1.5,
+   "Printing Cost - Pad Print": 1.6,
+   "Printing Cost - UV Print": 5,
+   "Printing Cost - UV Sticker": 1.9,
+   "Printing Cost - Engraving": 3.5,
+   "Image URL": "public/images/placeholder.jpg",
+   "variants": [
+    {
+     "variant": "default",
+     "image": "public/images/placeholder.jpg"
+    }
+   ]
+  },
+  {
+   "Product Code": "ID13",
+   "Category": "Lanyard & ID",
+   "Name": "-",
+   "Material": "-",
+   "Size (cm)": "8.3 × 5.3 cm",
+   "Weight": 10,
+   "Function / Feature": "-",
+   "Printing Type": "Silk-screen",
+   "Colour Options": "ID1300",
+   "Printing Area (cm)": "7 × 4",
+   "Price for 100 - 299": 7.88,
+   "Price for 300 - 499": 7.25,
+   "Price for 500 - 699": 6.67,
+   "Price for 700 - 899": 6.2,
+   "Price for 900 - 999": 5.77,
+   "Price for 1000 above": 5.36,
+   "Printing Cost - Silkscreen": 1.5,
+   "Printing Cost - Pad Print": 1.6,
+   "Printing Cost - UV Print": 5,
+   "Printing Cost - UV Sticker": 1.9,
+   "Printing Cost - Engraving": 3.5,
+   "Image URL": "public/images/placeholder.jpg",
+   "variants": [
+    {
+     "variant": "default",
+     "image": "public/images/placeholder.jpg"
+    }
+   ]
+  },
+  {
+   "Product Code": "ID14",
+   "Category": "Lanyard & ID",
+   "Name": "Metal Card",
+   "Material": "Aluminium",
+   "Size (cm)": "7.5 × 4.5 cm",
+   "Weight": 15,
+   "Function / Feature": "-",
+   "Printing Type": "Silk-screen",
+   "Colour Options": "Black, Red, Royal-Blue, Silver, Gold",
+   "Printing Area (cm)": "3 × 6",
+   "Price for 100 - 299": 5.85,
+   "Price for 300 - 499": 5.38,
+   "Price for 500 - 699": 4.95,
+   "Price for 700 - 899": 4.6,
+   "Price for 900 - 999": 4.28,
+   "Price for 1000 above": 3.98,
+   "Printing Cost - Silkscreen": 1.5,
+   "Printing Cost - Pad Print": 1.6,
+   "Printing Cost - UV Print": 5,
+   "Printing Cost - UV Sticker": 1.9,
+   "Printing Cost - Engraving": 3.5,
+   "Image URL": "public/images/placeholder.jpg",
+   "variants": [
+    {
+     "variant": "default",
+     "image": "public/images/placeholder.jpg"
+    }
+   ]
+  },
+  {
+   "Product Code": "ID15",
+   "Category": "Lanyard & ID",
+   "Name": "Metal Clip",
+   "Material": "Zinc alloy",
+   "Size (cm)": "5.5 × 2 cm",
+   "Weight": 170,
+   "Function / Feature": "-",
+   "Printing Type": "Silk-screen",
+   "Colour Options": "Black, Silver",
+   "Printing Area (cm)": "1 × 0.6 (clip)",
+   "Price for 100 - 299": 5.3,
+   "Price for 300 - 499": 4.87,
+   "Price for 500 - 699": 4.48,
+   "Price for 700 - 899": 4.17,
+   "Price for 900 - 999": 3.88,
+   "Price for 1000 above": 3.6,
+   "Printing Cost - Silkscreen": 1.5,
+   "Printing Cost - Pad Print": 1.6,
+   "Printing Cost - UV Print": 5,
+   "Printing Cost - UV Sticker": 1.9,
+   "Printing Cost - Engraving": 3.5,
+   "Image URL": "public/images/placeholder.jpg",
+   "variants": [
+    {
+     "variant": "default",
+     "image": "public/images/placeholder.jpg"
+    }
+   ]
+  },
+  {
+   "Product Code": "ID18",
+   "Category": "Lanyard & ID",
+   "Name": "Lanyard",
+   "Material": "Nylon",
+   "Size (cm)": "85–160 × 5 cm",
+   "Weight": "-",
+   "Function / Feature": "-",
+   "Printing Type": "Silk-screen",
+   "Colour Options": "Black, Red, Royal-Blue",
+   "Printing Area (cm)": "30 × 3 (full-rope)",
+   "Price for 100 - 299": 9.68,
+   "Price for 300 - 499": 8.9,
+   "Price for 500 - 699": 8.19,
+   "Price for 700 - 899": 7.62,
+   "Price for 900 - 999": 7.09,
+   "Price for 1000 above": 6.59,
+   "Printing Cost - Silkscreen": 1.5,
+   "Printing Cost - Pad Print": 1.6,
+   "Printing Cost - UV Print": 5,
+   "Printing Cost - UV Sticker": 1.9,
+   "Printing Cost - Engraving": 3.5,
+   "Image URL": "public/images/placeholder.jpg",
+   "variants": [
+    {
+     "variant": "default",
+     "image": "public/images/placeholder.jpg"
+    }
+   ]
+  },
+  {
+   "Product Code": "ID16",
+   "Category": "Lanyard & ID",
+   "Name": "ID Holder",
+   "Material": "PU",
+   "Size (cm)": "7.5 × 11 cm",
+   "Weight": "-",
+   "Function / Feature": "-",
+   "Printing Type": "Silk-screen",
+   "Colour Options": "Navy, Black, Beige, Red",
+   "Printing Area (cm)": "5 × 7",
+   "Price for 100 - 299": 8.78,
+   "Price for 300 - 499": 8.07,
+   "Price for 500 - 699": 7.43,
+   "Price for 700 - 899": 6.91,
+   "Price for 900 - 999": 6.43,
+   "Price for 1000 above": 5.98,
+   "Printing Cost - Silkscreen": 1.5,
+   "Printing Cost - Pad Print": 1.6,
+   "Printing Cost - UV Print": 5,
+   "Printing Cost - UV Sticker": 1.9,
+   "Printing Cost - Engraving": 3.5,
+   "Image URL": "public/images/placeholder.jpg",
+   "variants": [
+    {
+     "variant": "default",
+     "image": "public/images/placeholder.jpg"
+    }
+   ]
+  },
+  {
+   "Product Code": "ID17",
+   "Category": "Lanyard & ID",
+   "Name": "ID Holder",
+   "Material": "Silicone",
+   "Size (cm)": "5 × 9 cm",
+   "Weight": "-",
+   "Function / Feature": "-",
+   "Printing Type": "Silk-screen",
+   "Colour Options": "Black, Red, Royal-Blue",
+   "Printing Area (cm)": "2 × 5",
+   "Price for 100 - 299": 7.2,
+   "Price for 300 - 499": 6.62,
+   "Price for 500 - 699": 6.09,
+   "Price for 700 - 899": 5.66,
+   "Price for 900 - 999": 5.27,
+   "Price for 1000 above": 4.9,
+   "Printing Cost - Silkscreen": 1.5,
+   "Printing Cost - Pad Print": 1.6,
+   "Printing Cost - UV Print": 5,
+   "Printing Cost - UV Sticker": 1.9,
+   "Printing Cost - Engraving": 3.5,
+   "Image URL": "public/images/placeholder.jpg",
+   "variants": [
+    {
+     "variant": "default",
+     "image": "public/images/placeholder.jpg"
+    }
+   ]
+  },
+  {
+   "Product Code": "LD10",
+   "Category": "Lanyard & ID",
+   "Name": "Lanyard",
+   "Material": "Nylon",
+   "Size (cm)": "46 × 1.5 cm",
+   "Weight": 12,
+   "Function / Feature": "Sew + metal clip",
+   "Printing Type": "Silk-screen",
+   "Colour Options": "Navy, White, Black, Yellow, Red, Orange, Royal-Blue, Green, Sea-Blue, Purple",
+   "Printing Area (cm)": "33 × 1",
+   "Price for 100 - 299": 2.37,
+   "Price for 300 - 499": 2.18,
+   "Price for 500 - 699": 2,
+   "Price for 700 - 899": 1.86,
+   "Price for 900 - 999": 1.73,
+   "Price for 1000 above": 1.61,
+   "Printing Cost - Silkscreen": 1.5,
+   "Printing Cost - Pad Print": 1.6,
+   "Printing Cost - UV Print": 5,
+   "Printing Cost - UV Sticker": 1.9,
+   "Printing Cost - Engraving": 3.5,
+   "Image URL": "public/images/placeholder.jpg",
+   "variants": [
+    {
+     "variant": "default",
+     "image": "public/images/placeholder.jpg"
+    }
+   ]
+  },
+  {
+   "Product Code": "LD11",
+   "Category": "Lanyard & ID",
+   "Name": "Lanyard",
+   "Material": "Nylon",
+   "Size (cm)": "42 × 2 cm",
+   "Weight": 15,
+   "Function / Feature": "Sew + metal clip",
+   "Printing Type": "Silk-screen",
+   "Colour Options": "Navy, White, Black, Yellow, Red, Orange, Royal-Blue, Green, Purple",
+   "Printing Area (cm)": "33 × 1.5",
+   "Price for 100 - 299": 2.6,
+   "Price for 300 - 499": 2.39,
+   "Price for 500 - 699": 2.2,
+   "Price for 700 - 899": 2.05,
+   "Price for 900 - 999": 1.9,
+   "Price for 1000 above": 1.77,
+   "Printing Cost - Silkscreen": 1.5,
+   "Printing Cost - Pad Print": 1.6,
+   "Printing Cost - UV Print": 5,
+   "Printing Cost - UV Sticker": 1.9,
+   "Printing Cost - Engraving": 3.5,
+   "Image URL": "public/images/placeholder.jpg",
+   "variants": [
+    {
+     "variant": "default",
+     "image": "public/images/placeholder.jpg"
+    }
+   ]
+  },
+  {
+   "Product Code": "LD12",
+   "Category": "Lanyard & ID",
+   "Name": "Lanyard",
+   "Material": "Nylon",
+   "Size (cm)": "46 × 2 cm",
+   "Weight": 25,
+   "Function / Feature": "Sew + metal + safety + buckle",
+   "Printing Type": "Silk-screen",
+   "Colour Options": "Black, White, Red, Purple, Royal-Blue",
+   "Printing Area (cm)": "28 × 1.5",
+   "Price for 100 - 299": 3.6,
+   "Price for 300 - 499": 3.31,
+   "Price for 500 - 699": 3.05,
+   "Price for 700 - 899": 2.84,
+   "Price for 900 - 999": 2.64,
+   "Price for 1000 above": 2.45,
+   "Printing Cost - Silkscreen": 1.5,
+   "Printing Cost - Pad Print": 1.6,
+   "Printing Cost - UV Print": 5,
+   "Printing Cost - UV Sticker": 1.9,
+   "Printing Cost - Engraving": 3.5,
+   "Image URL": "public/images/placeholder.jpg",
+   "variants": [
+    {
+     "variant": "default",
+     "image": "public/images/placeholder.jpg"
+    }
+   ]
+  },
+  {
+   "Product Code": "LD13",
+   "Category": "Lanyard & ID",
+   "Name": "Lanyard",
+   "Material": "Nylon",
+   "Size (cm)": "46 × 1.5 cm",
+   "Weight": 12,
+   "Function / Feature": "Sew + oval hook",
+   "Printing Type": "Silk-screen",
+   "Colour Options": "Navy, White, Black, Yellow, Red, Orange, Royal-Blue, Green, Sea-Blue, Purple",
+   "Printing Area (cm)": "33 × 1",
+   "Price for 100 - 299": 2.7,
+   "Price for 300 - 499": 2.49,
+   "Price for 500 - 699": 2.29,
+   "Price for 700 - 899": 2.13,
+   "Price for 900 - 999": 1.98,
+   "Price for 1000 above": 1.84,
+   "Printing Cost - Silkscreen": 1.5,
+   "Printing Cost - Pad Print": 1.6,
+   "Printing Cost - UV Print": 5,
+   "Printing Cost - UV Sticker": 1.9,
+   "Printing Cost - Engraving": 3.5,
+   "Image URL": "public/images/placeholder.jpg",
+   "variants": [
+    {
+     "variant": "default",
+     "image": "public/images/placeholder.jpg"
+    }
+   ]
+  },
+  {
+   "Product Code": "LD14",
+   "Category": "Lanyard & ID",
+   "Name": "Lanyard",
+   "Material": "Nylon",
+   "Size (cm)": "42 × 2 cm (long) 4 × 2 cm (short)",
+   "Weight": 17,
+   "Function / Feature": "Sew + oval hook",
+   "Printing Type": "Silk-screen",
+   "Colour Options": "Navy, White, Black, Yellow, Red, Orange, Royal-Blue, Green, Purple",
+   "Printing Area (cm)": "33 × 1.5",
+   "Price for 100 - 299": 2.93,
+   "Price for 300 - 499": 2.69,
+   "Price for 500 - 699": 2.48,
+   "Price for 700 - 899": 2.3,
+   "Price for 900 - 999": 2.14,
+   "Price for 1000 above": 1.99,
+   "Printing Cost - Silkscreen": 1.5,
+   "Printing Cost - Pad Print": 1.6,
+   "Printing Cost - UV Print": 5,
+   "Printing Cost - UV Sticker": 1.9,
+   "Printing Cost - Engraving": 3.5,
+   "Image URL": "public/images/placeholder.jpg",
+   "variants": [
+    {
+     "variant": "default",
+     "image": "public/images/placeholder.jpg"
+    }
+   ]
+  },
+  {
+   "Product Code": "LD15",
+   "Category": "Lanyard & ID",
+   "Name": "Lanyard",
+   "Material": "Nylon",
+   "Size (cm)": "46 × 2 cm",
+   "Weight": 25,
+   "Function / Feature": "Sew + oval + safety + buckle",
+   "Printing Type": "Silk-screen",
+   "Colour Options": "Navy, White, Black, Yellow, Red, Orange, Royal-Blue, Green, Sea-Blue, Purple",
+   "Printing Area (cm)": "28 × 1.5",
+   "Price for 100 - 299": 3.83,
+   "Price for 300 - 499": 3.52,
+   "Price for 500 - 699": 3.24,
+   "Price for 700 - 899": 3.01,
+   "Price for 900 - 999": 2.8,
+   "Price for 1000 above": 2.6,
+   "Printing Cost - Silkscreen": 1.5,
+   "Printing Cost - Pad Print": 1.6,
+   "Printing Cost - UV Print": 5,
+   "Printing Cost - UV Sticker": 1.9,
+   "Printing Cost - Engraving": 3.5,
+   "Image URL": "public/images/placeholder.jpg",
+   "variants": [
+    {
+     "variant": "default",
+     "image": "public/images/placeholder.jpg"
+    }
+   ]
+  },
+  {
+   "Product Code": "UM01",
+   "Category": "Umbrella",
+   "Name": "Umbrella",
+   "Material": "-",
+   "Size (cm)": "#NAME?",
+   "Weight": "-",
+   "Function / Feature": "81 cm length",
+   "Printing Type": "Silk-screen",
+   "Colour Options": "Red, Lime-Green, Royal-Blue",
+   "Printing Area (cm)": "10 × 7 (inch)",
+   "Price for 100 - 299": 23.63,
+   "Price for 300 - 499": 21.73,
+   "Price for 500 - 699": 20,
+   "Price for 700 - 899": 18.6,
+   "Price for 900 - 999": 17.3,
+   "Price for 1000 above": 16.09,
+   "Printing Cost - Silkscreen": 1.5,
+   "Printing Cost - Pad Print": 1.6,
+   "Printing Cost - UV Print": 5,
+   "Printing Cost - UV Sticker": 1.9,
+   "Printing Cost - Engraving": 3.5,
+   "Image URL": "public/images/placeholder.jpg",
+   "variants": [
+    {
+     "variant": "default",
+     "image": "public/images/placeholder.jpg"
+    }
+   ]
+  },
+  {
+   "Product Code": "UM02",
+   "Category": "Umbrella",
+   "Name": "Auto Umbrella",
+   "Material": "Silver-coated",
+   "Size (cm)": "90 cm",
+   "Weight": 458,
+   "Function / Feature": "Eva straight handle, auto",
+   "Printing Type": "Silk-screen",
+   "Colour Options": "Red, Orange, Royal-Blue, Magenta",
+   "Printing Area (cm)": "12 × 8 (inch)",
+   "Price for 100 - 299": 34.88,
+   "Price for 300 - 499": 32.08,
+   "Price for 500 - 699": 29.51,
+   "Price for 700 - 899": 27.44,
+   "Price for 900 - 999": 25.52,
+   "Price for 1000 above": 23.73,
+   "Printing Cost - Silkscreen": 1.5,
+   "Printing Cost - Pad Print": 1.6,
+   "Printing Cost - UV Print": 5,
+   "Printing Cost - UV Sticker": 1.9,
+   "Printing Cost - Engraving": 3.5,
+   "Image URL": "public/images/placeholder.jpg",
+   "variants": [
+    {
+     "variant": "default",
+     "image": "public/images/placeholder.jpg"
+    }
+   ]
+  },
+  {
+   "Product Code": "UM03",
+   "Category": "Umbrella",
+   "Name": "Auto Umbrella",
+   "Material": "Taffeta",
+   "Size (cm)": "90 cm",
+   "Weight": 458,
+   "Function / Feature": "Eva straight handle, auto",
+   "Printing Type": "Silk-screen",
+   "Colour Options": "Red, Royal-Blue",
+   "Printing Area (cm)": "12 × 8 (inch)",
+   "Price for 100 - 299": 32.63,
+   "Price for 300 - 499": 30.01,
+   "Price for 500 - 699": 27.61,
+   "Price for 700 - 899": 25.68,
+   "Price for 900 - 999": 23.88,
+   "Price for 1000 above": 22.21,
+   "Printing Cost - Silkscreen": 1.5,
+   "Printing Cost - Pad Print": 1.6,
+   "Printing Cost - UV Print": 5,
+   "Printing Cost - UV Sticker": 1.9,
+   "Printing Cost - Engraving": 3.5,
+   "Image URL": "public/images/placeholder.jpg",
+   "variants": [
+    {
+     "variant": "default",
+     "image": "public/images/placeholder.jpg"
+    }
+   ]
+  },
+  {
+   "Product Code": "UM04",
+   "Category": "Umbrella",
+   "Name": "Auto Umbrella",
+   "Material": "Polyester",
+   "Size (cm)": "81 cm",
+   "Weight": 325,
+   "Function / Feature": "Crook handle, auto",
+   "Printing Type": "Silk-screen",
+   "Colour Options": "Maroon, Orange, Lime-Green, Magenta, Purple, Royal-Blue, Navy, Black, Yellow, Red",
+   "Printing Area (cm)": "10 × 7 (inch)",
+   "Price for 100 - 299": 22.5,
+   "Price for 300 - 499": 20.7,
+   "Price for 500 - 699": 19.04,
+   "Price for 700 - 899": 17.7,
+   "Price for 900 - 999": 16.46,
+   "Price for 1000 above": 15.31,
+   "Printing Cost - Silkscreen": 1.5,
+   "Printing Cost - Pad Print": 1.6,
+   "Printing Cost - UV Print": 5,
+   "Printing Cost - UV Sticker": 1.9,
+   "Printing Cost - Engraving": 3.5,
+   "Image URL": "public/images/placeholder.jpg",
+   "variants": [
+    {
+     "variant": "default",
+     "image": "public/images/placeholder.jpg"
+    }
+   ]
+  },
+  {
+   "Product Code": "UM05",
+   "Category": "Umbrella",
+   "Name": "3-Fold Manual",
+   "Material": "Polyester + silver",
+   "Size (cm)": "25 cm",
+   "Weight": 258,
+   "Function / Feature": "Straight handle, manual",
+   "Printing Type": "Silk-screen",
+   "Colour Options": "Red, Royal-Blue",
+   "Printing Area (cm)": "8.5 × 6 (inch)",
+   "Price for 100 - 299": 25.88,
+   "Price for 300 - 499": 23.8,
+   "Price for 500 - 699": 21.9,
+   "Price for 700 - 899": 20.37,
+   "Price for 900 - 999": 18.94,
+   "Price for 1000 above": 17.61,
+   "Printing Cost - Silkscreen": 1.5,
+   "Printing Cost - Pad Print": 1.6,
+   "Printing Cost - UV Print": 5,
+   "Printing Cost - UV Sticker": 1.9,
+   "Printing Cost - Engraving": 3.5,
+   "Image URL": "public/images/placeholder.jpg",
+   "variants": [
+    {
+     "variant": "default",
+     "image": "public/images/placeholder.jpg"
+    }
+   ]
+  },
+  {
+   "Product Code": "UM07",
+   "Category": "Umbrella",
+   "Name": "3-Fold Manual",
+   "Material": "Pongee",
+   "Size (cm)": "56 cm",
+   "Weight": 265,
+   "Function / Feature": "Straight handle, manual",
+   "Printing Type": "Silk-screen",
+   "Colour Options": "Royal-Blue, Yellow, Orange, Magenta, Red",
+   "Printing Area (cm)": "8.5 × 6 (inch)",
+   "Price for 100 - 299": 24.75,
+   "Price for 300 - 499": 22.77,
+   "Price for 500 - 699": 20.95,
+   "Price for 700 - 899": 19.48,
+   "Price for 900 - 999": 18.12,
+   "Price for 1000 above": 16.85,
+   "Printing Cost - Silkscreen": 1.5,
+   "Printing Cost - Pad Print": 1.6,
+   "Printing Cost - UV Print": 5,
+   "Printing Cost - UV Sticker": 1.9,
+   "Printing Cost - Engraving": 3.5,
+   "Image URL": "public/images/placeholder.jpg",
+   "variants": [
+    {
+     "variant": "default",
+     "image": "public/images/placeholder.jpg"
+    }
+   ]
+  },
+  {
+   "Product Code": "UM08",
+   "Category": "Umbrella",
+   "Name": "Inverted Umbrella",
+   "Material": "Pongee",
+   "Size (cm)": "80 cm",
+   "Weight": 252,
+   "Function / Feature": "C-handle, manual",
+   "Printing Type": "Silk-screen",
+   "Colour Options": "Red, Royal-Blue",
+   "Printing Area (cm)": "8.5 × 6 (inch)",
+   "Price for 100 - 299": 55.13,
+   "Price for 300 - 499": 50.71,
+   "Price for 500 - 699": 46.65,
+   "Price for 700 - 899": 43.38,
+   "Price for 900 - 999": 40.35,
+   "Price for 1000 above": 37.52,
+   "Printing Cost - Silkscreen": 1.5,
+   "Printing Cost - Pad Print": 1.6,
+   "Printing Cost - UV Print": 5,
+   "Printing Cost - UV Sticker": 1.9,
+   "Printing Cost - Engraving": 3.5,
+   "Image URL": "public/images/placeholder.jpg",
+   "variants": [
+    {
+     "variant": "default",
+     "image": "public/images/placeholder.jpg"
+    }
+   ]
+  },
+  {
+   "Product Code": "UM09",
+   "Category": "Umbrella",
+   "Name": "Golf Umbrella",
+   "Material": "Polyester",
+   "Size (cm)": "90 cm",
+   "Weight": 555,
+   "Function / Feature": "Eva straight handle, auto",
+   "Printing Type": "Silk-screen",
+   "Colour Options": "Red, Sea-Blue, Orange",
+   "Printing Area (cm)": "12 × 9 (inch)",
+   "Price for 100 - 299": 42.75,
+   "Price for 300 - 499": 39.33,
+   "Price for 500 - 699": 36.18,
+   "Price for 700 - 899": 33.65,
+   "Price for 900 - 999": 31.29,
+   "Price for 1000 above": 29.1,
+   "Printing Cost - Silkscreen": 1.5,
+   "Printing Cost - Pad Print": 1.6,
+   "Printing Cost - UV Print": 5,
+   "Printing Cost - UV Sticker": 1.9,
+   "Printing Cost - Engraving": 3.5,
+   "Image URL": "public/images/placeholder.jpg",
+   "variants": [
+    {
+     "variant": "default",
+     "image": "public/images/placeholder.jpg"
+    }
+   ]
+  },
+  {
+   "Product Code": "UM10",
+   "Category": "Umbrella",
+   "Name": "Golf Umbrella",
+   "Material": "Silver-coated",
+   "Size (cm)": "96 cm",
+   "Weight": 555,
+   "Function / Feature": "Eva straight handle, auto",
+   "Printing Type": "Silk-screen",
+   "Colour Options": "Red, Sea-Blue",
+   "Printing Area (cm)": "12 × 9 (inch)",
+   "Price for 100 - 299": 43.88,
+   "Price for 300 - 499": 40.36,
+   "Price for 500 - 699": 37.13,
+   "Price for 700 - 899": 34.53,
+   "Price for 900 - 999": 32.11,
+   "Price for 1000 above": 29.86,
+   "Printing Cost - Silkscreen": 1.5,
+   "Printing Cost - Pad Print": 1.6,
+   "Printing Cost - UV Print": 5,
+   "Printing Cost - UV Sticker": 1.9,
+   "Printing Cost - Engraving": 3.5,
+   "Image URL": "public/images/placeholder.jpg",
+   "variants": [
+    {
+     "variant": "default",
+     "image": "public/images/placeholder.jpg"
+    }
+   ]
+  },
+  {
+   "Product Code": "UM11",
+   "Category": "Umbrella",
+   "Name": "Auto Golf",
+   "Material": "190T Pongee",
+   "Size (cm)": "97.5 cm",
+   "Weight": 583,
+   "Function / Feature": "Straight handle, auto",
+   "Printing Type": "Silk-screen",
+   "Colour Options": "Red, Royal-Blue",
+   "Printing Area (cm)": "8.5 × 6 (inch)",
+   "Price for 100 - 299": 48.38,
+   "Price for 300 - 499": 44.5,
+   "Price for 500 - 699": 40.94,
+   "Price for 700 - 899": 38.07,
+   "Price for 900 - 999": 35.41,
+   "Price for 1000 above": 32.93,
+   "Printing Cost - Silkscreen": 1.5,
+   "Printing Cost - Pad Print": 1.6,
+   "Printing Cost - UV Print": 5,
+   "Printing Cost - UV Sticker": 1.9,
+   "Printing Cost - Engraving": 3.5,
+   "Image URL": "public/images/placeholder.jpg",
+   "variants": [
+    {
+     "variant": "default",
+     "image": "public/images/placeholder.jpg"
+    }
+   ]
+  },
+  {
+   "Product Code": "UM12",
+   "Category": "Umbrella",
+   "Name": "Foldable Auto",
+   "Material": "190T Pongee",
+   "Size (cm)": "77 cm",
+   "Weight": 468,
+   "Function / Feature": "Self-fabric pouch + OPP, auto",
+   "Printing Type": "Silk-screen",
+   "Colour Options": "Black, Red, Orange, Royal-Blue",
+   "Printing Area (cm)": "8.5 × 6 (inch)",
+   "Price for 100 - 299": 43.88,
+   "Price for 300 - 499": 40.36,
+   "Price for 500 - 699": 37.13,
+   "Price for 700 - 899": 34.53,
+   "Price for 900 - 999": 32.11,
+   "Price for 1000 above": 29.86,
+   "Printing Cost - Silkscreen": 1.5,
+   "Printing Cost - Pad Print": 1.6,
+   "Printing Cost - UV Print": 5,
+   "Printing Cost - UV Sticker": 1.9,
+   "Printing Cost - Engraving": 3.5,
+   "Image URL": "public/images/placeholder.jpg",
+   "variants": [
+    {
+     "variant": "default",
+     "image": "public/images/placeholder.jpg"
+    }
+   ]
+  },
+  {
+   "Product Code": "UM13",
+   "Category": "Umbrella",
+   "Name": "Foldable Auto",
+   "Material": "190T Pongee",
+   "Size (cm)": "58 cm",
+   "Weight": 354,
+   "Function / Feature": "Straight handle, auto/close",
+   "Printing Type": "Silk-screen",
+   "Colour Options": "Navy, Black, Red",
+   "Printing Area (cm)": "8.5 × 6 (inch)",
+   "Price for 100 - 299": 34.88,
+   "Price for 300 - 499": 32.08,
+   "Price for 500 - 699": 29.51,
+   "Price for 700 - 899": 27.44,
+   "Price for 900 - 999": 25.52,
+   "Price for 1000 above": 23.73,
+   "Printing Cost - Silkscreen": 1.5,
+   "Printing Cost - Pad Print": 1.6,
+   "Printing Cost - UV Print": 5,
+   "Printing Cost - UV Sticker": 1.9,
+   "Printing Cost - Engraving": 3.5,
+   "Image URL": "public/images/placeholder.jpg",
+   "variants": [
+    {
+     "variant": "default",
+     "image": "public/images/placeholder.jpg"
+    }
+   ]
+  },
+  {
+   "Product Code": "UM14",
+   "Category": "Umbrella",
+   "Name": "Golf Umbrella",
+   "Material": "170T Polyester",
+   "Size (cm)": "96 cm",
+   "Weight": 555,
+   "Function / Feature": "Self-fabric pouch + OPP, auto",
+   "Printing Type": "Silk-screen",
+   "Colour Options": "Navy, Black, Red, Royal-Blue",
+   "Printing Area (cm)": "10 × 7 (inch)",
+   "Price for 100 - 299": 43.88,
+   "Price for 300 - 499": 40.36,
+   "Price for 500 - 699": 37.13,
+   "Price for 700 - 899": 34.53,
+   "Price for 900 - 999": 32.11,
+   "Price for 1000 above": 29.86,
+   "Printing Cost - Silkscreen": 1.5,
+   "Printing Cost - Pad Print": 1.6,
+   "Printing Cost - UV Print": 5,
+   "Printing Cost - UV Sticker": 1.9,
+   "Printing Cost - Engraving": 3.5,
+   "Image URL": "public/images/placeholder.jpg",
+   "variants": [
+    {
+     "variant": "default",
+     "image": "public/images/placeholder.jpg"
+    }
+   ]
+  },
+  {
+   "Product Code": "UM15",
+   "Category": "Umbrella",
+   "Name": "Golf Umbrella",
+   "Material": "190T black-coated",
+   "Size (cm)": "94 cm",
+   "Weight": 604,
+   "Function / Feature": "Full fibre shaft, auto",
+   "Printing Type": "Silk-screen",
+   "Colour Options": "Navy, Black, Royal-Blue, Red",
+   "Printing Area (cm)": "12 × 8 (inch)",
+   "Price for 100 - 299": 54,
+   "Price for 300 - 499": 49.68,
+   "Price for 500 - 699": 45.75,
+   "Price for 700 - 899": 42.55,
+   "Price for 900 - 999": 39.57,
+   "Price for 1000 above": 36.8,
+   "Printing Cost - Silkscreen": 1.5,
+   "Printing Cost - Pad Print": 1.6,
+   "Printing Cost - UV Print": 5,
+   "Printing Cost - UV Sticker": 1.9,
+   "Printing Cost - Engraving": 3.5,
+   "Image URL": "public/images/placeholder.jpg",
+   "variants": [
+    {
+     "variant": "default",
+     "image": "public/images/placeholder.jpg"
+    }
+   ]
+  },
+  {
+   "Product Code": "UM16",
+   "Category": "Umbrella",
+   "Name": "Auto J-handle",
+   "Material": "190T black-coated",
+   "Size (cm)": "84 cm",
+   "Weight": 354,
+   "Function / Feature": "J-handle, auto",
+   "Printing Type": "Silk-screen",
+   "Colour Options": "Navy, Black, Red",
+   "Printing Area (cm)": "12 × 9 (inch)",
+   "Price for 100 - 299": 56.25,
+   "Price for 300 - 499": 51.75,
+   "Price for 500 - 699": 47.61,
+   "Price for 700 - 899": 44.3,
+   "Price for 900 - 999": 41,
+   "Price for 1000 above": 38,
+   "Image URL": "public/images/placeholder.jpg",
+   "variants": [
+    {
+     "variant": "default",
+     "image": "public/images/placeholder.jpg"
+    }
+   ]
+  }
+ ]
+}

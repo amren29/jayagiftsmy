@@ -5,7 +5,7 @@
     "slug": "bags",
     "description": "Corporate bags including tote bags, backpacks, and messenger bags",
     "icon": "👜",
-    "productCount": 38
+    "productCount": 112
   },
   {
     "id": "notebooks",
@@ -13,7 +13,7 @@
     "slug": "notebooks",
     "description": "Professional notebooks and journals for corporate gifting",
     "icon": "📓",
-    "productCount": 31
+    "productCount": 66
   },
   {
     "id": "pens",
@@ -21,15 +21,7 @@
     "slug": "pens",
     "description": "Quality pens and writing instruments",
     "icon": "✒️",
-    "productCount": 24
-  },
-  {
-    "id": "lanyard-&-id",
-    "name": "Lanyard & ID",
-    "slug": "lanyard-id",
-    "description": "Lanyards and ID holders for events and corporate use",
-    "icon": "🎫",
-    "productCount": 23
+    "productCount": 56
   },
   {
     "id": "accessories",
@@ -37,23 +29,7 @@
     "slug": "accessories",
     "description": "Corporate accessories and gift items",
     "icon": "🎁",
-    "productCount": 20
-  },
-  {
-    "id": "electronic",
-    "name": "Electronic",
-    "slug": "electronic",
-    "description": "Tech gadgets and electronic corporate gifts",
-    "icon": "📱",
-    "productCount": 15
-  },
-  {
-    "id": "umbrella",
-    "name": "Umbrella",
-    "slug": "umbrella",
-    "description": "Corporate umbrellas for promotional use",
-    "icon": "☂️",
-    "productCount": 15
+    "productCount": 64
   },
   {
     "id": "vacuum-flask",
@@ -61,7 +37,7 @@
     "slug": "vacuum-flask",
     "description": "Insulated vacuum flasks and tumblers",
     "icon": "🧉",
-    "productCount": 15
+    "productCount": 52
   },
   {
     "id": "bottles",
@@ -69,6 +45,30 @@
     "slug": "bottles",
     "description": "Water bottles and drinkware",
     "icon": "🍶",
-    "productCount": 4
+    "productCount": 33
+  },
+  {
+    "id": "electronic",
+    "name": "Electronic",
+    "slug": "electronic",
+    "description": "Tech gadgets and electronic corporate gifts",
+    "icon": "📱",
+    "productCount": 24
+  },
+  {
+    "id": "umbrella",
+    "name": "Umbrella",
+    "slug": "umbrella",
+    "description": "Corporate umbrellas for promotional use",
+    "icon": "☂️",
+    "productCount": 20
+  },
+  {
+    "id": "lanyard-&-id",
+    "name": "Lanyard & ID",
+    "slug": "lanyard-id",
+    "description": "Lanyards and ID holders for events and corporate use",
+    "icon": "🎫",
+    "productCount": 17
   }
 ]

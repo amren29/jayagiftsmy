@@ -31,38 +31,72 @@ const PRODUCT_SYNONYMS: Record<string, string[]> = {
   'bottle': ['flask', 'vacuum bottle', 'water bottle', 'drink bottle'],
   'tumbler': ['mug', 'cup', 'travel mug'],
   'cup': ['mug', 'tumbler', 'coffee cup'],
-  
+  'thermos': ['flask', 'vacuum flask', 'vacuum bottle'],
+
   // Bags
   'bag': ['tote', 'backpack', 'carry bag', 'shopping bag', 'laptop bag'],
   'tote': ['bag', 'tote bag', 'carry bag', 'shopping bag'],
   'backpack': ['bag', 'laptop bag', 'carry bag'],
   'jute': ['jute bag', 'eco bag', 'natural bag'],
-  
+  'messenger': ['messenger bag', 'shoulder bag'],
+  'pouch': ['bag', 'small bag', 'carry pouch'],
+
   // Stationery
   'notebook': ['journal', 'notepad', 'diary', 'writing pad'],
   'pen': ['ballpoint', 'writing pen', 'stylus'],
   'journal': ['notebook', 'diary', 'writing pad'],
-  
+  'stationery': ['pen', 'notebook', 'writing'],
+
   // Materials
   'steel': ['stainless steel', 'metal', 'stainless'],
+  'stainless': ['stainless steel', 'steel', 'metal'],
+  'metal': ['steel', 'stainless steel', 'aluminium'],
   'bamboo': ['eco', 'sustainable', 'natural'],
   'eco': ['sustainable', 'green', 'bamboo', 'recycled'],
+  'plastic': ['pp', 'polypropylene'],
+  'pp': ['plastic', 'polypropylene'],
+  'canvas': ['fabric', 'cloth'],
+  'nylon': ['fabric', 'synthetic'],
+  'oxford': ['fabric', 'nylon'],
+  'polyester': ['fabric', 'synthetic'],
+  'cotton': ['fabric', 'natural'],
+  'leather': ['pu', 'synthetic leather', 'pu leather'],
+
+  // Electronics
+  'usb': ['flash drive', 'thumb drive', 'pendrive'],
+  'powerbank': ['power bank', 'portable charger'],
+  'gadget': ['electronic', 'tech'],
+
+  // Accessories
+  'lanyard': ['strap', 'id holder'],
+  'keychain': ['key ring', 'key holder'],
+  'umbrella': ['parasol', 'rain cover'],
 }
 
 // SKU abbreviation patterns - more restrictive for exact matches
 const SKU_PATTERNS: Record<string, string[]> = {
-  'AM': ['automug'],
-  'NB': ['notebook'],
+  'AM': ['bottle'],
+  'BP': ['bag'],
+  'CB': ['notebook'],
+  'CE': ['ceramic'],
+  'CR': ['crystal'],
+  'EC': ['electronic'],
+  'HL': ['holder'],
+  'ID': ['id card'],
+  'JB': ['notebook'],
+  'LD': ['lanyard'],
+  'LT': ['light'],
+  'MB': ['bag'],
+  'NW': ['notebook'],
+  'PP': ['pen'],
+  'PR': ['pen'],
+  'PS': ['power'],
+  'SA': ['bag'],
+  'SB': ['bag'],
+  'TL': ['flask', 'tumbler'],
+  'TR': ['flask', 'tumbler'],
+  'UM': ['umbrella'],
   'VF': ['vacuum flask'],
-  'JB': ['jute bag'],
-  'NW': ['non-woven'],
-  'CB': ['canvas bag'],
-  'EC': ['eco-friendly'],
-  'BP': ['backpack'],
-  'MB': ['messenger bag'],
-  'MUG': ['mug'],
-  'BAG': ['tote bag', 'shopping bag'],
-  'PEN': ['pen'],
 }
 
 interface SearchResult {
@@ -89,22 +123,29 @@ interface SearchResponse {
   }
 }
 
-function calculateSearchScore(product: Product, searchTerm: string): SearchResult {
+function calculateSearchScore(product: Product, searchTerm: string, categories: Category[]): SearchResult {
   const term = searchTerm.toLowerCase().trim()
-  if (!term || term.length < 2) return { score: 0, matchType: 'exact' }
+  if (!term || term.length < 1) return { score: 0, matchType: 'exact' }
 
   const name = product.name.toLowerCase()
   const sku = product.sku.toLowerCase()
   const description = product.description.toLowerCase()
+  const shortDescription = product.shortDescription?.toLowerCase() || ''
   const tags = product.tags?.map(tag => tag.toLowerCase()) || []
+
+  // Get material, size, and other specifications
+  const material = product.specifications?.material?.toLowerCase() || ''
+  const size = product.specifications?.size?.toLowerCase() || ''
+  const printingType = product.specifications?.printingType?.toLowerCase() || ''
+  const features = product.specifications?.features?.toLowerCase() || ''
+
+  // Get category name
+  const category = categories.find(c => c.id === product.categoryId)
+  const categoryName = category?.name.toLowerCase() || ''
+  const categorySlug = category?.slug.toLowerCase() || ''
 
   // Detect if this looks like an exact search (SKU pattern only)
   const isExactSearch = /^[A-Z]{2,4}\d+$/i.test(term)
-
-  // Debug logging for testing
-  if (term === 'ba' && name.includes('bag')) {
-    console.log('Debug search:', { term, name, sku, isExactSearch })
-  }
 
   // 1. EXACT matches (highest priority)
   // Perfect SKU match
@@ -117,7 +158,7 @@ function calculateSearchScore(product: Product, searchTerm: string): SearchResul
     return { score: 1.0, matchType: 'exact' }
   }
 
-  // For exact search mode, be very strict
+  // For exact search mode, be very strict (SKU searches)
   if (isExactSearch) {
     // Only allow exact SKU matches for SKU-like queries
     if (sku.includes(term)) {
@@ -128,25 +169,59 @@ function calculateSearchScore(product: Product, searchTerm: string): SearchResul
   }
 
   // 2. High-priority matches for non-exact searches
+  // Name matches
   if (name.includes(term)) {
     const exactMatch = name.startsWith(term)
     return { score: exactMatch ? 0.9 : 0.8, matchType: 'exact' }
   }
 
+  // SKU matches
   if (sku.includes(term)) {
     return { score: 0.85, matchType: 'sku' }
   }
 
-  // 3. Partial name word matching - for progressive search like "ba" -> "bag"
+  // Material matches (high priority)
+  if (material && material.includes(term)) {
+    const exactMatch = material === term || material.startsWith(term)
+    return { score: exactMatch ? 0.82 : 0.75, matchType: 'exact' }
+  }
+
+  // Category matches
+  if (categoryName.includes(term) || categorySlug.includes(term)) {
+    const exactMatch = categoryName === term || categorySlug === term
+    return { score: exactMatch ? 0.8 : 0.72, matchType: 'exact' }
+  }
+
+  // 3. Partial word matching - for progressive search like "ba" -> "bag", "ste" -> "steel"
   const nameWords = name.split(/\s+|-/)
   for (const word of nameWords) {
     const wordLower = word.toLowerCase()
-    if (wordLower.startsWith(term) && term.length >= 2) {
+    if (wordLower.startsWith(term) && term.length >= 1) {
       const matchQuality = term.length / wordLower.length
       return { score: 0.75 * matchQuality, matchType: 'partial' }
     }
   }
-  
+
+  // Check material words
+  if (material) {
+    const materialWords = material.split(/\s+|-/)
+    for (const word of materialWords) {
+      if (word.startsWith(term) && term.length >= 2) {
+        const matchQuality = term.length / word.length
+        return { score: 0.7 * matchQuality, matchType: 'partial' }
+      }
+    }
+  }
+
+  // Check category words
+  const categoryWords = categoryName.split(/\s+|-/)
+  for (const word of categoryWords) {
+    if (word.startsWith(term) && term.length >= 2) {
+      const matchQuality = term.length / word.length
+      return { score: 0.68 * matchQuality, matchType: 'partial' }
+    }
+  }
+
   // 4. SKU abbreviation matching
   const skuPrefix = sku.split('-')[0]
   if (SKU_PATTERNS[term.toUpperCase()]) {
@@ -170,83 +245,107 @@ function calculateSearchScore(product: Product, searchTerm: string): SearchResul
     }
   }
 
-  // 6. Synonym matching - more restrictive and category-aware
+  // 6. Short description matches
+  if (shortDescription && shortDescription.includes(term)) {
+    const wordBoundaryRegex = new RegExp(`\\b${term}`, 'i')
+    if (wordBoundaryRegex.test(shortDescription)) {
+      return { score: 0.55, matchType: 'description' }
+    }
+  }
+
+  // 7. Synonym matching - more restrictive and category-aware
   for (const [key, synonyms] of Object.entries(PRODUCT_SYNONYMS)) {
     // Only match if the term exactly matches the key or synonym
     if (key === term) {
-      if (synonyms.some(synonym => name.includes(synonym))) {
+      if (synonyms.some(synonym => name.includes(synonym) || material.includes(synonym))) {
         return { score: 0.5, matchType: 'synonym' }
       }
     }
 
     for (const synonym of synonyms) {
       if (synonym === term) {
-        if (name.includes(key)) {
+        if (name.includes(key) || material.includes(key)) {
           return { score: 0.45, matchType: 'synonym' }
         }
       }
     }
   }
-  
-  // 7. Description matching - much more restrictive
-  if (description.includes(term) && term.length >= 4) {
+
+  // 8. Size/dimension matches
+  if (size && size.includes(term)) {
+    return { score: 0.4, matchType: 'description' }
+  }
+
+  // 9. Printing type matches
+  if (printingType && printingType.includes(term)) {
+    return { score: 0.38, matchType: 'description' }
+  }
+
+  // 10. Features matches
+  if (features && features.includes(term)) {
+    return { score: 0.35, matchType: 'description' }
+  }
+
+  // 11. Description matching - much more restrictive
+  if (description.includes(term) && term.length >= 3) {
     // Require word boundaries for description matches
-    const wordBoundaryRegex = new RegExp(`\\b${term}\\b`, 'i')
+    const wordBoundaryRegex = new RegExp(`\\b${term}`, 'i')
     if (wordBoundaryRegex.test(description)) {
-      // Check if it's a meaningful product feature, not just filler text
-      const contextWords = ['material', 'size', 'feature', 'quality', 'branded', 'custom', 'professional']
-      const termIndex = description.indexOf(term)
-      const contextBefore = description.substring(Math.max(0, termIndex - 30), termIndex)
-      const contextAfter = description.substring(termIndex + term.length, termIndex + term.length + 30)
-
-      const hasContext = contextWords.some(word =>
-        contextBefore.includes(word) || contextAfter.includes(word)
-      ) || termIndex < 30 // Very early in description
-
-      if (hasContext) {
-        return { score: 0.25, matchType: 'description' }
-      }
+      return { score: 0.25, matchType: 'description' }
     }
   }
-  
+
   return { score: 0, matchType: 'exact' }
 }
 
 // Generate search suggestions based on partial matches
-function generateSearchSuggestions(query: string, products: Product[]): string[] {
+function generateSearchSuggestions(query: string, products: Product[], categories: Category[]): string[] {
   const suggestions = new Set<string>()
   const term = query.toLowerCase().trim()
-  
+
   if (term.length < 2) return []
-  
+
+  // Add category suggestions
+  categories.forEach(category => {
+    const categoryName = category.name.toLowerCase()
+    if (categoryName.startsWith(term) || categoryName.includes(term)) {
+      suggestions.add(category.name)
+    }
+  })
+
+  // Add material suggestions from products
+  const materials = new Set<string>()
+  products.forEach(product => {
+    const material = product.specifications?.material?.toLowerCase()
+    if (material && (material.startsWith(term) || material.includes(term))) {
+      materials.add(product.specifications?.material || '')
+    }
+  })
+  Array.from(materials).slice(0, 3).forEach(m => suggestions.add(m))
+
   // Add synonyms as suggestions
   for (const [key, synonyms] of Object.entries(PRODUCT_SYNONYMS)) {
     if (key.startsWith(term)) {
       suggestions.add(key)
-      synonyms.forEach(syn => {
-        if (syn.startsWith(term)) suggestions.add(syn)
-      })
     }
+    synonyms.forEach(syn => {
+      if (syn.startsWith(term)) suggestions.add(syn)
+    })
   }
-  
+
   // Add product names that partially match
-  products.forEach(product => {
+  products.slice(0, 50).forEach(product => {
     const name = product.name.toLowerCase()
     const words = name.split(/\s+|-/)
-    
+
     words.forEach(word => {
-      if (word.startsWith(term) && word !== term) {
+      if (word.startsWith(term) && word !== term && word.length > 2) {
         suggestions.add(word)
       }
     })
-    
-    // Add exact product names if they contain the term
-    if (name.includes(term) && !name.startsWith(term)) {
-      suggestions.add(product.name)
-    }
   })
-  
-  return Array.from(suggestions).slice(0, 5)
+
+  return Array.from(suggestions).slice(0, 6)
 }
 
 // Create comprehensive search response with JSON formatting
@@ -258,7 +357,7 @@ function createSearchResponse(
   executionStart: number
 ): SearchResponse {
   const executionTime = performance.now() - executionStart
-  const suggestions = generateSearchSuggestions(query, allProducts)
+  const suggestions = generateSearchSuggestions(query, allProducts, categories)
   
   // Calculate category distribution
   const categoryCount = new Map<string, number>()
@@ -296,15 +395,19 @@ function createSearchResponse(
   
   // Create detailed results with matched fields
   const results = products.map(product => {
-    const searchResult = calculateSearchScore(product, query)
+    const searchResult = calculateSearchScore(product, query, categories)
     const matchedFields: string[] = []
     const term = query.toLowerCase().trim()
-    
+
     // Determine which fields matched
     if (product.name.toLowerCase().includes(term)) matchedFields.push('name')
     if (product.sku.toLowerCase().includes(term)) matchedFields.push('sku')
     if (product.description.toLowerCase().includes(term)) matchedFields.push('description')
     if (product.tags?.some(tag => tag.toLowerCase().includes(term))) matchedFields.push('tags')
+    if (product.specifications?.material?.toLowerCase().includes(term)) matchedFields.push('material')
+
+    const category = categories.find(c => c.id === product.categoryId)
+    if (category?.name.toLowerCase().includes(term)) matchedFields.push('category')
     
     // Create snippet from description
     const description = product.description.toLowerCase()
@@ -371,7 +474,7 @@ export function ProductCatalog({ searchParams }: ProductCatalogProps) {
 
       // Search filter with advanced matching
       if (filters.search) {
-        const searchResult = calculateSearchScore(product, filters.search)
+        const searchResult = calculateSearchScore(product, filters.search, categories)
 
         // Set minimum score threshold based on search type
         const searchTerm = filters.search.trim()
@@ -632,7 +735,7 @@ export function ProductCatalog({ searchParams }: ProductCatalogProps) {
                 <Search className="absolute left-3 top-1/2 transform -translate-y-1/2 text-gray-400 h-4 w-4" />
                 <Input
                   type="text"
-                  placeholder="Search by name, SKU or keywords..."
+                  placeholder="Search by code, material, name, category..."
                   value={filters.search}
                   onChange={(e) => updateFilters({ search: e.target.value })}
                   className="pl-10 w-64 bg-white border-gray-200 shadow-sm"
@@ -789,22 +892,79 @@ export function ProductCatalog({ searchParams }: ProductCatalogProps) {
                         >
                           Previous
                         </Button>
-                        
-                        {Array.from({ length: totalPages }, (_, i) => i + 1).map((page) => (
-                          <Button
-                            key={page}
-                            variant={currentPage === page ? 'default' : 'outline'}
-                            onClick={() => setCurrentPage(page)}
-                            className={`w-10 ${
-                              currentPage === page 
-                                ? 'bg-primary text-white hover:bg-primary/90' 
-                                : 'hover:bg-gray-50'
-                            }`}
-                          >
-                            {page}
-                          </Button>
-                        ))}
-                        
+
+                        {(() => {
+                          const pageNumbers: (number | string)[] = []
+                          const maxVisible = 7 // Maximum page buttons to show
+
+                          if (totalPages <= maxVisible) {
+                            // Show all pages if total is small
+                            for (let i = 1; i <= totalPages; i++) {
+                              pageNumbers.push(i)
+                            }
+                          } else {
+                            // Always show first page
+                            pageNumbers.push(1)
+
+                            // Calculate range around current page
+                            let startPage = Math.max(2, currentPage - 1)
+                            let endPage = Math.min(totalPages - 1, currentPage + 1)
+
+                            // Adjust if current page is near the start
+                            if (currentPage <= 3) {
+                              endPage = Math.min(totalPages - 1, 4)
+                            }
+
+                            // Adjust if current page is near the end
+                            if (currentPage >= totalPages - 2) {
+                              startPage = Math.max(2, totalPages - 3)
+                            }
+
+                            // Add ellipsis after first page if needed
+                            if (startPage > 2) {
+                              pageNumbers.push('...')
+                            }
+
+                            // Add middle pages
+                            for (let i = startPage; i <= endPage; i++) {
+                              pageNumbers.push(i)
+                            }
+
+                            // Add ellipsis before last page if needed
+                            if (endPage < totalPages - 1) {
+                              pageNumbers.push('...')
+                            }
+
+                            // Always show last page
+                            pageNumbers.push(totalPages)
+                          }
+
+                          return pageNumbers.map((page, index) => {
+                            if (page === '...') {
+                              return (
+                                <span key={`ellipsis-${index}`} className="px-3 py-2 text-gray-400">
+                                  ...
+                                </span>
+                              )
+                            }
+
+                            return (
+                              <Button
+                                key={page}
+                                variant={currentPage === page ? 'default' : 'outline'}
+                                onClick={() => setCurrentPage(page as number)}
+                                className={`w-10 ${
+                                  currentPage === page
+                                    ? 'bg-primary text-white hover:bg-primary/90'
+                                    : 'hover:bg-gray-50'
+                                }`}
+                              >
+                                {page}
+                              </Button>
+                            )
+                          })
+                        })()}
+
                         <Button
                           variant="outline"
                           onClick={() => setCurrentPage(prev => Math.min(totalPages, prev + 1))}
